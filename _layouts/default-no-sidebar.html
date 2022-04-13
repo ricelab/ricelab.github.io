@@ -1,0 +1,25 @@
+{% include header.html %}
+<!-- Main -->
+	<section class="wrapper style1">
+		<div class="container">
+			<div id="content">
+
+				<!-- Content -->
+			
+					<article>
+						<header>
+							<h2>{{ page.title }}</h2>
+							<p>{{ page.subtitle }}</p>
+						</header>
+						{% if page.featured %}
+						<span class="image featured"><img src="{{ page.featured | prepend:site.baseurl }}" alt="" /></span>
+						{% endif %}
+						
+						{{ content }}
+					</article>
+		
+			</div>
+		</div>
+	</section>
+
+{% include footer.html %}	

@@ -1,0 +1,34 @@
+---
+title: Interaction Design for 2020
+layout: post
+type: blog
+---
+
+I was kindly invited by Scott Bateman and Julie Maitland to give a talk at [NextGenUX](https://www.nextgenux.ca/), which was held on April 19-20 at the University of Fredricton. This was an interesting "academia meets industry" conference that had a great set of international speakers (Julie Williamson, Bart Knijnenburg, Xing-Dong Yang, Cosmin Munteanu and Rita Orji) giving 30-45 min talks about their work, and a tutorial session the day before where we gave a fast mini-course on UX methods.
+
+My talk discussed some challenges I forsee for UX in the next few years. I track three specific technology trends: internet of things, artificial intelligence and security, and discuss how these present fundamental challenges (and opportunities) to UX. Another thread I weave into this discussion is the importance of carefully and meaningfully think about our values as we design the technologies of tomorrow, otherwise, we will be subject the whim of arbitrarily random written program code.
+
+I make three points in this talk: first, that most technologies coming out of the personal computing revolution of the 80s and 90s were focused on the business value of efficiency; second, I suggest that solely designing with this value in mind is inappropriate in light of how we use technology today (and how we will use it tomorrow!)--that is, at home, with our families and loved ones, etc., demonstrating this through recent events such as the Cambridge Analytica scandal, and simple thought experiments; third, I implore designers to explicitly consider our values as people and as a society in system designs.
+
+I've written about [values in technology design before](http://ricelab.cpsc.ucalgary.ca/blog/2016/values-in-technology-design/), but this was the first time I got a chance to speak about it. To help drive the message about values home, I used some examples from my recent trips to Singapore and Japan to illustrate that while some ideas are reasonable in other places, they do not resonate with our own values. I also used a thought experiment about tracking children to try to drive this point home, distinguishing between what can be done, and what ought to be done, based on the values that we hold. Finally, I tried to hit this message home by talking a bit about the Cambridge Analytica scandal.
+
+I then discuss three challenges that new technologies bring to the fore, namely: (a) we will have difficulty understanding system state when it is distributed, opaque, or interfaceless; (b) that we need new ways of telling the system about ourselves, the context, and our values, and (c) that we need new ways to think about security that account for everyday situations.
+
+To talk about the understanding the system state problem, I talked about a number of benign examples of my everyday life. These included the typical bathroom conundrums, but I also included an anecdote about my recent experiences in Japan. I used these examples to hint at the idea that differences in vocabulary can effectively mean differences in language (and therefore understanding) in many interface designs. I fielded two questions about this in the question period, so I think this idea resonated with the audience.
+
+In talking about explicitly trying to impart values into our designs, I talked about the need to teach self-driving cars about how to kill people. I've loved that sort of attention grabbing phrase, but the idea has been powerful and important. Because the idea seemed to resonate, I spent a bit more time talking about it than I'd intended. I fielded an interesting question about the challenge of dealing with the fact that people have varying values, and how to account for this. My response was that I wasn't sure, but that regardless of this, we still ought to confront that challenge head-on rather than to pretend it wouldn't happen. I mean, it is not unlike an ambiguity in a software engineering context: if you don't address it head on, it's not likely that it will resolve itself anyway.
+
+Finally, I got to talk about everyday security. I didn't really do this idea much justice, as I was short on time, so I spent time instead talking about the case of the 19 year old kid who has been arrested for downloading too many freedom of information request documents off a public webserver. While details are a bit sketchy, one thing that was clear was that: the ease of information access does not reflect how those in charge viewed the sensitivity of the information.
+
+My message was that interaction design will be harder tomorrow than it is today, because wireless connectivity, distributed devices and sensors, and AI obfuscate the function of the "system." My call to action for technologists was to recognize that our system designs are embedded with values, and ensure they are the correct values. My threat was to suggest that ignoring these challenges will not only create unusable systems, but fundamentally dangerous ones.
+
+I neglected to end on a happy note, which was a shame. I meant to point to the work of the others at the conference, which I think really gets at the heart of the idea that we need value-driven design to guide the design of the next generation of technology.
+
+(I had previously given an earlier version of this talk at the [University of the Philippines Los Baños](https://uplb.edu.ph/), kindly hosted by [TJ Monserrat](https://medium.com/@tjmonsi/latest), and have since modified the focus of the talk to focus on values.)
+
+### Additional Reading
+* [Slides for my talk](http://hcitang.org/papers/2018-nextgenux-id-for-2020.pptx)
+* [News](http://www.cbc.ca/news/technology/cambridge-analytica-nix-uk-committee-1.4622879) [articles](http://www.cbc.ca/news/business/facebook-mark-zuckerberg-cambridge-analytica-1.4586659) [about](https://www.cnn.com/2018/03/21/politics/trump-campaign-cambridge-analytica/index.html) [Cambridge](https://www.cnn.com/2018/03/24/europe/raid-cambridge-analytica---intl/index.html) [Analytica](https://www.pcmag.com/feature/360510/9-things-we-learned-from-an-ex-cambridge-analytica-exec) and how their work potentially impacted the 2016 US election.
+* [VOX article by Facebook CEO Mark Zuckerberg's former speech-writer](https://www.vox.com/first-person/2018/4/11/17221344/mark-zuckerberg-facebook-cambridge-analytica)
+* [Moral Machine Project](http://moralmachine.mit.edu/) from MIT.
+* [Some](http://nationalpost.com/news/politics/a-nova-scotia-teen-found-a-big-security-hole-on-a-government-server-should-he-be-jailed-or-rewarded) [news](http://www.cbc.ca/news/canada/nova-scotia/teen-accused-foi-website-resonates-programmers-1.4623757) [articles](https://www.theregister.co.uk/2018/04/18/nova_scotia_teenager_hacking_allegation/) about a 19 year old getting arrested after having downloaded a lot of FOI request documents off a publicly-accessible web server.

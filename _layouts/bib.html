@@ -1,0 +1,31 @@
+---
+# HACK: jekyll-scholar doesn't seem to have site.baseurl, so I've prepended it manually.
+---
+<section id="citation">
+    <a href="{{ '/papers/' | append:entry.key }}">{{ reference }}
+{% if entry.type == "workshop" and entry.editor %}
+	({{ entry.editor }}, Eds.)
+{% endif %}
+({{ entry.type }}).</a><br />
+{% if entry.acceptance %}
+	<small>Acceptance: {{ entry.acceptance }}.</small>
+{% endif %}
+{% if entry.notes %}
+	<small>Notes: {{ entry.notes }}.</small>
+{% endif %}
+{% if entry.acceptance or entry.notes %}
+	<br/>
+{% endif %}
+{% if entry.pdfurl %}
+	<a href="{{ entry.pdfurl }}"><i class="fa fa-file-pdf-o"></i></a>
+{% endif %}
+{% if entry.url %}
+	<a href="{{ entry.url }}"><i class="fa fa-sticky-note-o"></i></a>
+{% endif %}
+{% if entry.videourl %}
+	<a href="{{ entry.videourl }}"><i class="fa fa-film"></i></a>
+{% endif %}
+{% if entry.doi %}
+	<a href="{{ entry.doi }}"><i class="fa fa-external-link"></i></a>
+{% endif %}
+</section>

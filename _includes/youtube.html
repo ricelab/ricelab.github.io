@@ -1,0 +1,9 @@
+{% comment %}
+	 To use: { % include youtube.html src="http://www.youtube.com/embed/lZHnKDP3Xvo?feature=oembed" % }
+Note: remove the space between { and %
+
+{% endcomment %}
+
+<p>
+	<iframe width="100%" src="{{ include.src }}" frameborder="0" allowfullscreen></iframe>
+</p> 

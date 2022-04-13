@@ -1,0 +1,17 @@
+<div id="sidebar">
+	<!-- Sidebar -->
+	<section>
+		<h3>See publications</h3>
+		<ul>
+			<li><a href="{{ '/papers/' | prepend:site.baseurl }}">by Year</a></li>
+			<li><a href="{{ '/papers/byType.html' | prepend:site.baseurl }}">by Publication Type</a></li>
+		</ul>
+		{% unless page.entry.title %}
+			<h3>Jump to...</h3>
+			{% assign latestYear = site.time | date: '%Y' %}
+			{% for year in (2004..latestYear) reversed %}
+			<a href="#{{ year }}">{{ year }}</a>&nbsp;&nbsp;&nbsp;
+			{% endfor %}
+		{% endunless %}
+	</section>
+</div>

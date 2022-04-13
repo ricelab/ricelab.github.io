@@ -1,0 +1,37 @@
+{% include header.html %}
+
+
+<!-- Main -->
+	<section class="wrapper style1">
+		<div class="container">
+			<div class="row double">
+				<div class="4u">
+					{% include person-sidebar.html %}
+				</div>
+				<div class="8u skel-cell-important">
+					<div id="content">
+
+						<!-- Content -->
+					
+							<article>
+								<header>
+									<h2>{{ page.title }}</h2>
+									<p>{{ page.subtitle }}</p>
+								</header>
+{% if page.featured %}						
+								<a href="#" class="image left"><img src="{{ page.featured | prepend:site.baseurl }}" alt="" /></a>
+{% endif %}								
+								{{ content }}
+
+{% if page.bibtexauthor %}
+<h3>Papers</h3>
+{% endif %}
+
+							</article>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>			
+
+{% include footer.html %}

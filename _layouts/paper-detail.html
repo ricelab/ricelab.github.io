@@ -1,0 +1,52 @@
+---
+layout: default-paperlist
+---
+
+<h1 style="margin: 0 0 0.5em 0">{{ page.entry.title }}</h1>
+
+<p style="margin: 0.5em 0 1em 0">
+{% reference page.key %}
+{% if entry.type == "workshop" and entry.editors %}
+	({{ entry.editor }}, Eds.)
+{% endif %}
+{% if page.entry.notes %}
+	<small>Notes: {{ page.entry.notes }}.</small>
+{% endif %}
+{% if page.entry.acceptance %}
+	<small>Acceptance: {{ page.entry.acceptance }}.</small>
+{% endif %}
+</p>
+
+<h2>Abstract</h2>
+<p style="margin: 0.5em 0 1em 0">{{ page.entry.abstract }}</p>
+
+<!--
+{% if page.entry.videourl contains 'youtube' %}
+<h2>Video</h2>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='{{ page.entry.videourl }}' frameborder='0' allowfullscreen></iframe></div>
+{% endif %}
+-->
+
+<h2>Materials</h2>
+<p style="margin: 0.5em 0 1em 0">
+{% if page.entry.pdfurl %}
+	<a href="{{ page.entry.pdfurl }}"><i class="fa fa-file-pdf-o"></i> PDF File ({{ page.entry.pdfurl }})</a><br/>
+{% endif %}
+{% if page.entry.url %}
+	<a href="{{ page.entry.url }}"><i class="fa fa-sticky-note-o"></i> URL ({{ page.entry.url }})</a><br/>
+{% endif %}
+{% if page.entry.videourl %}
+	<a href="{{ page.entry.videourl }}"><i class="fa fa-film"></i> Video ({{ page.entry.videourl }})</a><br/>
+{% endif %}
+{% if page.entry.doi %}
+	<a href="{{ page.entry.doi }}"><i class="fa fa-external-link"></i> DOI ({{ page.entry.doi }})</a><br/>
+{% endif %}
+</p>
+
+{% if page.entry.keywords %}
+<h2>Keywords</h2>
+<p style="margin: 0.5em 0 1em 0">{{ page.entry.keywords }}</p>
+{% endif %}
+
+<h2>BibTeX</h2>
+<p style="font-family: 'Lucida Sans Typewriter', 'Lucida Console', Monaco, 'Bitstream Vera Sans Mono', monospace; font-size: small; background-color: rgb(240,240,240); border: 2px solid; border-color: rgb(222,222,222); border-radius: 5px; margin: 0.5em 0 0 0; line-height: 1em; letter-spacing: 0em">{{ page.entry.bibtex | replace: '  ', '&nbsp;&nbsp;' | newline_to_br }}</p>

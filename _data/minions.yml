@@ -1,0 +1,57 @@
+# Current minions without a webpage
+
+#    ______               __   _____ __            __           __      
+#   / ____/________ _____/ /  / ___// /___  ______/ /__  ____  / /______
+#  / / __/ ___/ __ `/ __  /   \__ \/ __/ / / / __  / _ \/ __ \/ __/ ___/
+# / /_/ / /  / /_/ / /_/ /   ___/ / /_/ /_/ / /_/ /  __/ / / / /_(__  ) 
+# \____/_/   \__,_/\__,_/   /____/\__/\__,_/\__,_/\___/_/ /_/\__/____/  
+
+- name: Amy Hwang
+  year: 2021-
+  type: Post-Doctoral Fellow
+
+- name: Ava Liew
+  year: 2021-
+  projects: Platform Affordances and Misinformation
+  type: PhD Candidate
+
+- name: Karthik Mahedevan
+  year: 2020-
+  projects: Interfaces for Human-Robot Collaboration
+  type: PhD Student
+  url: https://karthikm0.github.io/
+
+- name: Sydney Pratte
+  year: 2018-
+  projects: Empathy Tools and Electronic Fashion
+  type: PhD Candidate
+  url: https://www.sydneypratte.ca/
+
+- name: Terrance Mok
+  year: 2019-
+  projects: Technologies to Support Streamers
+  type: PhD Student
+  url: http://terrancemok.com/
+
+- name: Martin Feick
+  year: 2020-
+  projects: Remote Collaboration
+  type: PhD Student
+  url: http://martinfeick.com/
+
+- name: Warren Park
+  year: 2021-
+  projects: Learning in Mixed Reality
+  type: PhD Student
+
+
+
+#    __  __          __                               __   _____ __            __           __      
+#   / / / /___  ____/ /__  _________ __________ _____/ /  / ___// /___  ______/ /__  ____  / /______
+#  / / / / __ \/ __  / _ \/ ___/ __ `/ ___/ __ `/ __  /   \__ \/ __/ / / / __  / _ \/ __ \/ __/ ___/
+# / /_/ / / / / /_/ /  __/ /  / /_/ / /  / /_/ / /_/ /   ___/ / /_/ /_/ / /_/ /  __/ / / / /_(__  ) 
+# \____/_/ /_/\__,_/\___/_/   \__, /_/   \__,_/\__,_/   /____/\__/\__,_/\__,_/\___/_/ /_/\__/____/  
+#                            /____/                                                                 
+
+
+

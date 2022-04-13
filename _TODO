@@ -1,0 +1,91 @@
+TODO
+-- Header: RICELab Logo or something
+
+DONE
+-- People: populate
+-- Internal Posts
+-- BlogPosts: onespace - missing references
+-- BlogPosts: h2 or bordertop
+-- Homepage: remove blog?
+-- PapersDetail: embed and render video
+-- Blog.index: h2 is in the wrong place
+-- Projects: Populate with images
+-- Homepage: Add About Us; 
+-- Homepage: Interested in world domination
+-- Homepage: Banner image
+-- Projects: populate
+-- Projects: better banner image
+-- Homepage: "Learn More"
+-- Papers: better rendering for workshop
+-- PapersDetail: need fixedfont
+-- Papers: smallfont for acceptance and notes
+-- PapersDetail: better rendering
+-- Multi-Surface Environments
+	* Effective and fluid interaction techniques and applications for collaboration in multi-surface environments
+	* Digital workrooms are places where teams will work and make decisions from in the future. We envision such rooms as being comprised of multiple large-scale interactive surfaces as well as personal devices such as mobile devices, tablets, and laptops. Our interest is in designing interaction techniques and applications for such environments that allow people to work effectively and fluidly with one another. Our intention is to build powerful tools that augment how teams think and operate. Our work in this space is long-running and multi-faceted.
+
+	*Foundational Studies of Collaborative Work.* We have conducted several foundational studies of the ways in which people work and operate with traditional surfaces (e.g. tabletops and whiteboards) in order to extract and understand design requirements for digital counterparts {% cite tang2009supporting tang2008fourlessons tang2006studying %}.
+
+	*Interaction Techniques.* We have also designed many different kinds of interaction techniques, including the now famous Rotate-N-Translate technique, which is a standard interaction technique on most touch surfaces {% cite kruger2005fluid %}, as well as full-body shadow-based interaction techniques {% cite shoemaker2007shadow %}, and we have explored designing gesture-based techniques for interaction in MSEs {% cite seyed2012eliciting %}.
+
+	*Applications.* To ground our explorations, we have also designed several concrete applications. These applications range in terms of domain, and application scenario. For instance, {% cite finke2008lessons tang2008bystanderworkshop tang2008designing %} explore the design and use of publicly accessible displays in public settings, where we designed mobile phone-based interaction techniques for interacting with the public display. We have also studied specific application scenarios, including medical data exploration {% cite seyed2014medical seyed2014exploring %}, brainstorming scenarios with paper-based interaction {% cite pertender2012ideaplayground %}, teaching and learning scenarios where students use devices to interact with large projected displays {% cite lanir2010studentcontrol %}, awareness displays for colleagues {% cite chen2012spalendar %}, oil and gas exploration {% cite seyed2013skyhunter %}, and decision making support for software engineering {% cite aseniero2015stratos aseniero2014thesis %}.
+
+	*Tools for Understanding MSE Use.* To support our studies of how people make use of these tools, we have designed several tools that allow us to visualize and understand _how_ people are making use of the tools, which in turn allows us to design more effective tools for collaboration in MSEs {% cite marquardt2015excite tang2010vistaco %}.
+
+-- Collaborative Visual Analytics
+	* Exploring and making sense of data with others
+	* Many situations involve studying, exploring, and understanding data (and frequently communicating this understanding) with others. We envision digital workrooms that help support these processes. Our goal is to designi tools and interaction techniques that can support this interactive analytic process in such digital workrooms.
+
+	In this project, we have explored the fundamental mechanics of how people go about analyzing information and data {% cite isenberg2013data isenberg2008exploratory %}, particularly given rudimentary tools {% tang2006coupling %}. We have imagined and explored next-generation interactive digital workrooms {% cite tang2011interstitial %}, and have built domain-specific tools to study how people analyze data with such tools {% cite aseniero2015stratos %}. Finally, we have built tools to study _how_ people are analyzing data, and making use of space and tools {% marquardt2015excite tang2010vistaco %}.
+
+-- Pervasive Games and Citizen Science
+	* Physical games in daily life for science
+	* David Fincher's 1997 classic [The Game](http://www.imdb.com/title/tt0119174/) tells the story of a live-action game that permeates his entire existence. This is the inspiration for our interest in pervasive games, which allow participants to play as a part of their everyday lives. [Geocaching](http://geocaching.com), a real-life scavenger hunting game, is perhaps the most successful of these kinds of games, allowing people to play as part of their daily routine {% cite neustaedter2010role %}.
+
+	In this project, we have achieved three major objectives. First, we have studied and analyzed the factors that make geocaching successful {% cite neustaedter2010role %}. Second, we have tried to design our own pervasive games in an attempt to replicate those successes {% cite neustaedter2013creating neustaedter2012mrgames jeffrey2006chasing %}. Finally, with ScienceCaching, we have married the fun, ad hoc nature of Geocaching with the meaningful tasks of citizen science {% cite dunlap2015sciencecaching dunlap2013thesis %}.
+-- Mobile Video Conferencing & Remote Assistance
+	* Next-generation interfaces for mobile video conferencing
+	* Current video conferencing tools were designed with a "talking heads" metaphor -- that is, people sitting in an office or meeting room chatting with other people sitting in an office or meeting room. Yet, mobile devices and mobile networks are now capable of rich, high resolution and high fidelity experiences without the ned to be physically tethered to a desk. In this project, we have been involved in several lines of inquiry: what are new ways that people can have and share experiences in the world {% cite procyk2014sharedgeocaching procy2014sharedgeocachingvideo %}, what are the basic challenges that mobile video conferencing presents to participants {% cite jones2015mobilecamerawork %}, and how can we design effective and enjoyable experiences for mobile video conferencing participants {% cite jones2015mobilevideoconferencing %}.
+
+	We are currently exploring how novel technologies can be designed to enable remote people to provide assistance for physical tasks. Our explorations have included novel interaction techniques for mobile devices, AR, and other techniques.
+-- Interaction Techniques for Mobile Devices
+	* Enhancing input and output capabilities of mobile devices
+	* Although the computing power in mobile devices now far exceeds that which sent man to the moon, the ways in which we interact with these devices is limited by their physical form factor. For instance, before touch screens became cheap and widespread, we were limited to a 12-digit entry on most phones. Today, many of our smallest devices (e.g. a FitBit or a worn sensor) lack meaningful screens for output and/or do not have a meaningful way to input information or data. In this project, we explore how we can extend the input and output capabilities of mobile devices by: leveraging on-board sensor capabilities in novel ways {% cite seyed2014exploring chen2012extending boring2012fatdemo boring2012fat %}, augmenting the output capabilities with in-world projection {% cite weigel2013projectorkit weigel2013focus %}, or by reconsidering how information is tagged in the world {% cite miyaoku2007cband miyaoku2007c %}. For instance, in the FatThumb work {% cite boring2012fatdemo boring2012fat %}, touch screen devices make use of contact size (e.g. using the tip of your thumb vs. your whole thumb) to reinterpret input.
+-- Games
+	* Ethnographic explorations into games and game design
+	* Games are an important piece of the social fabric in our everyday lives. They help us build relationships with one another, and us with a fantasy space to practice working with and competing against others.
+
+	Although not a "core project" for RICELab, we have a continuing interest in games -- and I don't just mean in terms of playing them! -- both in terms of studying how people interact with one another in games (e.g. {% cite tang2012verbal wong2009character neustaedter2010role %}), and in terms of designing engaging experiences {% cite jones2014spherosumo finke2008lessons neustaedter2013creating %}. Our explorations have included physical games {% cite jones2014spherosumo %}, MMORPGs {% cite wong2009character %}, first-person shooters {% cite tang2012verbal %}, and pervasive games {% neustaedter 2010role neustaedter2013creating jeffrey2006chasing %}.
+-- Social Watching of Sports
+	* Latent social activity in sports viewing
+	* People tweet while watching sports. Some of this tweeting is of excitement, some of it is disappointment, and some of it is latent background information. In this work, we explore whether these tweets cn be leveraged to create video highlight reels of a sports match {% cite tang2012epicplay %}. The short answer: yes. The longer answer: mostly yes, if you don't mind getting a few false positives.
+-- Personal Visual Analytics & Personal Informatics
+	* Collecting and analyzing personal data for insight and wellness
+	* We are now awash in data about ourselves -- some of which we collect on our own (e.g. FitBit), others of which are collected by us on our behalf (e.g. [Google Location History](https://www.google.ca/maps/timeline?authuser=0)), and others we are barely aware of being collected (e.g. your energy bill). In this project, we are looking for new ways of collecting this information, exploring this information, and devising ways of understanding this information {% cite huang2015pva carpendale2014pvaworkshop %}. We have explored a variety of application spaces, including personal activity tracking {% cite aseniero2014river %}, physical visualizations {% payne2014physviz %}, and health applications {% rahman2014headaches macleod2013personal polleti2012ecobalance %}.
+
+	We are currently exploring new ways of visualizing this information in ways that address the specific and personal needs of users {% cite aseniero2012deeppersonalization %}, and for communication and interaction with health providers {% macleod2013towards macleod2013patientdata macleod2013personalinformatics %}. To do this, we have partnered with the [Calgary Headache Assessment & Management Program](http://www.albertahealthservices.ca/3672.asp), and are focusing on chronic headaches as a specific application space.
+
+-- Collaborative Augmented Reality
+	* Shared physical experiences augmented with digital information
+	* Advances in consumer-grade technology will soon make augmented reality an everyday reality, where devices track an understand their position and orientation in physical space, and correspondingly update digital information (frequently as overlays) atop this tracking. We are exploring ways of leveraging these affordances for fun and engaging shared experiences. We designed a way to annotate physical space using a pico-projector combined with a tablet device {% cite tang2013annotation %}, and designed a toolkit to prototype these interactions kinds of projector-based interactions {% cite weigel2013projectorkit %}. We have also examined how such interactions could be used for exploring health data {% cite seyed2014medical %}, and for remote physiotherapy {% cite dillman2013remotephysiotherapy %}.
+-- Slit-Tear Video Exploration
+	* Novel metaphor for exploring and understanding video
+	* We explore the use of interactive slit-scanning for the purpose of video exploration. We show how such interactive slits (which we call slit-tears) allow for trivial identification of "interesting" events in video {% cite tang2008exploring tang2009exploring %}. This timeline is interactive, and allows for recovery of the original video frame. We argue that the slit-tear technique can be used to simplify simple computer vision techniques {% cite tang2008activityslittear %}, as the resulting visualizations are simple 2D representations of the original scene. That, and it's pretty wicked cool.
+-- Physiotherapy
+	* Helping the rec sports weekend warrior overcome injury
+	* Many soft tissue injuries are well-suited for physiotherapy intervention -- for instance, overuse of a shoulder, or tweaking a knee, etc. Our interest is in designing tools to support these interventions. In one exploration, we studied how to design tools for remote physiotherapy, where a client can "visit" and work with a physiotherapist via a remote video connection {% cite ledo2013onespace dillman2013remotephysiotherapy %}. We found such "visits" would still need to be augmented with at-home interventions that could support guidance on exercises, where people could be reminded of and guided to perform an exercise properly. We explored several visualization techniques for providing this feedback {% cite tang2015physioathome tang2014physioathome %}.
+-- Technologies for Teaching
+	* Redefining learning through technology
+	* In this series of works, we explore the role of large display and mobile technologies within the context of a university classroom. We explore how multiple displays can be used in ways that go beyond mirroring the display of the presenter {% cite lanir2008multipresenter %}, and how we can blur the lines between learners and instructors by challenging conventional notions of control across shared displays {% cite lanir2010studentcontrol %}. These designs are built from careful studies of how people make use of large displays {% cite tang2009supporting tang2006studying %}. A more recent design explored how sketching could be used as an input mechnism for a large display designed for teaching math {% cite grossauer2012mathsketch %}
+-- Remote Embodiment for Shared Activity
+	* Allowing others to see and understand us
+	* When we interact with others at a distance, we are often limited to a shared artefact (e.g. a document). We can augment this using Skype, adding both voice and audio, though frequently, this is not enough -- it is easy to misunderstand what someone is saying, or lose sight of what the other person is doing with respect to that document. What is missing is an _embodiment_ of the remote collaborator -- that is, we cannot see their bodies, and those bodies' relationship with the shared artefact or space. In this project, we are exploring how different ways of embodying remote participants can help support effective interaction.
+
+	**VideoArms.** Many of our explorations focus on embodying a remote participants' arms and hands in a shared visual workspace (e.g. {% cite genest2013kinectarms yarosh2013almost tang2010threes tang2010expressiveness tang2007videoarms tang2005understanding tang2005awarenessmpg tang2004videoarms %}). Arms are important as they provide a rich means of expressing intent -- both intentionally (e.g. when we explicitly point at things), and unintentionally (e.g. when we are simply working, our arms touch the things we care about). We have designed new ways of capturing and visualizing different characteristics of these arms (e.g. using the Kinect to capture height information {% cite genest2013kinectarms %}), and demonstrated that they can be effective in three-way interaction {% cite tang2010threes %}. We have also explored how the fidelity of the representation can be used for expressive purposes {% cite tang2010expressiveness %}.
+
+	**Children and Video.** In designing systems for supporting interaction between children, we have found that simply showing video of a person's head (for example, through Skype) is frequently not enough. Instead, it is useful to scaffold the interaction, for instance by focusing on interaction with a tabletop {% cite yarosh2013sharetablevideo yarosh2013almost %}, or by allowing for full-body play and interaction with digital objects {% cite cohen2014onespace hunter2014wazaam %}.
+
+	**Bodily Representation.** We have designed several systems to explore how full-body representation can be used for various applications. With OneSpace {% cite ledo2013onespace cohen2014onespace dillman2013remotephysiotherapy ledo2013onespaceworkshop ledo2012onespace %}, we explored high-fidelity video representation, and how that impacts interaction. In a separate project involving art therapy, we explored the use of simple stickman representations to protect the identity of participants {% cite jones2014arttherapy %}.
+-- Mixed Reality Workrooms
+	* Connecting digital workrooms across distance
+	* People that need to work together are not always collocated, and this presents challenges in how they can communicate, function, and collaborate with one another. In this work, we have been exploring mixed-reality workrooms, where a team has mixed presence -- some people are connected via a digital link, while others are physically copresent {% cite tang2005understanding reilly2011toward reilly2010 twinspace %}. In these explorations, we have studied how flexible reconfigurations of the space impact communication patterns {% reilly2015mixedreality reilly2011organicui %}, and how we can enable navigation strategies for virtual spaces {% wu2011tangible %}.

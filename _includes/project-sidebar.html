@@ -1,0 +1,24 @@
+<div id="sidebar">
+
+	<!-- Sidebar -->
+
+		<section>
+			<h3>Current Projects</h3>
+			<ul>
+			  {% for post in site.categories.projects %}
+			    {% if post.tags contains 'active' %}
+			      <li><a href="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</a></li>
+			    {% endif %}
+			  {% endfor %}
+			</ul>
+
+			<h3>Past Projects</h3>
+			<ul>
+			  {% for post in site.categories.projects %}
+			    {% unless post.tags contains 'active' %}
+			      <li><a href="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</a></li>
+			    {% endunless %}
+			  {% endfor %}
+			</ul>
+		</section>
+</div>

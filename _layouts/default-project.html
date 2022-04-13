@@ -1,0 +1,41 @@
+{% include header.html %}
+<style>
+#citation a {
+  color: black;
+  border-bottom: none;
+}
+#citation {
+  margin-bottom: 1em;
+}
+</style>
+
+<!-- Main -->
+	<section class="wrapper style1">
+		<div class="container">
+			<div class="row double">
+				<div class="4u">
+					{% include project-sidebar.html %}
+				</div>
+				<div class="8u skel-cell-important">
+					<div id="content">
+
+						<!-- Content -->
+					
+							<article>
+								<header>
+									<h2>{{ page.title }}</h2>
+									<p>{{ page.subtitle }}</p>
+								</header>
+								{% if page.featured %}
+								<span class="image featured"><img src="{{ page.featured | prepend:site.baseurl }}" alt="" /></span>
+								{% endif %}
+								{{ content }}
+
+							</article>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>			
+
+{% include footer.html %}
