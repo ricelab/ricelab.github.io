@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-05-23T10:14:33+08:00</updated><id>/feed.xml</id><title type="html">RICELab</title><subtitle>RICELab Homepage</subtitle><entry><title type="html">Recruiting PhD Students for 2020</title><link href="/blog/2019/recruiting-for-2020/" rel="alternate" type="text/html" title="Recruiting PhD Students for 2020" /><published>2019-12-07T00:00:00+08:00</published><updated>2019-12-07T00:00:00+08:00</updated><id>/blog/2019/recruiting-for-2020</id><content type="html" xml:base="/blog/2019/recruiting-for-2020/"><![CDATA[<p>RICELab in the Faculty of Information at the University of Toronto is seeking PhD students with a strong interest in HCI/UX research, and a suitable foundation to design, build, and evaluate novel interactive experiences. Current research themes for RICELab include:</p>
+
+<ul>
+  <li>Mixed reality (AR/VR) interfaces and tools for collaboration;</li>
+  <li>Tools for sharing and learning skills, knowledge and cultural practices, and</li>
+  <li>Interfaces sharing experiences.</li>
+</ul>
+
+<p>Qualified applicants would meet one or more of the following conditions:</p>
+
+<ul>
+  <li>Completed a Masters thesis in behavioural, design, or systems aspects of HCI.</li>
+  <li>Interested in pursuing an HCI/UX PhD in an Information School context, building relationships across disciplines.</li>
+  <li>Have literacy/experience in HCI user research (quantitative/qualitative/mixed- methods and analysis), and/or HCI system design.</li>
+  <li>Have a professor working in HCI/UX write a letter of recommendation.</li>
+</ul>
+
+<p>The PhD student will receive full funding through four years (stipends through TA, RA or scholarship), contingent on maintenance of good academic standing.</p>
+
+<p>Interested students should explore Dr Tony Tang’s website to understand the research themes and directions of the lab (http://hcitang.github.io/ * http://ricelab.cpsc.ucalgary.ca/). Please contact Tony for further discussion.</p>
+
+<p>Applications into the program are due by January 15, 2020. https://ischool.utoronto.ca/future-students/apply/phd-apply/</p>
+
+<p>RICELab (Rethinking Interaction Collaboration and Engagement) Lab focuses on designing, building and evaluating novel user experiences for communication and collaboration. We are situated within the Faculty of Information, home to a diverse community of researchers that explore the intersections of information, interaction, culture, and society. We are colocated with the Knowledge Media Design Institute-Semaphore group, which also conducts human-centered research.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[RICELab in the Faculty of Information at the University of Toronto is seeking PhD students with a strong interest in HCI/UX research, and a suitable foundation to design, build, and evaluate novel interactive experiences. Current research themes for RICELab include:]]></summary></entry><entry><title type="html">Electronic Fashion</title><link href="/projects/efashion/" rel="alternate" type="text/html" title="Electronic Fashion" /><published>2019-06-05T00:00:00+08:00</published><updated>2019-06-05T00:00:00+08:00</updated><id>/projects/electronic-fashion</id><content type="html" xml:base="/projects/efashion/"><![CDATA[<figure>
+
+	<img src="/assets/images/project-images/mannequette.png" alt="The mannequette is a prototyping platform for electronic fashion garments. It is used in different ways: (a) in-situ, iterating and deciding upon fabrics at a market; (b) for prototyping light (LED) patterns and sensors on a miniature dress form with fabrics by using the mixer; (c) for integrating a previously prototyped and now completed pattern and sensor interactions into an assembled garment; (d) in a completed garment created in a runway show." width="100%" />
+
+
+<figcaption>
+    The mannequette is a prototyping platform for electronic fashion garments. It is used in different ways: (a) in-situ, iterating and deciding upon fabrics at a market; (b) for prototyping light (LED) patterns and sensors on a miniature dress form with fabrics by using the mixer; (c) for integrating a previously prototyped and now completed pattern and sensor interactions into an assembled garment; (d) in a completed garment created in a runway show.
+</figcaption>
+
+</figure>
+
+<p>Digital tools enable rich new forms of self-expression, and we explore this in the context of electronic fashion.</p>
+
+<p>To enable our work, we design new toolkits for building electronic fashion. This gives designers the ability to access electronic sensors and actuatuators without needing to write computer code <a class="citation" href="#seyed2019mannequette">(Seyed &amp; Tang, 2019)</a>.</p>
+
+<p>We are also interested in how these electronic garments can be used for communicating challenging concepts and ideas.</p>
+
+<h2 id="publications">Publications</h2>
+
+<ol class="bibliography"><li><section id="citation">
+    <a href="/papers/seyed2019mannequette"><span id="seyed2019mannequette">Teddy Seyed and Anthony Tang. (2019). <span style="text-decoration: underline">Mannequette: Understanding and Enabling Collaboration and Creativity on Avant-Garde Fashion-Tech Runways</span>. In <i>DIS 2019: Conference on Designing Interactive Systems 2019</i>, 10 pages.</span>
+
+(conference).</a><br />
+
+	<small>Acceptance: 25% - 100/400.</small>
+
+
+	<small>Notes: Honourable mention (top 2% of all submissions).</small>
+
+
+	<br />
+
+
+	<a href="http://hcitang.org/papers/2019-dis2019-mannequette.pdf "><i class="fa fa-file-pdf-o"></i></a>
+
+
+
+	<a href="http://hcitang.org/papers/2019-dis2019-mannequette.mp4 "><i class="fa fa-film"></i></a>
+
+
+</section><a class="details" href="/papers/seyed2019mannequette/"><!-- --></a></li></ol>]]></content><author><name></name></author><category term="projects" /><category term="active" /><summary type="html"><![CDATA[The mannequette is a prototyping platform for electronic fashion garments. It is used in different ways: (a) in-situ, iterating and deciding upon fabrics at a market; (b) for prototyping light (LED) patterns and sensors on a miniature dress form with fabrics by using the mixer; (c) for integrating a previously prototyped and now completed pattern and sensor interactions into an assembled garment; (d) in a completed garment created in a runway show.]]></summary></entry><entry><title type="html">ILab CHI Club 2018</title><link href="/blog/2018/ilabchiclub2018/" rel="alternate" type="text/html" title="ILab CHI Club 2018" /><published>2018-08-29T00:00:00+08:00</published><updated>2018-08-29T00:00:00+08:00</updated><id>/blog/2018/ilabchiclub2018</id><content type="html" xml:base="/blog/2018/ilabchiclub2018/"><![CDATA[<blockquote>
+  <p>CHI Club is designed as opportunities for CHI authors to get feedback from other members of the lab, and for reviewers to gain experience in reading and providing useful critique for others who are writing.</p>
+</blockquote>
+
+<p>Your writing sucks.</p>
+
+<p>It sucks because you are not the person who is ultimately going to read your writing, and so you do not know what others’ perspectives on your work are – namely, what the blindspots in your writing are. The purpose of a review process is to help show you: (1) what those blindspots are in your own writing so you can improve the writing to cover them, and (2) how obviously glaring blindspots are to you as a reviewer when you are reading someone else’s work. The final “learning objective” of this process is to show you that your writing is never great on the first go, and really great writing happens after iterating on it several times.</p>
+
+<h1 id="ilab-chi-club-2018">ILab CHI Club 2018</h1>
+
+<p>ILab CHI Club 2018 is here to help improve your CHI 2019 submission. As an author, you will also write two reviews of others’ work, and then provide feedback to principal authors in a small meeting. Thus, as an author, you will get feedback from others, alongside of getting the chance to help others. If you are not an author, you are also more than welcome to join in the fun by reviewing others’ work and helping to improve the lab’s output.</p>
+
+<p>We have an aggressive timeline to help you get on track. But, this is not intended to be a “make it or break it” for folks that cannot hit the deadlines – if you can’t make the deadline, you can still contribute reviews (to help in that way); however, you will need to solicit reviews outside of this little “club.”</p>
+
+<h1 id="timeline">Timeline</h1>
+
+<h2 id="phase-1">Phase 1</h2>
+<ul>
+  <li>9/5 Wed (noon): Authors: Submit <strong>only the first page</strong> of your submission to your reviewers (cc your co-authors)</li>
+  <li>9/6 Thu (3pm): Tony’s talk: The First Page
+    <ul>
+      <li>Bring your laptops. We will make a new submission to PCS for your submission.</li>
+    </ul>
+  </li>
+  <li>9/7 Fri (noon): Reviewers: Draft a paragraph about what you expect to see in the full paper based on what you have seen in the introduction. Send this to all the co-authors on the submission. If you can, meet with the first author to discuss your suggestions.
+    <ul>
+      <li>Crucially: make note of what the problem is, the approach, the evaluation, and what the contribution is supposed to be. Tell the authors what factors you’d expect to see in the submission for it to be successful.</li>
+      <li>Authors: consider the reviewers’ feedback, and consider particularly how your introduction sets up certain kinds of expectations (one way or another). If it seems like it’s not matching up with how the rest of the submission will go, this should tell you something. Revise the introduction! (or the rest of your submission)</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="phase-2">Phase 2</h2>
+<ul>
+  <li>9/10 Mon (3pm): Authors: Submit a <strong>complete draft</strong> of your submission to your reviewers. (cc your co-authors)</li>
+  <li>9/10 Mon (4pm): Tony’s talk: Providing a review and feedback</li>
+  <li>9/13 Thu (5pm): Reviewers: send a review back to the authors (cc’ing all authors). Ideally, meet with at least the lead author at this time, too.</li>
+</ul>
+
+<!--
+# Submission Site
+
+This is a real submission site that is used for many conferences. You will need to create an account on the site if you do not have one, and register to author and review submissions.
+
+* [Submission site](https://easychair.org/conferences/?conf=ilabchiclub2016)
+-->
+
+<h1 id="rules">Rules</h1>
+
+<p>The first rule of CHI Club is: you do not talk about CHI Club. The second rule of CHI Club is: you do not talk about CHI Club. (<a href="http://www.diggingforfire.net/fightclub/">Kidding!</a>)</p>
+
+<p>Okay, seriously, here are the rules:</p>
+
+<ol>
+  <li>You need to complete at least <strong>2</strong> reviews for every paper you submit as a first author. If your co-authors can contribute additional reviews, or you want to pass one of those reviews off to a co-author, excellent. But, you should do at least one personally.</li>
+  <li>You adhere to the timeline – particularly for submitting your full draft, and your reviews.</li>
+  <li>You commit as a reviewer to reading drafts of others’ submissions, and working with (and meeting with) the author to improve the work.</li>
+  <li>As an author, your responsibility is to arrange the meeting with your reviewer(s)  to go over the feedback to improve your work.</li>
+</ol>
+
+<h1 id="faq">FAQ</h1>
+
+<ul>
+  <li><strong>I am not a first author. Can I still review submissions?</strong></li>
+</ul>
+
+<p>Absolutely! Just let Tony know.</p>
+
+<ul>
+  <li><strong>I do not know how to provide feedback. What do I do?</strong></li>
+</ul>
+
+<p>Tony will develop a presentation that helps talk you through this issue. Additionally, we will provide a rubric that you can work with you develop your reviewer. Remember that ultimately, you want to provide the author with feedback to help improve their work – the purpose here is not to write an excellent prose review.</p>
+
+<!--
+* **I am a post doc.**
+
+That's not a question, but great. You'll be assigned 4-6 reviews. Thanks for your service.
+-->
+
+<ul>
+  <li><strong>Do I have to do this?</strong></li>
+</ul>
+
+<p>Absolutely not. It is voluntary. That is, unless you’re Tony’s student, in which case, it is mandatory.</p>]]></content><author><name></name></author><category term="internal" /><summary type="html"><![CDATA[CHI Club is designed as opportunities for CHI authors to get feedback from other members of the lab, and for reviewers to gain experience in reading and providing useful critique for others who are writing.]]></summary></entry><entry><title type="html">Writing Reviews for HCI</title><link href="/blog/2018/writing-reviews-for-hci/" rel="alternate" type="text/html" title="Writing Reviews for HCI" /><published>2018-07-17T00:00:00+08:00</published><updated>2018-07-17T00:00:00+08:00</updated><id>/blog/2018/writing-reviews-for-hci</id><content type="html" xml:base="/blog/2018/writing-reviews-for-hci/"><![CDATA[<p>My primary goal in this post is to impart my philosophy on reviewing HCI conference paper submissions. This guides how I think a review ought to be formulated – what are its constituent parts, and what is the role of each part. Thus, a secondary goal is to suggest how a review can be constructed by providing a bit of a template.</p>
+
+<p>As context, I have written and reviewed HCI papers since about 2003 or so. I have received a lot of really great and useful reviews, and I have also received a lot of nasty and not-so-useful reviews. This means I have been heartbroken a lot of times. I have also served on a program committee a few times, which means that as one of the people trying to decide what submissions are accepted as papers, I have been on the “first part of” the receiving end of reviews. In this context, I have seen a lot of good reviews (useful) and also a few not-so-useful reviews.</p>
+
+<h2 id="my-philosophy">My Philosophy</h2>
+
+<ul>
+  <li><strong>A review is a one-direction communiqué from an “expert.”</strong> I always think about the days of Newton, where he would write letters to his contemporaries, and these were the “papers” of the day. Colleagues would write back, offering suggestions and ideas. This was the main form of intellectual exchange of the day: Newton says, “Hey, I think X now, because I did Y and Z, and got R results! What do you think?” And his friend writes back and says, “Yo, X1 makes sense, but X2 totally does not make sense – it’s not supported by R yet. Maybe you can do Z2, and if you got R2, that would help.” These letters and exchanges are about helping one another and “building science” through writing and supporting arguments.</li>
+</ul>
+
+<p>Peer-reviewed conference papers are sort of a “mass-scale” version of this in terms of dissemination. Reviews are, unfortunately, a one-directional communiqué from an “expert.” The one-directional nature means that the author doesn’t really get to do a back-and-forth to clarify problems, and in more recent times, it isn’t clear that the reviewer is always an expert in the space (at least, I rarely feel like I am an expert in most of the things I review).</p>
+
+<p>But, the philosophy should still be the same: the author is saying, “Hey! I think X because I did Y and got result R. What do you think?” And the reviewer is writing back and saying, “Oh yeah, that makes sense,” or “Oh wait, something doesn’t make sense here… Did you think of this?”</p>
+
+<ul>
+  <li>
+    <p><strong>Authors want to make sure they are understood.</strong> One of the most frustrating things as an author is when I feel like the reviewer didn’t understand the paper as I wrote it. To this end, the reviewer should try to make it clear at the outset: “This is how I understood the paper.” This serves as a gut-check for the authors–Did I write it clearly enough for the reviewer to understand?</p>
+  </li>
+  <li>
+    <p><strong>Assume the authors are doing their best: every work likely has some merit.</strong> I think that authors, when they submit something, are trying to submit only because they think the work has merit and ought to be published. To this end, I try to figure out what the main idea was – even if the authors didn’t do a good enough job of articulating it themselves. What was the intended contribution, if it wasn’t stated?</p>
+  </li>
+  <li>
+    <p><strong>Authors have blindspots, but as a reviewer, I have blindspots too.</strong> Invariably, we all have blindspots when we make arguments. To this end our job as a reviewer is to help identify those blindspots for the authors, and how to try to fix the blindspot. That said, I think particularly in HCI, it is important to be open to new ways of doing research, new ways of doing science, and new ways of contributing knowledge. To this end, I try to be open to new approaches to how research can be done, and avoid being too mono-culture in terms of how I think things can/ought to be done.</p>
+  </li>
+  <li>
+    <p><strong>Most HCI research is not Chemistry.</strong> Most HCI research is not going to have results that are as clean as Grade 11 titration experiments/studies. To this end, it is mostly about a well-thought-through and clear argument in a paper. When uncertain, I provide a higher recommendation rather than a lower one. I think on balance, most papers are right around the middle, and over time, what will matter more is whether it contributes to the overall state of knowledge in the research space. In this sense, don’t worry about accepting a few papers that aren’t that strong – over time, the research community will correct that via citations.</p>
+  </li>
+  <li>
+    <p><strong>A paper is an argument. A review is also an argument.</strong> While this is the last bullet in this list, it is actually the most important thing. A paper is an argument, and to this end, it is made up of a set of arguments (where evidence is used to support the argument). If I am arguing in my review that there is a weakness or a problem, this should be saying that there is a problem <em>with the argument</em> in the sense that “<em>the evidence does not support the argument,”</em> or <em>“the evidence is not strong enough to support the argument.</em>” It is important to think about it this way because it helps to make clear what my review is. My review is also an argument – one that others can disagree with, but that I can strengthen by providing evidence or through logic. <em>Why</em> is this a weakness? How do I argue that it is a weakness?</p>
+  </li>
+</ul>
+
+<h2 id="my-template">My Template</h2>
+<ul>
+  <li><strong>Paragraph 1: Demonstrate that I understand what the paper is about.</strong> I try to write this in 4-5 sentences, and it is an attempt to be fact-based. Sentence 1: What is the problem/question the authors are exploring, and what is the motivation? Sentence 2: What is the approach the authors are taking to study the problem/question? Sentence 3: How do they evaluate their approach, or what is the main (set) of findings from the study? Sentence 4: What is the contribution of the work? Sentence 5. Free sentence.</li>
+  <li><strong>Paragraph 2: Describe the primary contribution and strengths of the work.</strong> In a longer one paragraph form, I reiterate what the primary contribution of the work is, and particularly in a stronger submission, I discuss why the contribution is sound given the authors’ arguments (work) as described in the paper. This can sometimes be up to two paragraphs in length, and sometimes will be used to praise the mechanics of the submission, too (e.g. “Yo, the framing of the work is super clever”, or “Wow, the study design is ingenious!”, or “Hot damn, I wish I’d thought of this idea.”).</li>
+  <li><strong>Paragraph 3: Offer a recommendation to the program committee.</strong> First sentence reiterates my recommendation to the committee (accept, reject, etc.). Then, I now build my own mini-essay to support my recommendation. If I am recommending accept, then I reiterate what was in Paragraph 2, and describe why this should be accepted. Otherwise, I briefly state what the weaknesses are (to be elaborated on below).</li>
+  <li><strong>Paragraph 4: Describe each weakness in turn, with recommendations on how to improve it.</strong> To make this legible, sometimes this is done as a set of bullet points, or mini-paragraphs. Remember that this part is about making an argument. If there is something weak in the submission, then it needs to be a weakness in the sense that <em>it does not support the main argument</em> or <em>it does not do a good enough job of supporting the main argument.</em> So, given this is the case, I always try to provide a fix on how to improve the weakness. This is where things get tricky, but the point about the “weakness of the argument” is to try to get away from an opinion (e.g. “well, I didn’t think they talked enough about X” – the question is WHY is it not enough? is that an opinion (i.e. immaterial), or is it because by not talking enough about X, they are actually hindering the argument?). Really think about <em>how can this be improved</em> and offer this up. Doing so makes the review constructive rather than emotionally destructive. Note: if these weaknesses can be fixed in a half day’s worth of work, I consider them to be, something that can be fixed in a revision. These are not something that a submission should be rejected for.</li>
+  <li><strong>Paragraph 5: Describe opportunities for improvement.</strong> Here is where the laundry list of “minor nitpicks” can go. None of these are problems with the argument, but usually smaller things with presentation – typos, problems with the figures, and so on.</li>
+</ul>
+
+<p>Each paragraph in this structure serves a distinct purpose. Para 1 tells the author “This is how I understood your paper.” Para 2 makes the author feel good. Para 3 is mainly for the program committee – it is about what your recommendation is, and why you think it is what it is. Para 4 plays two roles: it serves to support your para 3 recommendation, and also for the authors on how to improve the work. Para 5 is mainly for the perfectionist in you, letting you get things off your chest.</p>
+
+<h2 id="things-to-avoidother-tips">Things to Avoid/Other Tips</h2>
+<ul>
+  <li>Avoid expecting the methods to look exactly like you’d see in a textbook. A textbook example of a method is necessarily a very abstract, simplified study so that for the learner, it is easy to see the main idea how the study/methods are executed. Reality is much messier, and much more difficult to work with. To this end, we need to be more flexible. Avoid making judgements on a submission because its study is not perfect – instead, consider the main argument of the study, and whether the evidence is sufficient to make the case.</li>
+  <li>Avoid ticking off “Accept this paper”, but then providing only a list of problems. This is really difficult for the PC to deal with, because it is unclear what you really mean. To avoid this, if you are arguing to accept the paper, then you really want to back it up with what the strengths or contributions of the paper are.</li>
+  <li>Avoid providing a decision without any supporting evidence. (See above)</li>
+  <li>Avoid providing an opinion that is strictly that – an opinion. A recommendation ought to be based on an argument as to why something is a weakness. Ideally, if there is a weakness, a fix ought to be offered up, too.</li>
+  <li>Sometimes one or a handful of citations is missing; however, this is rarely a cause to reject a paper submission. Reflect carefully on whether the missing reference is actually weakening the argument the authors are making.</li>
+  <li>Focus on the ideas in the paper rather than the writing quality. The ideas are the central point of the idea – often, writing style is a matter of taste.</li>
+  <li>Be aware that there are many ways to “arrive at knowledge” in HCI, and be aware of your own intellectual background. Early on, we tend to think of the world and knowledge mainly from the school of thought from which we were trained; it is difficult to understand other schools of thinking and how these other schools arrive at knowledge, but be aware they exist. Think of this as an ongoing learning opportunity for yourself. For me, I was trained from a quantitative experimental psychology background, so seeing ethnographies and interview studies was really difficult in the beginning.</li>
+</ul>
+
+<p>My thanks to Carman Neustaedter, who offered comments on an earlier draft of this.</p>
+
+<h2 id="resources">Resources</h2>
+<p>Others have written about this before, too.</p>
+<ul>
+  <li>http://mobilehci.acm.org/2015/download/ExcellenceInReviewsforHCICommunity.pdf</li>
+  <li>http://chicourse.acagamic.com/wp-content/uploads/2017/05/How-to-Write-and-Review-CHI-Papers-CHI2017.pdf</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[My primary goal in this post is to impart my philosophy on reviewing HCI conference paper submissions. This guides how I think a review ought to be formulated – what are its constituent parts, and what is the role of each part. Thus, a secondary goal is to suggest how a review can be constructed by providing a bit of a template.]]></summary></entry><entry><title type="html">Mini-Guide to Hong Kong for DIS 2018 Friends</title><link href="/blog/2018/guide-to-hk/" rel="alternate" type="text/html" title="Mini-Guide to Hong Kong for DIS 2018 Friends" /><published>2018-05-04T00:00:00+08:00</published><updated>2018-05-04T00:00:00+08:00</updated><id>/blog/2018/guide-to-hk</id><content type="html" xml:base="/blog/2018/guide-to-hk/"><![CDATA[<p><em>Co-authored by Tony and Tiffany Wun</em></p>
+
+<p>This is a mini-guide to Hong Kong for my friends going to DIS 2018.</p>
+
+<h2 id="some-things-worth-knowing">Some things worth knowing</h2>
+<ul>
+  <li><strong>MTR (subway) is super convenient way to get around.</strong> Most interesting destinations are a short walk from MTR stations. Each MTR station has lettered exits, each of which links to different interesting landmarks. These exits are also sometimes meeting places, “I’ll meet you at Causeway Bay, exit B.” The MTR and bus systems all use the same payment system (<a href="https://www.octopus.com.hk/en/consumer/index.html">Octopus Card</a>). Get one when you land, and load it up with (say) 200 HKD. This should be enough for quite some time.</li>
+  <li>When getting on and off transit, you tap your card (to get on), and tap your card (to get out).</li>
+  <li><strong>Use the CityMapper app to help plan your routes.</strong> This is available for both <a href="https://itunes.apple.com/us/app/citymapper-transit-navigation/id469463298?mt=8">iPhone</a> and <a href="https://play.google.com/store/apps/details?id=com.citymapper.app.release&amp;hl=en">Android</a>, and it is pretty good. It will give you multiple routes from one location to another, understands one-way streets, different modes of transportation, and allows you to plan in advance. I find the estimates on timings are really good.</li>
+</ul>
+
+<h2 id="todo-once-you-get-off-the-plane">TODO Once you get off the plane</h2>
+<ul>
+  <li>Hong Kong airport has a <a href="https://www.hongkongairport.com/en/passenger-guide/airport-facilities-services/shower-facilities">free public shower facility</a>, so feel free to use it if you got off a long flight.</li>
+  <li>Get a SIM card for your phone from 7-11 in the airport. For a week’s stay, you should be able to find a pretty good deal (i.e. a few Gb for your stay) for no more than $15 or $20 CAD. Ask the person behind the counter to help you get it activated on the spot, as the instructions are sometimes not also written English.</li>
+  <li>You can use the ATMs in the airport to withdraw HK$ for your stay (it is likely a better deal than exchanging currency). Rule of thumb is 1 CAD is 6 HKD, so withdraw maybe $50 CAD per day of your visit, plus maybe $50 for MTR usage.</li>
+  <li>From the airport is an <a href="http://www.mtr.com.hk/en/customer/services/airport_express_index.html">Airport Express Service</a> that runs on the MTR system (so you pay for it using Octopus card). This is the cheapest way to get in and out of the city from the airport.</li>
+</ul>
+
+<h2 id="restaurants">Restaurants</h2>
+<ul>
+  <li>My favourite restaurant (I’m cheap) is <a href="http://www.cafedecoral.com/eng/main/index.jsp">Cafè de Coral</a>, and it is essentially “Chinese fast food.” The menu rotates through the day, and there are a ton of places like this. This place is cheap, the food is good, and fairly standardized.</li>
+  <li><a href="http://www.dintaifung.com.hk/shope.php?country=1">Din Tai Fung</a> is a very popular place to eat. One of the locations won a Michelin star at some point, I think. If you go, make sure to get the xiao long bao (soup dumplings).</li>
+  <li><a href="http://www.crystaljade.com.hk/">Crystal Jade</a> is another very popular restaurant, and a go-to for me for their xiao long bao and noodles.</li>
+  <li>In the mornings (i.e. when you’re jetlagged and waking up at 6 or 7 in the morning), you will often find that bakeries or congee houses are open. Do not be afraid of these.
+    <ul>
+      <li>Bakeries are easy – they tons of really awesome pastries (mostly savory!! woo hoo!). The protocol in these is to take a tray and tongs, and select items, putting them onto the tray. Take both to the till, and the person will total it up.</li>
+      <li>Congee houses serve congee (rice porridge). These are all (as far as I know) savoury. My favourite is one called “century egg and pork”, which you will want to order with either fried noodles, <a href="https://en.wikipedia.org/wiki/Youtiao">youtiao</a> (a kind of savory Chinese donut), or <a href="https://en.wikipedia.org/wiki/Rice_noodle_roll">rice noodle roll</a> (often with some kind of savory filling).</li>
+    </ul>
+  </li>
+  <li><a href="http://www.timhowan.hk/">Tim Ho Wan</a> is a cheap and yummy dim sum place. There are a lot of them around Hong Kong.</li>
+  <li>7-11’s in Hong Kong (and Asia in general) actually edible food compared to the “gas-station” ones here – you can get a late night snack or even a full meal if you’re hungry for really, really cheap (Onigiris!)</li>
+  <li>HKers drink “ 奶茶 / lai cha” (aka HK style milk tea) in the morning instead of coffee, which is black tea with evaporated milk added into it. Can be served hot or cold. People judge breakfast places by how good their lai cha is, so you can usually trust it to be good. Lemon iced tea is another good one to have, especially when it’s hot outside.</li>
+  <li>Dessert shops are often open late, and are also really fun to check out; these places usually serve “ 糖水 / tong sui”, which are sweet, soupy desserts. I recommend getting “ 豆腐花 / dau fu fa”, which is a warm tofu pudding with syrup on top.  ”芝麻糊 ”, or black sesame soup, is another good one too.</li>
+</ul>
+
+<h2 id="places-to-visit">Places to Visit</h2>
+<ul>
+  <li><a href="https://en.wikipedia.org/wiki/Causeway_Bay">Causeway Bay</a> is a crazy awesome place to get lost and wander around. This area stays “open” pretty late into the evening. If you find the intersection with Sogo on it, you’re in the right place. Wandering between here and Times Square is fun.</li>
+  <li><a href="https://en.wikipedia.org/wiki/Mong_Kok">Mong Kok</a> is even crazier than Causeway Bay, and has a bunch of street markets in the evening. You’ll find tons of street food and street vendors. It is also insane.</li>
+  <li><a href="http://thehkshopper.com/95273-wan-chai-computer-centre.html">Wan Chai Computer Centre</a> is at Wan Chai. It is crazy awesome.</li>
+</ul>
+
+<h2 id="random-things">Random Things</h2>
+<ul>
+  <li>About 50-60% of the people in Hong Kong also speak English. (maybe more, I just made that number up) The population is also very used to travelers and tourists, since it had long been a “Gateway to the East”, so do not be shy about only speaking English.</li>
+  <li>Hong Kong has two “sides” based on where they are in relation to the Harbour – the South side is “Hong Kong Island”, and the North side (connected to mainland China) is “Kowloon side”. DIS 2018 is on the Kowloon side.</li>
+  <li>If your stomach is a bit weaker (like mine!), it is best to avoid iced/tap water (and also ice cubes in your soda!!). Tea is a common drink, and will come with almost any meal. One strategy (not sure if it is an old wive’s tale) is to drink a yogurt drink each day. Because it is tasty and sweet, I usually drink a <a href="https://en.wikipedia.org/wiki/Yakult">Yakult</a> each day. These are available from any 7-11 for only a few bucks for a pack of four or five.</li>
+  <li>Keep an eye on your stuff. Wallets and phones in front pockets, backpacks zipped to the side, and maybe slung on your front rather than back.</li>
+  <li>A fun thing to do is to hop on a trolley on Hong Kong Island (also called a “ding ding” – probably because of the noise they used to make). This is super cheap, and can take you from one side to another.</li>
+  <li>Another fun thing to do is to take a Ferry ride across the harbour.</li>
+  <li>Prices for rides on transit are mainly determined by distance. So, several stops on an MTR ride costs more than one or two stops. There is a bit of time to do transfers between different modes of transit. Your Octopus card will help track that for you. Note: there is an idiot tax – if you tap into an MTR station and tap out of it again, even if you didn’t ride the MTR, you need to pay a fare.</li>
+  <li>Some restaurants (yay! Cafe de Coral) and convenience stores (e.g. 7-11) will take Octopus card as a payment method.</li>
+  <li>HK is hot, but buildings usually keep the AC going at full blast (so it might be a shock going from sweltering hot to freezing cold). You might want a light cardigan or a scarf.</li>
+  <li>Cantonese is a tonal language, with 6+ tones that could exist for one sound, and all can mean different things. It’s very difficult to master for foreigners. If you try out a few words in Cantonese, don’t be offended if people don’t understand what you’re saying; if anything, they would probably get super giddy and excited that a foreigner knows a few words :)</li>
+  <li>Bring an umbrella and a rain coat. HK often gets rainy, but June is typhoon season.</li>
+  <li>Power is 220V, takes UK style plugs. Bring an adapter if you need one. Some hotels will have spare adapters, while others will have US style plugs. If you forget your adapter, you can pick one up for cheap at the Wan Chai computer center!</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Co-authored by Tony and Tiffany Wun]]></summary></entry><entry><title type="html">Interaction Design for 2020</title><link href="/blog/2018/interaction-design-for-2020/" rel="alternate" type="text/html" title="Interaction Design for 2020" /><published>2018-04-20T00:00:00+08:00</published><updated>2018-04-20T00:00:00+08:00</updated><id>/blog/2018/interaction-design-for-2020</id><content type="html" xml:base="/blog/2018/interaction-design-for-2020/"><![CDATA[<p>I was kindly invited by Scott Bateman and Julie Maitland to give a talk at <a href="https://www.nextgenux.ca/">NextGenUX</a>, which was held on April 19-20 at the University of Fredricton. This was an interesting “academia meets industry” conference that had a great set of international speakers (Julie Williamson, Bart Knijnenburg, Xing-Dong Yang, Cosmin Munteanu and Rita Orji) giving 30-45 min talks about their work, and a tutorial session the day before where we gave a fast mini-course on UX methods.</p>
+
+<p>My talk discussed some challenges I forsee for UX in the next few years. I track three specific technology trends: internet of things, artificial intelligence and security, and discuss how these present fundamental challenges (and opportunities) to UX. Another thread I weave into this discussion is the importance of carefully and meaningfully think about our values as we design the technologies of tomorrow, otherwise, we will be subject the whim of arbitrarily random written program code.</p>
+
+<p>I make three points in this talk: first, that most technologies coming out of the personal computing revolution of the 80s and 90s were focused on the business value of efficiency; second, I suggest that solely designing with this value in mind is inappropriate in light of how we use technology today (and how we will use it tomorrow!)–that is, at home, with our families and loved ones, etc., demonstrating this through recent events such as the Cambridge Analytica scandal, and simple thought experiments; third, I implore designers to explicitly consider our values as people and as a society in system designs.</p>
+
+<p>I’ve written about <a href="http://ricelab.cpsc.ucalgary.ca/blog/2016/values-in-technology-design/">values in technology design before</a>, but this was the first time I got a chance to speak about it. To help drive the message about values home, I used some examples from my recent trips to Singapore and Japan to illustrate that while some ideas are reasonable in other places, they do not resonate with our own values. I also used a thought experiment about tracking children to try to drive this point home, distinguishing between what can be done, and what ought to be done, based on the values that we hold. Finally, I tried to hit this message home by talking a bit about the Cambridge Analytica scandal.</p>
+
+<p>I then discuss three challenges that new technologies bring to the fore, namely: (a) we will have difficulty understanding system state when it is distributed, opaque, or interfaceless; (b) that we need new ways of telling the system about ourselves, the context, and our values, and (c) that we need new ways to think about security that account for everyday situations.</p>
+
+<p>To talk about the understanding the system state problem, I talked about a number of benign examples of my everyday life. These included the typical bathroom conundrums, but I also included an anecdote about my recent experiences in Japan. I used these examples to hint at the idea that differences in vocabulary can effectively mean differences in language (and therefore understanding) in many interface designs. I fielded two questions about this in the question period, so I think this idea resonated with the audience.</p>
+
+<p>In talking about explicitly trying to impart values into our designs, I talked about the need to teach self-driving cars about how to kill people. I’ve loved that sort of attention grabbing phrase, but the idea has been powerful and important. Because the idea seemed to resonate, I spent a bit more time talking about it than I’d intended. I fielded an interesting question about the challenge of dealing with the fact that people have varying values, and how to account for this. My response was that I wasn’t sure, but that regardless of this, we still ought to confront that challenge head-on rather than to pretend it wouldn’t happen. I mean, it is not unlike an ambiguity in a software engineering context: if you don’t address it head on, it’s not likely that it will resolve itself anyway.</p>
+
+<p>Finally, I got to talk about everyday security. I didn’t really do this idea much justice, as I was short on time, so I spent time instead talking about the case of the 19 year old kid who has been arrested for downloading too many freedom of information request documents off a public webserver. While details are a bit sketchy, one thing that was clear was that: the ease of information access does not reflect how those in charge viewed the sensitivity of the information.</p>
+
+<p>My message was that interaction design will be harder tomorrow than it is today, because wireless connectivity, distributed devices and sensors, and AI obfuscate the function of the “system.” My call to action for technologists was to recognize that our system designs are embedded with values, and ensure they are the correct values. My threat was to suggest that ignoring these challenges will not only create unusable systems, but fundamentally dangerous ones.</p>
+
+<p>I neglected to end on a happy note, which was a shame. I meant to point to the work of the others at the conference, which I think really gets at the heart of the idea that we need value-driven design to guide the design of the next generation of technology.</p>
+
+<p>(I had previously given an earlier version of this talk at the <a href="https://uplb.edu.ph/">University of the Philippines Los Baños</a>, kindly hosted by <a href="https://medium.com/@tjmonsi/latest">TJ Monserrat</a>, and have since modified the focus of the talk to focus on values.)</p>
+
+<h3 id="additional-reading">Additional Reading</h3>
+<ul>
+  <li><a href="http://hcitang.org/papers/2018-nextgenux-id-for-2020.pptx">Slides for my talk</a></li>
+  <li><a href="http://www.cbc.ca/news/technology/cambridge-analytica-nix-uk-committee-1.4622879">News</a> <a href="http://www.cbc.ca/news/business/facebook-mark-zuckerberg-cambridge-analytica-1.4586659">articles</a> <a href="https://www.cnn.com/2018/03/21/politics/trump-campaign-cambridge-analytica/index.html">about</a> <a href="https://www.cnn.com/2018/03/24/europe/raid-cambridge-analytica---intl/index.html">Cambridge</a> <a href="https://www.pcmag.com/feature/360510/9-things-we-learned-from-an-ex-cambridge-analytica-exec">Analytica</a> and how their work potentially impacted the 2016 US election.</li>
+  <li><a href="https://www.vox.com/first-person/2018/4/11/17221344/mark-zuckerberg-facebook-cambridge-analytica">VOX article by Facebook CEO Mark Zuckerberg’s former speech-writer</a></li>
+  <li><a href="http://moralmachine.mit.edu/">Moral Machine Project</a> from MIT.</li>
+  <li><a href="http://nationalpost.com/news/politics/a-nova-scotia-teen-found-a-big-security-hole-on-a-government-server-should-he-be-jailed-or-rewarded">Some</a> <a href="http://www.cbc.ca/news/canada/nova-scotia/teen-accused-foi-website-resonates-programmers-1.4623757">news</a> <a href="https://www.theregister.co.uk/2018/04/18/nova_scotia_teenager_hacking_allegation/">articles</a> about a 19 year old getting arrested after having downloaded a lot of FOI request documents off a publicly-accessible web server.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[I was kindly invited by Scott Bateman and Julie Maitland to give a talk at NextGenUX, which was held on April 19-20 at the University of Fredricton. This was an interesting “academia meets industry” conference that had a great set of international speakers (Julie Williamson, Bart Knijnenburg, Xing-Dong Yang, Cosmin Munteanu and Rita Orji) giving 30-45 min talks about their work, and a tutorial session the day before where we gave a fast mini-course on UX methods.]]></summary></entry><entry><title type="html">Visual Interaction Cues in Video Games for AR</title><link href="/blog/2018/visual-interaction-cues/" rel="alternate" type="text/html" title="Visual Interaction Cues in Video Games for AR" /><published>2018-03-20T00:00:00+08:00</published><updated>2018-03-20T00:00:00+08:00</updated><id>/blog/2018/visual-interaction-cues</id><content type="html" xml:base="/blog/2018/visual-interaction-cues/"><![CDATA[<p>Video games use a visual language for guiding players through the virtual worlds that they embody. For example, a player might see a blinking arrow to tell him/her which way to move his/her avatar through the game – something we call a <em>visual interaction cue</em>. This paper attempted to document this visual language, categorizing the different purposes these cues are designed for, how they are presented within a video game, and also how they are activated. Our idea was to use this to inspire designs for new augmented reality systems as they become more popular.</p>
+
+<p>Our data collection process took us across a bunch of different genres of games, where the crucial purpose was to identify and document different specific examples of visual interaction cues. We spent a long time discussion, organizing, tearing apart, and reorganizing the categories. Ultimately, we landed on a three-axis framework for describing each visual interaction cue we found: purpose, markedness, and trigger.</p>
+
+<p>Purpose was broken into three categories: <em>discovery</em> to help the player find or to identify something in the environment; <em>look</em> to help the player see something in a timely manner, and <em>go</em> to help the player get somewhere in the environment.</p>
+
+<p>Markedness was broken into four categories: <em>subtle</em>, where the cue blends into the environment or visual scene seamlessly; <em>emphasized</em>, where the object or surface is highlighted; <em>integrated</em>, where a virtual object (e.g. a 3D arrow) is added to the viewport of the player, and tracks the object; and <em>overlaid</em>, where virtual objects are added atop the viewport, that don’t track the view.</p>
+
+<p>Finally, trigger was broken down into what actually caused the visual trigger.</p>
+
+<p>My favourite image from the paper illustrates the different cues pretty well:</p>
+
+<p><img src="/assets/images/blog/visual-interaction-cues.png" alt="Key figure from the paper that illustrates the different cues" class="img-responsive" /></p>
+
+<p>In turn: (a) shows a subtle offset color on the wall to help a player discover a hidden area; (b) shows a flash to tell the player that someone is shooting at him/her; (c) the light shining from the sword tells the player where to go next; (d) the “loot bag” next to the dead body is highlighted to tell the player s/he can interact with it; (e) the enemy glows red suddenly to indicate that the enemy is ready for a timed attack; (f) the door is highlighted to tell the player where to go; (g) the hot dog has a visual annotation to tell the player it can be interacted with; (h) the player has a circular disc drawn to shown the direction of an enemy; (i) added cues show the player where to snowboard to; (j) an overview map shows where different interactable objects or characters are; (k) flares on the reticule show where the player is receiving damage, and (l) the compass on the top shows the player where to go.</p>
+
+<p>While it is probably exhausting to read the above, note that each layer or column of the table is meaningful. Each column shows cues with similar purpose (either to help the player to discover interactable objects, observe timed events, or where to go). Similarly, each row shows a different visual way in which the cues are presented.</p>
+
+<p>I was excited not only to help develop this framework, but also to think about how these cues can be used for the design of future AR systems. Up up and away!</p>
+
+<p>For more information, take a look at:</p>
+
+<ul>
+  <li><a href="http://hcitang.org/papers/2018-chi2018-visual-interaction-cues-game-examples-supplement.zip">the game examples that we found and use in the paper</a>, or</li>
+  <li><a href="http://hcitang.org/papers/2018-chi2018-visual-interaction-cues.pdf">the CHI 2018 paper that documents the framework</a>.</li>
+</ul>
+
+<p>Here’s the full citation:</p>
+
+<blockquote>
+  <p>Kody Dillman, Terrance Mok, Anthony Tang, Lora Oehlberg, and Alex Mitchell. (2018). A Visual Interaction Cue Framework from Video Game Environments for Augmented Reality. In CHI 2018: Proceedings of the 2018 SIGCHI Conference on Human Factors in Computing Systems, 10. (conference).
+Acceptance: 25.7% - 667/2595.</p>
+</blockquote>
+
+<p><strong>Reflection:</strong> For me, this was a total passion project. I love the idea of going into worlds that I know and love (i.e. video games), where people have sort of developed a “lore” or “way” of doing things (either consciously or unconsciously), and trying to document this in a way that is useful for something else. Kody’s MSc project had originally began with concrete instantiations of these ideas, but after a time, we realized we needed a more grounded approach for thinking about these cues. Thus, the project was born. Amazingly fun.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Video games use a visual language for guiding players through the virtual worlds that they embody. For example, a player might see a blinking arrow to tell him/her which way to move his/her avatar through the game – something we call a visual interaction cue. This paper attempted to document this visual language, categorizing the different purposes these cues are designed for, how they are presented within a video game, and also how they are activated. Our idea was to use this to inspire designs for new augmented reality systems as they become more popular.]]></summary></entry><entry><title type="html">Perspective and Object Manipulation in Remote Collaboration</title><link href="/blog/2018/rema/" rel="alternate" type="text/html" title="Perspective and Object Manipulation in Remote Collaboration" /><published>2018-03-20T00:00:00+08:00</published><updated>2018-03-20T00:00:00+08:00</updated><id>/blog/2018/rema</id><content type="html" xml:base="/blog/2018/rema/"><![CDATA[<p>For a while now, we have been chasing down a research thread about remote collaboration – scenarios where one person is trying to help someone else out through a video chat link. One of the things we found problematic is that the helper cannot actually do a good job of saying to the other person, “Hey, you need to be looking at it from <em>this angle</em>, like <em>this</em>.” What if you could change your friend’s viewing angle on the object? This project explored that possibility through a study, demonstrating that a shared perspective (as opposed to the “opposing perspective” that is offered by conventional video chat tools) on the space is important.</p>
+
+<p><img src="https://i.imgur.com/TYabJrY.jpg" alt="Perspective matters" /></p>
+
+<p>The way we are looking at physical things has a huge impact on how we understand a problem or a situation. This is important in remote assistance scenarios, where a remote helper has knowledge that the novice worker does not, but may not know how this information can/should be applied to the situation at hand. Instead, the two need to work together to develop an understanding of the situation together, and this comes in part from a shared perspective/understanding of the situation.</p>
+
+<p>We designed a study to assess whether how perspective on a workspace/object affects the collaborative flow. That is, how do people solve the problem together if they have a conventional face-to-face perspective on an object (where the object is between them) versus if they have a shared perspective on an object (where they view the object from the same perspective). Perhaps unsurprisingly, it is better to have a shared perspective, where both you and your collaborator are viewing an object from the same perspective. This makes sense if you think about trying to solve a Rubik’s cube – it would be easier if the expert could see the cube from your perspective rather than watching from the other side of the puzzle! This suggests that for remote assistance to be most effective, the video captured ought to be from the perspective of the “worker” or “helper” – such as from an over-the-shoulder, or a from-eyeglasses perspective. This is different from where most cameras are currently positioned on most technology (i.e. facing us at the top of a laptop), and is somewhat at odds with mobile phone video technology, which requires an extra set of hands to hold the phone (obviating manipulation of the object itself).</p>
+
+<p>We designed a new system called <strong>ReMa</strong> (Remote Manipulator) which gives me the ability to control the orientation of a remote object by spinning a physical proxy on my end. This is perhaps best illustrated via the video (see below for a link), where controlling the remote perspective is done by simply controlling my own physical perspective on the object. The remote site is handled by a robot that spins and rotates the physical object to copy what is happening at the controlling site. ReMa gave people a very fluent and simple way of controlling what the remote collaborator sees, and this was effective for collaborators. It meant that they did not have to spend time correcting one another’s actions or verifying what was going on by having to check the video time and again.</p>
+
+<p>For mote information about this project, check out:</p>
+
+<ul>
+  <li><a href="http://ricelab.cpsc.ucalgary.ca/papers/feick2018rema/">the CHI 2018 paper about the system and study</a>, or</li>
+  <li><a href="http://hcitang.org/papers/2018-chi2018-rema.mp4">the video that shows the system</a>, and the</li>
+  <li><a href="http://ricelab.cpsc.ucalgary.ca/papers/feick2018wayyoumove/">HRI 2018 poster on the project</a>.</li>
+</ul>
+
+<p>Here’s the full citation:</p>
+
+<blockquote>
+  <p>Martin Feick, Terrance Mok, Anthony Tang, Lora Oehlberg, and Ehud Sharlin. (2018). Perspective on and Re-Orientation of Physical Proxies in Object-Focused Remote Collaboration. In CHI 2018: Proceedings of the 2018 SIGCHI Conference on Human Factors in Computing Systems, 10. (conference). Acceptance: 25.7% - 667/2595. Notes: Honourable Mention Award - Top 5% of all submissions.</p>
+</blockquote>
+
+<blockquote>
+  <p>Martin Feick, Lora Oehlberg, Anthony Tang, Andre Miede, and Ehud Sharlin. (2018). The Way You Move: The Effect of a Robot Surrogate Movement in Remote Collaboration. In HRI ’18: Extended Abstracts of the International Conference on Human-Robot Interaction, 2 pages + poster.</p>
+</blockquote>
+
+<p><strong>Reflection:</strong> This was a fairly technical project. I was glad that Martin Feick was around to work on it, as it required really understanding the OptiTrack motion tracking system, as well as working with the Baxter robot. This was a fairly complex beast of a project, and there were a lot of twists and turns along the way.</p>
+
+<p>I think one of the things I’ve thought a lot about in the aftermath of the stuy is how and when the scenario actually makes much sense. While it woud be nice to have a ReMa to actually manipulate the remote object, I suppose that in most cases, the reality of this is kind of unlikely. It is neat to think about an object that could morph and turn in one’s own hand, but it is perhaps more reasonable to think about a set of visual cues that says, “Hey, turn me this way.” Perhaps that is something that would be followed on.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[For a while now, we have been chasing down a research thread about remote collaboration – scenarios where one person is trying to help someone else out through a video chat link. One of the things we found problematic is that the helper cannot actually do a good job of saying to the other person, “Hey, you need to be looking at it from this angle, like this.” What if you could change your friend’s viewing angle on the object? This project explored that possibility through a study, demonstrating that a shared perspective (as opposed to the “opposing perspective” that is offered by conventional video chat tools) on the space is important.]]></summary></entry><entry><title type="html">Git as Tony Understands it</title><link href="/blog/2017/git-as-tony-understands-it/" rel="alternate" type="text/html" title="Git as Tony Understands it" /><published>2017-11-10T00:00:00+08:00</published><updated>2017-11-10T00:00:00+08:00</updated><id>/blog/2017/git-as-tony-understands-it</id><content type="html" xml:base="/blog/2017/git-as-tony-understands-it/"><![CDATA[<p>There exist a lot of git tutorials on the web. <a href="https://www.atlassian.com/git/tutorials">Atlassian’s git tutorials</a> are thorough and useful.</p>
+
+<p>Git is a distributed version control system.</p>
+
+<h1 id="context">Context</h1>
+
+<p>Git is used in situations where you have a folder of “source documents,” and either:</p>
+<ul>
+  <li>you want to be able to track changes (or try out little changes without damaging the original), or</li>
+  <li>you are working with a team where multiple people <em>may</em> be editing the “source” of a project simultaneously.</li>
+</ul>
+
+<h1 id="problem">Problem</h1>
+
+<p>Git solves a lot of little problems. For me, the two main problems it solves are the following:</p>
+
+<ol>
+  <li>
+    <p>I want to try something out with the “source documents,” but I want to be able to revert or come back to the state that it is in right now (because I may be doing something risky).</p>
+  </li>
+  <li>
+    <p>You and I may need to make changes at the same time (in which case: what is the “latest version” of files?).</p>
+  </li>
+</ol>
+
+<h1 id="approach">Approach</h1>
+
+<p>Git solves these problems using two main ideas:</p>
+
+<ul>
+  <li>Branches</li>
+  <li>Tracking changes</li>
+  <li>Local vs remote repositories</li>
+</ul>
+
+<h2 id="branches">Branches</h2>
+
+<p>A set of source documents can have lots of different “branches” that reflect different versions of the code. These branches store differences that may be small (e.g. changes in text in a UI), or they may be big (e.g. changes in how the UI functions).</p>
+
+<p>Your computer can maintain all of these branches at the same time, and you decide which branch to work on by switching between them.</p>
+
+<p>Usually, the idea is to work on a branch until you’re confident the changes are solid, at which point you do a “pull request” or merge the changes back in the “master” (or the “trunk”).</p>
+
+<h2 id="tracking-changes">Tracking changes</h2>
+
+<p>As soon as you make a change, do a “commit” on it. This saves the changes. Each commit is documented (or labeled) with a hash (e.g. 3520f53). This hash is associated with a date, and a set of changes to some files, as well as comment.</p>
+
+<p>Git tracks all the <em>changes</em> to files across all the different branches and across time. It does not keep all versions of the files; however, it can revert back and forth depending on which branch you want to change to, or which version of the “document source” you want to change to. <strong>This is mind blowing. Soak it in.</strong></p>
+
+<p>This has a major implication for how the documents are stored in your computer. The filesize of the directory, rather than simply being the size of all the documents combined, also includes the size of a set of files that track and document these changes (stored in the .git directory). This .git directory allows git to change and move between different versions of the code.</p>
+
+<h2 id="local-vs-remote-repositories">Local vs. remote repositories</h2>
+
+<p>Git works locally on one’s own machine.</p>
+
+<p>Git can also work with hosting services up in the cloud (i.e. the “remote repo”). Popular services include github and gitlab. These function as hubs for development, such that you can push changes to the remote repo, and the remote repo is available for others to pull changes/updates from. It is through these remote repos that we can work with others.</p>
+
+<p>A person can use the repo to push changes and branches to, and another can pull those changes and branches down, create new branches, and continue work.</p>
+
+<p>People can work on their own branches without affecting someone else’s work.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[There exist a lot of git tutorials on the web. Atlassian’s git tutorials are thorough and useful.]]></summary></entry><entry><title type="html">Ephemerality and Context - Ethical Dilemmas in Online Research</title><link href="/blog/2017/ephemerality-and-context/" rel="alternate" type="text/html" title="Ephemerality and Context - Ethical Dilemmas in Online Research" /><published>2017-06-17T00:00:00+08:00</published><updated>2017-06-17T00:00:00+08:00</updated><id>/blog/2017/ephemerality-and-context</id><content type="html" xml:base="/blog/2017/ephemerality-and-context/"><![CDATA[<p>I recently attended <a href="http://www.sfu.ca/ore/REBWest2017.html">REBWest 2017</a>, a small regional conference focused on research ethics. I got the opportunity to sit on a panel with <a href="www.genalab.org/peter-chow-white.html">Peter Chow-White</a>, and we talked about how social media research introduces new challenges for research ethics. This post is a primer on my talk, which was entitled “Ephemerality and Context: Ethical Dilemmas in Online Research.”</p>
+
+<h3 id="context-ethics-in-canadian-research">Context: Ethics in Canadian Research</h3>
+
+<p>Research in Canada that is funded by the major public funding bodies (CIHR, NSERC, SSHRC, collectively known as the “tri-council”) needs to abide by a set of ethical standards set out by the <a href="http://www.pre.ethics.gc.ca/eng/policy-politique/initiatives/tcps2-eptc2/Default/">TCPS 2</a>. This document aims to protect participants from harm by ensuring that research carried out in Canada is effectively bounded by a certain set of rules. The reason this document exists is not because researchers are unethical; rather, it is because sometimes, even when we as researchers are trying our best to protect participants, we have blind spots to the harms that may occur.</p>
+
+<p>Some kinds of these guidelines are unambiguous and obvious with respect to harm: we can’t put people through pain if there is no meaningful benefit (to the participant, to society) to doing so. But some others are a little more subtle – for instance, if we are interested in understanding soldiers’ experiences in the field and interview them to find out, these soldiers could experience emotional distress, and maybe even PTSD! Other kinds of research could put situations where participants feel embarrassed, ashamed, or even where they might suffer consequences at work – for instance, if they are asked to participate in a focus group where co-workers are asked about performance of fellow co-workers.</p>
+
+<p>Research Ethics Boards (REBs) at Canadian universities are tasked with evaluating researchers’ plans for research with the participants’ interests at the forefront (i.e. tasked with protecting participants). They provide suggestions to help improve research plans in ways to protect participants’ rights.</p>
+
+<h3 id="context-ethical-framework-of-the-tcps-2">Context: Ethical Framework of the TCPS 2</h3>
+
+<p>The TCPS 2 outlines three core principles that form its ethical framework. The TCPS 2 guidelines are all developed from this ethical framework:</p>
+
+<ol>
+  <li>
+    <p><strong>Respect for persons.</strong> Researchers and research need to respect the participants as humans with dignity. We need to respect their capacity to make choices for themselves, and not unnecessarily withhold information from them in order for them to make these choices. The main thing that comes out of this is the principle of free, informed, ongoing consent. Each of those words, “free”, “informed” and “ongoing” are important, but we’ll come back to this.</p>
+  </li>
+  <li>
+    <p><strong>Concern for welfare.</strong> This one is really about saying, “Hey, we should care about what happens to people that participate in our studies,” trying to make sure that they stay free from harm, whether the harm is physical or emotional, social or economic.</p>
+  </li>
+  <li>
+    <p><strong>Justice.</strong> Finally, the justice principle is about treating everyone fairly – in terms of people’s participation (who gets to participate), to how they are treated during the study, to who gets the benefit from the outcomes of the research.</p>
+  </li>
+</ol>
+
+<h3 id="observational-online-research">Observational Online Research</h3>
+
+<p>In my talk, I focused on the ethical challenges presented by observational online research. To set the context here, “observational online research” refers to research where the researchers have not compelled participants to do anything they wouldn’t have done otherwise; rather, the researchers are merely “observers”. The problem I discussed in my talk was that many of the rules of engagement laid out by the TCPS 2 were/are somewhat inadequate when thinking about online interactions that people have with one another.</p>
+
+<p>The primary challenge is that online interactions are frequently <em>archived</em> and made <em>publicly searchable</em> by various entities (e.g. the social media provider, like Twitter, or by Google). This means that what would otherwise be considered as an ephemeral engagement/interaction with someone could be put on the permanent public record (i.e. it is publicly accessible!). Here, the TCPS 2 is unfortunately far too open to a loose interpretation: in such a situation, it could be considered as “archival research,” in which case, since the data is “publicly available” (in terms of access), then using this data would not require ethical review from an REB (i.e. would not even need to gain informed consent for the use of this data created by people).</p>
+
+<p>This seems ludicrous, because there have been <a href="http://www.cbc.ca/news/politics/canada-election-2015-ala-buzreba-tweets-1.3195193">several</a> <a href="http://www.cbc.ca/news/canada/british-columbia/randy-rinaldo-withdraws-b-c-election-candidacy-after-controversial-tweets-surface-1.3604404">instances</a> <a href="https://www.thestar.com/news/canada/2017/05/16/third-candidate-forced-to-withdraw-from-ns-election-because-of-old-internet-postings.html">of</a> <a href="http://www.gazetteandherald.co.uk/news/15297489.UKIP_withdraw_support_for_General_Election_candidate_over_controversial_tweets/">people</a> <a href="http://www.abc.net.au/news/2016-12-20/one-nation-qld-candidate-andy-semple-withdraws-over-tweets/8135128">getting</a> burned by things that had posted/written in the past. It would seem that if a researcher chose to do research on online social media posts and subsequently publishes it, it would contravene the “concern for welfare” principle: surfacing this information (e.g. by publishing it) could put people in a situation where their social or economiy status is harmed. This seems like a big deal, particularly because it doesn’t even touch on the issue that such people aren’t necessarily in a situation where they are given an opportunity to give/withdraw informed consent.</p>
+
+<p>One of the crazy problems is that even if researchers do not collect “identifying information” such as a real name or a username, when we publish quotations, these exact quotations can be searched on to find the username of the person who posted it. Combined with the fact that people frequently re-use usernames across different sites, this leads to the possibility of being <a href="https://en.wikipedia.org/wiki/Doxing">doxxed</a>, where people can easily discover lots of information about a person. The challenge this presents is that publishing these quotations (even without usernames) means that we cannot effectively protect the confidentiality of participants’ participation in our studies.</p>
+
+<p>This sounds alarmist, of course… particularly since it comes from a computer scientist. But, I do not think all is lost.</p>
+
+<h3 id="ways-of-moving-forward">Ways of Moving Forward</h3>
+
+<p>I think we need to revisit TCPS 2, and how it defines internet-based research.</p>
+
+<p>We need to do this revisiting with members of the community (i.e. the public) from a wide variety of age groups to understand their perspective on this kind of work. Someone in the question period called this approach an “indigenous approach” to conducting online research. I think this is not an unreasonable strategy: different communities definitely do have different kinds of conventions, and “rules of engagement” in one context may not apply in another online context.</p>
+
+<p>It may ultimately be the case that we need to consider everything to do with the internet in a case-by-case basis–just as we do with “real life” (IRL) observational research today. And, perhaps it shouldn’t be a surprise that we would need to do so.</p>
+
+<h3 id="additional-reading">Additional Reading</h3>
+
+<ul>
+  <li><a href="http://hcitang.org/papers/2017-rebwest2017-ephemerality-and-context.pptx">Slides for my talk</a></li>
+  <li><a href="http://www.cc.gatech.edu/~asb/ethics/">Amy Bruckman’s Ethical Guidelines for Research Online</a></li>
+  <li>Barry Brown, Alexandra Weilenmann, Donald McMillan, and Airi Lampinen. 2016. Five Provocations for Ethical HCI Research. In Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (CHI ‘16). ACM, New York, NY, USA, 852-863. DOI: https://doi.org/10.1145/2858036.2858313</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[I recently attended REBWest 2017, a small regional conference focused on research ethics. I got the opportunity to sit on a panel with Peter Chow-White, and we talked about how social media research introduces new challenges for research ethics. This post is a primer on my talk, which was entitled “Ephemerality and Context: Ethical Dilemmas in Online Research.”]]></summary></entry></feed>
