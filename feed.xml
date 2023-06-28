@@ -1,4 +1,844 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-05-23T10:14:33+08:00</updated><id>/feed.xml</id><title type="html">RICELab</title><subtitle>RICELab Homepage</subtitle><entry><title type="html">Recruiting PhD Students for 2020</title><link href="/blog/2019/recruiting-for-2020/" rel="alternate" type="text/html" title="Recruiting PhD Students for 2020" /><published>2019-12-07T00:00:00+08:00</published><updated>2019-12-07T00:00:00+08:00</updated><id>/blog/2019/recruiting-for-2020</id><content type="html" xml:base="/blog/2019/recruiting-for-2020/"><![CDATA[<p>RICELab in the Faculty of Information at the University of Toronto is seeking PhD students with a strong interest in HCI/UX research, and a suitable foundation to design, build, and evaluate novel interactive experiences. Current research themes for RICELab include:</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-06-29T00:14:26+08:00</updated><id>/feed.xml</id><title type="html">RICELab</title><subtitle>RICELab Homepage</subtitle><entry><title type="html">Human-AI Collaboration</title><link href="/projects/hai-collaboration/" rel="alternate" type="text/html" title="Human-AI Collaboration" /><published>2023-06-29T00:00:00+08:00</published><updated>2023-06-29T00:00:00+08:00</updated><id>/projects/hai-collaboration</id><content type="html" xml:base="/projects/hai-collaboration/"><![CDATA[<!-- 160x144 -->
+
+<p>A major focus of our current work is to explore how to design effective interfaces for human-AI collaboration. This framing of interaction draws focus away from the idea of computation (as in human-<em>computer</em> interaction), and rather on the idea of computation that can assist and amplify human activity through interactive collaboration. Collaboration, as we understand it, involves multiple turns for interacting, as well as a commitment to help and assist one another.</p>
+
+<h2 id="coordination-and-communication-based-on-human-human-interaction">Coordination and Communication based on Human-Human Interaction</h2>
+
+<p>Recently, we have been exploring how our understanding of human-human communication and coordination can be used to smooth human-AI interaction. One design resource for this is in studying and understanding how humans work with other humans, and using ideas here to apply to human-AI communication and coordination.</p>
+
+<p>For instance, we have been interested in studying how we can use proxemics to mediate how we interact with robots <a class="citation" href="#mahadevan2021hri">(Mahadevan, Sousa, Tang, &amp; Grossman, 2021)</a>. We have found that when robots can understand how people are using space to coordinate their interactions with one another, they can more straightforwardly anticipate how human collaborators will work. This smooths collaborative activity between humans and robots.</p>
+
+<p>We applied similar ideas in Stargazer <a class="citation" href="#li2023stargazer">(Li, Sousa, Mahadevan, Wang, Aoyagui, Yu, Yang, Balakrishnan, Tang, &amp; Grossman, 2023)</a>, where we designed a robotic camera that could understand both gestures and speech from a howto video tutorial producer. The robotic camera could, based on what the producer was saying, make decisions about how to reposition itself, or to zoom in/out.</p>
+
+<p>Broadly, we expect that if we can design AI that understands proxemic behaviours and language, this will make it easier for humans to interact with AI that understands and has embodiment in our physical world. This is not the <em>only</em> way to design for human-AI collaboration, but one tact that is likely to be successful.</p>
+
+<h2 id="generative-tools-for-authors">Generative Tools for Authors</h2>
+
+<p>We have recently begun exploring how generative tools can be designed to support authors. An important aspect of this is understand what kinds of challenges authors have. In one project, we are exploring the kinds of challenges that fiction authors have in crafting their works <a class="citation" href="#stark2023fictionworkshop">(Stark, Tang, Kim, Park, &amp; Wigdor, 2023)</a>. After having identified some of these challenges, we have begun the process of designing and studying the impacts of tools that support the creative process.</p>
+
+<h2 id="publications">Publications</h2>
+
+<ol class="bibliography"><li><section id="citation">
+    <a href="/papers/li2023stargazer"><span id="li2023stargazer">Jiannan Li, Mauricio Sousa, Karthik Mahadevan, Bryan Wang, Paula Akemi Aoyagui, Nicole Yu, Angela Yang, Ravin Balakrishnan, Anthony Tang, and Tovi Grossman. (2023). <span style="text-decoration: underline">Stargazer: An Interactive Camera Robot for Capturing How-To Videos Based on Subtle Instructor Cues</span>. In <i>CHI 2023: Proceedings of the 2023 SIGCHI Conference on Human Factors in Computing Systems</i>.</span>
+
+(conference).</a><br />
+
+
+
+
+	<a href="http://hcitang.org/papers/2023-chi2023-li-stargazer.mp4"><i class="fa fa-file-pdf-o"></i></a>
+
+
+
+	<a href="http://hcitang.org/papers/2023-chi2023-li-stargazer.mp4"><i class="fa fa-film"></i></a>
+
+
+	<a href="https://doi.org/10.1145/3544548.3580896"><i class="fa fa-external-link"></i></a>
+
+</section><a class="details" href="/papers/li2023stargazer/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/stark2023fictionworkshop"><span id="stark2023fictionworkshop">Jessi Stark, Anthony Tang, Young-Ho Kim, Joonsuk Park, and Daniel Wigdor. (2023). <span style="text-decoration: underline"> Can AI Support Fiction Writers Without Writing For Them? </span>. In <i>CHI23 Workshop: In2Writing - The Second Workshop on Intelligent and Interactive Writing Assistants</i>.</span>
+
+	(Gero, Katy Ilonka and Chang, Minsuk and Huang, Ting-Hao ’Kenneth’ and Chung, John Joon Young and Raheja, Vipul and Wambsganss, Thiemo and Kang, Dongyeop and Lee, Mina, Eds.)
+
+(workshop).</a><br />
+
+
+
+
+	<a href=" 2023-chi2023workshop-stark-fiction-writers.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+	<a href="https://in2writing.glitch.me/"><i class="fa fa-sticky-note-o"></i></a>
+
+
+
+</section><a class="details" href="/papers/stark2023fictionworkshop/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/mahadevan2021hri"><span id="mahadevan2021hri">Karthik Mahadevan, Mauricio Sousa, Anthony Tang, and Tovi Grossman. (2021). <span style="text-decoration: underline">"Grip-that-there": An Investigation of Explicit and Implicit Task Allocation Techniques for Human-Robot Collaboration</span>. In <i>CHI 2021: Proceedings of the 2021 SIGCHI Conference on Human Factors in Computing Systems</i>.</span>
+
+(conference).</a><br />
+
+	<small>Acceptance: 26.3% - 749/2844.</small>
+
+
+	<small>Notes: Best Paper Nominee (top 5% of submissions).</small>
+
+
+	<br />
+
+
+	<a href="http://hcitang.org/papers/2021-chi2021-mahadevan-grip-that-there.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+	<a href="https://www.youtube.com/watch?v=Fvn_qjWJqwk"><i class="fa fa-sticky-note-o"></i></a>
+
+
+	<a href="http://hcitang.org/papers/2021-chi2021-mahadevan-grip-that-there.mp4"><i class="fa fa-film"></i></a>
+
+
+</section><a class="details" href="/papers/mahadevan2021hri/"><!-- --></a></li></ol>]]></content><author><name></name></author><category term="projects" /><category term="active" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Proxemic Interaction Design</title><link href="/projects/proxemics/" rel="alternate" type="text/html" title="Proxemic Interaction Design" /><published>2023-06-28T00:00:00+08:00</published><updated>2023-06-28T00:00:00+08:00</updated><id>/projects/proxemic-interaction-design</id><content type="html" xml:base="/projects/proxemics/"><![CDATA[<!-- 160x144 -->
+
+<p>Proxemic interaction design explores how systems can use an understanding of people’s relative position, orientation and identity with one another and objects can be used to support rich interaction techniques. For example, we can design rooms that understand to turn on the lights when someone enters, and to turn them off when people leave. Similarly, we can design interactive displays to respond appropriately when someone is looking at them from a distance or up close. This is useful since we use proxemics to mediate our interactions with other people in everyday life – for instance, by moving physically closer to people we want to interact with, and by turning away from people we don’t. Proxemic interaction design explores how these basic cues can be used to improve interaction with computing technology.</p>
+
+<p>In <a class="citation" href="#kudo2021balancing">(Kudo, Tang, Fujita, Endo, Takashima, &amp; Kitamura, 2021)</a>, we explored how VR headsets and reveal bystanders who may be potential interaction partners based on their proximity and orientation to the VR headset user. This is important when we consider that people wearing headsets are completely cut off from the world.</p>
+
+<p>We can also use proxemics to mediate how we interact with robots <a class="citation" href="#mahadevan2021hri">(Mahadevan, Sousa, Tang, &amp; Grossman, 2021)</a>. We have found that when robots can understand how people are using space, they can more straightforwardly anticipate how human collaborators will work. This smooths collaborative activity between humans and robots.</p>
+
+<h2 id="publications">Publications</h2>
+
+<ol class="bibliography"><li><section id="citation">
+    <a href="/papers/mahadevan2021hri"><span id="mahadevan2021hri">Karthik Mahadevan, Mauricio Sousa, Anthony Tang, and Tovi Grossman. (2021). <span style="text-decoration: underline">"Grip-that-there": An Investigation of Explicit and Implicit Task Allocation Techniques for Human-Robot Collaboration</span>. In <i>CHI 2021: Proceedings of the 2021 SIGCHI Conference on Human Factors in Computing Systems</i>.</span>
+
+(conference).</a><br />
+
+	<small>Acceptance: 26.3% - 749/2844.</small>
+
+
+	<small>Notes: Best Paper Nominee (top 5% of submissions).</small>
+
+
+	<br />
+
+
+	<a href="http://hcitang.org/papers/2021-chi2021-mahadevan-grip-that-there.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+	<a href="https://www.youtube.com/watch?v=Fvn_qjWJqwk"><i class="fa fa-sticky-note-o"></i></a>
+
+
+	<a href="http://hcitang.org/papers/2021-chi2021-mahadevan-grip-that-there.mp4"><i class="fa fa-film"></i></a>
+
+
+</section><a class="details" href="/papers/mahadevan2021hri/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/kudo2021balancing"><span id="kudo2021balancing">Yoshiki Kudo, Anthony Tang, Kazuyuki Fujita, Isamu Endo, Kazuki Takashima, and Yoshifumi Kitamura. (2021). <span style="text-decoration: underline">Towards Balancing VR Immersion and Bystander Awareness</span>. <i>Proceedings of the ACM on Human-Computer Interaction (PACMHCI)</i> 5, ISS, Article 484.</span>
+
+(journal).</a><br />
+
+
+	<small>Notes: Best Paper award.</small>
+
+
+	<br />
+
+
+	<a href="http://hcitang.org/papers/2021-pacmiss-balance-immersion-awareness.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+
+	<a href="http://hcitang.org/papers/2021-pacmiss-balance-immersion-awareness.mp4"><i class="fa fa-film"></i></a>
+
+
+	<a href="https://doi.org/10.1145/3486950"><i class="fa fa-external-link"></i></a>
+
+</section><a class="details" href="/papers/kudo2021balancing/"><!-- --></a></li></ol>]]></content><author><name></name></author><category term="projects" /><category term="active" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Haptics in VR</title><link href="/projects/haptics/" rel="alternate" type="text/html" title="Haptics in VR" /><published>2023-06-27T00:00:00+08:00</published><updated>2023-06-27T00:00:00+08:00</updated><id>/projects/haptics-in-vr</id><content type="html" xml:base="/projects/haptics/"><![CDATA[<!-- 160x144 -->
+
+<p>Virtual Reality experiences typically focus on the visual aspects of immersion. This project has explored the challenges of creating haptic experiences for such immersive experiences – first through the use of tangible devices, and then through the use of visio-haptic illusions.</p>
+
+<p>One way to create haptic experiences is through the use of tangible devices – that is, things that you can physically hold and feel. Yet, the challenge with this is that we may have fantastical items in VR that are difficult to re-create in real life. To this end, we developed the Tangi toolkit <a class="citation" href="#feick2020tangi">(Feick, Bateman, Tang, Miede, &amp; Marquardt, 2020)</a>, which provided a means for designers to create physical objects that approximate what we see in the VR space. To some extent, these devices also had the capacity to be moved, and this added an element of additional realism.</p>
+
+<p>The experience with Tangi made us realize that we were relying on a type of visuo-haptic illusion – that is, the idea that the visual aspects of the experience override our experience of the haptic sensation. This allowed us, for instance, to use blocky building blocks to represent what would otherwise be a smoothly-shaped bunny rabbit. To this end, we wanted to explore the limits of these illusions: to what extent can you approximate the physical/motor aspects of interacting with these objects without creating a “break” in the illusion? We explored these with linear physical proxies <a class="citation" href="#feick2021illusions">(Feick, Kleer, Zenner, Tang, &amp; Krüger, 2021)</a>, and then later more generally with multiple variables at play <a class="citation" href="#feick2022illusions">(Feick, Regitz, Tang, &amp; Krüger, 2022)</a>.</p>
+
+<p>The work has resulted in interesting side projects with the idea of drones creating these illusions <a class="citation" href="#feick2022hapticpuppet">(Feick, Tang, &amp; Krug̈er, 2022)</a>, as well as toolkits for measuring immersion within VR <a class="citation" href="#feick2020vrqt">(Feick, Kleer, Tang, &amp; Krüger, 2020)</a>. Further, we have now begun exploring physiological metrics to determine when the illusion breaks <a class="citation" href="#feick2023handredirection">(Feick, Regitz, Tang, Jungbluth, Rekrut, &amp; Krüger, 2023)</a>, which should allow us to one day create rich experiences without subjective reports on immersion.</p>
+
+<h2 id="publications">Publications</h2>
+
+<ol class="bibliography"><li><section id="citation">
+    <a href="/papers/feick2023handredirection"><span id="feick2023handredirection">Martin Feick, Kora Persephone Regitz, Anthony Tang, Tobias Jungbluth, Maurice Rekrut, and Antonio Krüger. (2023). <span style="text-decoration: underline">Investigating Noticeable Hand Redirection in Virtual Reality using Physiological and Interaction Data</span>. In <i>IEEE VR ’23: IEEE Conference on Virtual Reality and 3D User Interfaces</i>.</span>
+
+(conference).</a><br />
+
+
+
+
+	<a href="http://hcitang.org/papers/2023-vr2023-feick-handredirection.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+
+	<a href="https://www.youtube.com/watch?v=HBqPnrxU0ek"><i class="fa fa-film"></i></a>
+
+
+	<a href="https://doi.org/10.1109/VR55154.2023.00035"><i class="fa fa-external-link"></i></a>
+
+</section><a class="details" href="/papers/feick2023handredirection/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/feick2022illusions"><span id="feick2022illusions">Martin Feick, Kora Persephone Regitz, Anthony Tang, and Antonio Krüger. (2022). <span style="text-decoration: underline">Designing Visuo-Haptic Illusions with Proxies in Virtual Reality: Exploration of Grasp, Movement Trajectory and Object Mass</span>. In <i>CHI 2022: Proceedings of the 2022 SIGCHI Conference on Human Factors in Computing Systems</i>.</span>
+
+(conference).</a><br />
+
+	<small>Acceptance: 24.7% - 638/2579.</small>
+
+
+
+	<br />
+
+
+	<a href="http://hcitang.org/papers/2022-chi2022-feick-illusions.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+	<a href="http://hcitang.org/papers/2022-chi2022-feick-illusions-talk.mp4"><i class="fa fa-sticky-note-o"></i></a>
+
+
+	<a href="http://hcitang.org/papers/2022-chi2022-feick-illusions.mp4"><i class="fa fa-film"></i></a>
+
+
+</section><a class="details" href="/papers/feick2022illusions/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/feick2022hapticpuppet"><span id="feick2022hapticpuppet">Martin Feick, Anthony Tang, and Krug̈er. (2022). <span style="text-decoration: underline"> HapticPuppet: A Kinesthetic Mid-air Multidirectional Force-Feedback Drone-based Interface </span>. In <i>UIST ’22: The Adjunct Publication of the 35th Annual ACM Symposium on User Interface Software and Technology</i>.</span>
+
+(poster).</a><br />
+
+
+
+
+	<a href=" http://hcitang.org/papers/2022-uist2022poster-feick-hapticpuppet.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+
+	<a href=" http://hcitang.org/papers/2022-uist2022poster-feick-hapticpuppet.mp4"><i class="fa fa-film"></i></a>
+
+
+	<a href="https://doi.org/10.1145/3526114.3558694"><i class="fa fa-external-link"></i></a>
+
+</section><a class="details" href="/papers/feick2022hapticpuppet/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/feick2021illusions"><span id="feick2021illusions">Martin Feick, Niko Kleer, André Zenner, Anthony Tang, and Antonio Krüger. (2021). <span style="text-decoration: underline">Visuo-haptic Illusions for Linear Translation and Stretching using Physical Proxies in Virtual Reality</span>. In <i>CHI 2021: Proceedings of the 2021 SIGCHI Conference on Human Factors in Computing Systems</i>.</span>
+
+(conference).</a><br />
+
+	<small>Acceptance: 26.3% - 749/2844.</small>
+
+
+
+	<br />
+
+
+	<a href="http://hcitang.org/papers/2021-chi2021-feick-visio-haptic-illusions.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+
+	<a href="http://hcitang.org/papers/2021-chi2021-feick-visio-haptic-illusions.mp4"><i class="fa fa-film"></i></a>
+
+
+</section><a class="details" href="/papers/feick2021illusions/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/feick2020vrqt"><span id="feick2020vrqt">Martin Feick, Niko Kleer, Anthony Tang, and Antonio Krüger. (2020). <span style="text-decoration: underline">The Virtual Reality Questionnaire Toolkit</span>. In <i>AP UIST 2020: Adjunct Proceedings of the 33rd Annual ACM Symposium on User Interface Software and Technology, UIST 2019</i>.</span>
+
+(poster).</a><br />
+
+
+
+
+	<a href="http://hcitang.org/papers/2020-uist2020wip-feick-vrqt.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+	<a href="https://github.com/MartinFk/VRQuestionnaireToolkit"><i class="fa fa-sticky-note-o"></i></a>
+
+
+
+</section><a class="details" href="/papers/feick2020vrqt/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/feick2020tangi"><span id="feick2020tangi">Martin Feick, Scott Bateman, Anthony Tang, André Miede, and Nicolai Marquardt. (2020). <span style="text-decoration: underline">TanGi: Tangible Proxies for Embodied Object Exploration and Manipulation in Virtual Reality</span>. In <i>ISMAR 2020: 2020 IEEE International Symposium on Mixed and Augmented Reality</i>.</span>
+
+(conference).</a><br />
+
+	<small>Acceptance: 28.8% - 87/302.</small>
+
+
+
+	<br />
+
+
+	<a href="http://hcitang.org/papers/2020-ismar2020-feick-tangi.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+
+	<a href="http://hcitang.org/papers/2020-ismar2020-feick-tangi.mp4"><i class="fa fa-film"></i></a>
+
+
+</section><a class="details" href="/papers/feick2020tangi/"><!-- --></a></li></ol>]]></content><author><name></name></author><category term="projects" /><category term="active" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Electronic Fashion</title><link href="/projects/efashion/" rel="alternate" type="text/html" title="Electronic Fashion" /><published>2023-06-27T00:00:00+08:00</published><updated>2023-06-27T00:00:00+08:00</updated><id>/projects/electronic-fashion</id><content type="html" xml:base="/projects/efashion/"><![CDATA[<figure>
+
+	<img src="/assets/images/project-images/mannequette.png" alt="The mannequette is a prototyping platform for electronic fashion garments. It is used in different ways: (a) in-situ, iterating and deciding upon fabrics at a market; (b) for prototyping light (LED) patterns and sensors on a miniature dress form with fabrics by using the mixer; (c) for integrating a previously prototyped and now completed pattern and sensor interactions into an assembled garment; (d) in a completed garment created in a runway show." width="100%" />
+
+
+<figcaption>
+    The mannequette is a prototyping platform for electronic fashion garments. It is used in different ways: (a) in-situ, iterating and deciding upon fabrics at a market; (b) for prototyping light (LED) patterns and sensors on a miniature dress form with fabrics by using the mixer; (c) for integrating a previously prototyped and now completed pattern and sensor interactions into an assembled garment; (d) in a completed garment created in a runway show.
+</figcaption>
+
+</figure>
+
+<p>Digital tools enable rich new forms of self-expression, and we explore this in the context of electronic fashion.</p>
+
+<p>To enable our work, we design new toolkits for building electronic fashion. This gives designers the ability to access electronic sensors and actuatuators without needing to write computer code <a class="citation" href="#seyed2019mannequette">(Seyed &amp; Tang, 2019)</a>, all while enabling their creativity <a class="citation" href="#pratte2022nlitenworkshop">(Pratte, Hoover, Tang, &amp; Oehlberg, 2022)</a>.</p>
+
+<p>We see electronic fashion as a way to engage people in storytelling, be it to promote new forms of empathy <a class="citation" href="#pratte2021empathy">(Pratte, Tang, &amp; Oehlberg, 2021)</a>, or to express a story one has to tell <a class="citation" href="#pratte2023hacklesworkshop">(Pratte, Tang, &amp; Oehlberg, 2023)</a>.</p>
+
+<p>We help push the space of avante garde electronic fashion, and have explored how the runway space shapes and enables rich storytelling <a class="citation" href="#pratte2023designspace">(Pratte, Tang, Hoover, Hoover, Laprairie, Larose, &amp; Oehlberg, 2023)</a></p>
+
+<p>We are also interested in how these electronic garments can be used for communicating challenging concepts and ideas.</p>
+
+<h2 id="publications">Publications</h2>
+
+<ol class="bibliography"><li><section id="citation">
+    <a href="/papers/pratte2023hacklesworkshop"><span id="pratte2023hacklesworkshop">Sydney Pratte, Anthony Tang, and Lora Oehlberg. (2023). <span style="text-decoration: underline"> HACKLES: A Case Study on Using Data to Create Experiences with Wearables </span>. In <i>CHI22 Workshop: Toolkits &amp; Wearables - Developing Toolkits for Exploring Wearable Designs</i>.</span>
+
+	(Lee-Smith, Matthew and Benjamin, Jesse Josua and Desjardins, Audrey and Funk, Mathias and Odom, William and Oogjes, Doenja and Park, Young-Woo and Pierce, James and Sanches, Pedro and Tsaknaki, Vasiliki, Eds.)
+
+(workshop).</a><br />
+
+
+
+
+	<a href=" 2023-chi2023workshop-pratte-hackles.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+	<a href="https://materialfordesign.net/chi2023_workshop/"><i class="fa fa-sticky-note-o"></i></a>
+
+
+
+</section><a class="details" href="/papers/pratte2023hacklesworkshop/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/pratte2023designspace"><span id="pratte2023designspace">Sydney Pratte, Anthony Tang, Shannon Hoover, Maria Elana Hoover, Matt Laprairie, Catherine Larose, and Lora Oehlberg. (2023). <span style="text-decoration: underline"> Towards a Design Space for Storytelling on the Fashion Technology Runway </span>. In <i>TEI ’23: Seventeeth International Conference on Tangible, Embedded and Embodied Interaction</i>.</span>
+
+(conference).</a><br />
+
+
+
+
+	<a href=" http://hcitang.org/papers/2023-tei2023-pratte-fashiontech-design-space.pdf "><i class="fa fa-file-pdf-o"></i></a>
+
+
+	<a href=" http://hcitang.org/papers/2023-tei2023-pratte-fashiontech-design-space-artifact-set.pdf"><i class="fa fa-sticky-note-o"></i></a>
+
+
+
+	<a href="https://doi.org/10.1145/3569009.3573899"><i class="fa fa-external-link"></i></a>
+
+</section><a class="details" href="/papers/pratte2023designspace/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/pratte2022nlitenworkshop"><span id="pratte2022nlitenworkshop">Sydney Pratte, Shannon Hoover, Anthony Tang, and Lora Oehlberg. (2022). <span style="text-decoration: underline"> nLITEn: A Wearables Toolkit for Enabling Creativity in Fashion Technology Design </span>. In <i>CHI22 Workshop: Toolkits &amp; Wearables - Developing Toolkits for Exploring Wearable Designs</i>.</span>
+
+	(Genç, Çaglar and Buruk, Oguz and Jabari, Shiva and Jones, Lee and Ragozin, Kirill and Hartman, Kate and Virkki, Johanna and Juhlin, Oskar and Kunze, Kai and Häkkilä, Jonna, Eds.)
+
+(workshop).</a><br />
+
+
+
+
+	<a href=" http://hcitang.org/papers/2022-chi2022workshop-pratte-nliten.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+	<a href="http://techfashion.design/wearable-toolkits/"><i class="fa fa-sticky-note-o"></i></a>
+
+
+	<a href=" http://hcitang.org/papers/2022-chi2022workshop-pratte-nliten-poster.pdf"><i class="fa fa-film"></i></a>
+
+
+</section><a class="details" href="/papers/pratte2022nlitenworkshop/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/pratte2021empathy"><span id="pratte2021empathy">Sydney Pratte, Anthony Tang, and Lora Oehlberg. (2021). <span style="text-decoration: underline">Evoking Empathy: A Framework for Describing Empathy Tools</span>. In <i>TEI 2021: International Conference on Tangible, Embedded and Embodied Interaction</i>.</span>
+
+(conference).</a><br />
+
+	<small>Acceptance: 29.9% - 30/134.</small>
+
+
+
+	<br />
+
+
+	<a href="http://hcitang.org/papers/2021-tei2021-pratte-empathy.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+	<a href="https://www.youtube.com/watch?v=JBCzPt5ILxo"><i class="fa fa-sticky-note-o"></i></a>
+
+
+
+</section><a class="details" href="/papers/pratte2021empathy/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/seyed2019mannequette"><span id="seyed2019mannequette">Teddy Seyed and Anthony Tang. (2019). <span style="text-decoration: underline">Mannequette: Understanding and Enabling Collaboration and Creativity on Avant-Garde Fashion-Tech Runways</span>. In <i>DIS 2019: Conference on Designing Interactive Systems 2019</i>, 10 pages.</span>
+
+(conference).</a><br />
+
+	<small>Acceptance: 25% - 100/400.</small>
+
+
+	<small>Notes: Honourable mention (top 2% of all submissions).</small>
+
+
+	<br />
+
+
+	<a href="http://hcitang.org/papers/2019-dis2019-mannequette.pdf "><i class="fa fa-file-pdf-o"></i></a>
+
+
+
+	<a href="http://hcitang.org/papers/2019-dis2019-mannequette.mp4 "><i class="fa fa-film"></i></a>
+
+
+</section><a class="details" href="/papers/seyed2019mannequette/"><!-- --></a></li></ol>]]></content><author><name></name></author><category term="projects" /><category term="active" /><summary type="html"><![CDATA[The mannequette is a prototyping platform for electronic fashion garments. It is used in different ways: (a) in-situ, iterating and deciding upon fabrics at a market; (b) for prototyping light (LED) patterns and sensors on a miniature dress form with fabrics by using the mixer; (c) for integrating a previously prototyped and now completed pattern and sensor interactions into an assembled garment; (d) in a completed garment created in a runway show.]]></summary></entry><entry><title type="html">360 Video Interaction</title><link href="/projects/360video/" rel="alternate" type="text/html" title="360 Video Interaction" /><published>2023-06-27T00:00:00+08:00</published><updated>2023-06-27T00:00:00+08:00</updated><id>/projects/360-video</id><content type="html" xml:base="/projects/360video/"><![CDATA[<!-- 160x144 -->
+
+<p>360 video cameras provide an omnidirectional view on the world around us, and new opportunities to explore those views. Videos from these devices, in particular, afford us new ways to see and understand the world, as well as certain kinds of freedoms to explore these recorded experiences. Our work in this space has explored new ways to take advantage of the media – both in “single user” kinds of scenarios, where we are exploring spaces on our own, as well as in “multi user” kinds of experiences, where we are exploring the spaces with others.</p>
+
+<p>One of the neat challenges and opportunities with 360 video is that they allow us to decide what <em>we</em> want to look at as viewers. Most videos have an “intended viewing angle” determined by the producer/camera person. In this sense, they restrict your view, and your ability to explore the space. What makes 360 videos even more interesting is that we have an additional dimension of flexibilit (time), which we must also navigate in addition to viewing direction. Our work has explored ways to smoothing this interaction to make it more straightforward for viewers.</p>
+
+<h2 id="exploring-with-others--navigating-time-and-space-together">Exploring with Others – Navigating Time and Space Together</h2>
+
+<p>Most interfaces for exploring 360 video are made for single user exploration. This presents real challenges when we are trying to explore 360 video scenes with other people. Some of our earliest work in this space showed that viewing 360 videos with others is somewhat cumbersome – mainly because our goals as viewers may differ <a class="citation" href="#tang2017watching360together">(Tang &amp; Fakourfar, 2017)</a>. We observe similar kinds of challenges when people try to communicate over live mobile video chat <a class="citation" href="#jones2015mobilecamerawork">(Jones, Witcraft, Tang, Bateman, &amp; Neustaedter, 2015)</a>. We designed two prototypes to explore how live video interaction over distance could be made richer through 360 video cameras: in one where studied how a simple prototype might introduce new complexities to the interaction <a class="citation" href="#tang2017360videochat">(Tang, Fakourfar, Neustaedter, &amp; Bateman, 2017)</a>, and in another where we attached a 360 camera to a telepresence robot to support play <a class="citation" href="#heshmat2018beam">(Heshmat, Jones, Xiong, Neustaedter, Tang, Riecke, &amp; Yang, 2018)</a>. These experiences revealed the complexities of interacting with remote collaborators, and paved the way for new kinds of interaction techniques to smooth those interactions.</p>
+
+<p>Our most recent explorations of this research space have involved the design and evaluation of a prototype called Tourgether360 <a class="citation" href="#kumar2022tourgether">(Kumar, Poretski, Li, &amp; Tang, 2022; Kumar, Poretski, Li, &amp; Tang, 2022)</a>. This prototype allows people to experience virtual 360 tours together, and focuses on the design of communication and awareness tools to smooth the interactive dialogue between partners. We learned valuable lessons in this work – especially in how much communication is implicit and subtle.</p>
+
+<h2 id="single-user-exploration-of-360-videos">Single-User Exploration of 360 Videos</h2>
+
+<p>One challenge of exploring 360 videos is that one can really only manipulate one dimension at a time—either changing the view, or changing the time. Controlling both at the same time is hard. This means exploring 360 videos quickly is difficult. To this end, we created the Route Tapestries approach <a class="citation" href="#li2021routetapestries">(Li, Lyu, Sousa, Balakrishnan, Tang, &amp; Grossman, 2021)</a>, which borrows from the slit-tear approach <a class="citation" href="#tang2008exploring">(Tang, Greenberg, &amp; Fels, 2008)</a>. This technique creates continuous orthographic-perspective projection of scenes along camera routes, which allows users to quickly scan the entire video rapidly without having to watch the video in time.</p>
+
+<h2 id="publications">Publications</h2>
+
+<ol class="bibliography"><li><section id="citation">
+    <a href="/papers/kumar2022tourgetherlbw"><span id="kumar2022tourgetherlbw">Kartikaeya Kumar, Lev Poretski, Jiannan Li, and Anthony Tang. (2022). <span style="text-decoration: underline">Tourgether360: Exploring 360° Tour Videos with Others</span>. In <i>EA CHI ’22: Extended Abstracts of the 2022 SIGCHI Conference on Human Factors in Computing Systems</i>.</span>
+
+(poster).</a><br />
+
+	<small>Acceptance: 36.1% (261/722).</small>
+
+
+
+	<br />
+
+
+	<a href="http://hcitang.org/papers/2022-chi2022lbw-kumar-tourgether.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+
+	<a href="http://hcitang.org/papers/2022-chi2022lbw-kumar-tourgether.mp4"><i class="fa fa-film"></i></a>
+
+
+</section><a class="details" href="/papers/kumar2022tourgetherlbw/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/kumar2022tourgether"><span id="kumar2022tourgether">Kartikaeya Kumar, Lev Poretski, Jiannan Li, and Anthony Tang. (2022). <span style="text-decoration: underline"> Tourgether360: Collaborative Exploration of 360 Tour Videos using Pseudo-Spatial Navigation</span>. <i>Proceedings of the ACM on Human-Computer Interaction (PACMHCI)</i> 6, CSCW2.</span>
+
+(conference).</a><br />
+
+
+
+
+	<a href="https://hcitang.org/papers/2022-cscw2022-kumar-tourgether360.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+	<a href="https://cscw.acm.org/2022/"><i class="fa fa-sticky-note-o"></i></a>
+
+
+	<a href="https://hcitang.org/papers/2022-cscw2022-kumar-tourgether360.mp4"><i class="fa fa-film"></i></a>
+
+
+	<a href="https://doi.org/10.1145/3555604"><i class="fa fa-external-link"></i></a>
+
+</section><a class="details" href="/papers/kumar2022tourgether/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/li2021routetapestries"><span id="li2021routetapestries">Jiannan Li, Jiahe Lyu, Mauricio Sousa, Ravin Balakrishnan, Anthony Tang, and Tovi Grossman. (2021). <span style="text-decoration: underline">Route Tapestries: Navigating 360 Virtual Tour Videos Using Slit-Scan Visualizations</span>. In <i>UIST 2021: Proceedings of the 34th Annual ACM Symposium on User Interface Software and Technology</i>.</span>
+
+(conference).</a><br />
+
+	<small>Acceptance: 95/367 - 25.9%.</small>
+
+
+
+	<br />
+
+
+	<a href="http://hcitang.org/papers/2021-uist2021-li-routetapestries.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+	<a href="https://www.youtube.com/watch?v=0uAhUxJXgpc"><i class="fa fa-sticky-note-o"></i></a>
+
+
+	<a href="http://hcitang.org/papers/2021-uist2021-li-routetapestries.mp4"><i class="fa fa-film"></i></a>
+
+
+</section><a class="details" href="/papers/li2021routetapestries/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/heshmat2018beam"><span id="heshmat2018beam">Yasamin Heshmat, Brennan Jones, Xiaoxuan Xiong, Carman Neustaedter, Anthony Tang, Bernhard E. Riecke, and Lillian Yang. (2018). <span style="text-decoration: underline">Geocaching with a Beam: Shared Outdoor Activities through a Telepresence Robot with 360 Degree Viewing</span>. In <i>CHI 2018: Proceedings of the 2018 SIGCHI Conference on Human Factors in Computing Systems</i>, Paper 359.</span>
+
+(conference).</a><br />
+
+	<small>Acceptance: 25.7% - 667/2595.</small>
+
+
+	<small>Notes: 10 pages.</small>
+
+
+	<br />
+
+
+	<a href="http://hcitang.org/papers/2018-chi2018-geocaching-with-a-beam.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+	<a href="http://chi2018.acm.org"><i class="fa fa-sticky-note-o"></i></a>
+
+
+
+	<a href="http://doi.acm.org/10.1145/3173574.3173933"><i class="fa fa-external-link"></i></a>
+
+</section><a class="details" href="/papers/heshmat2018beam/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/tang2017360videochat"><span id="tang2017360videochat">Anthony Tang, Omid Fakourfar, Carman Neustaedter, and Scott Bateman. (2017). <span style="text-decoration: underline">Collaboration in 360° Videochat: Challenges and Opportunities</span>. In <i>DIS 2017: Conference on Designing Interactive Systems 2017 </i>, 1327–1339.</span>
+
+(conference).</a><br />
+
+	<small>Acceptance: 24% - 110/458.</small>
+
+
+	<small>Notes: Appendix material: http://dspace.ucalgary.ca/handle/1880/51950.</small>
+
+
+	<br />
+
+
+	<a href="http://hcitang.org/papers/2017-dis2017-360videochat.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+	<a href="http://dis2017.org/"><i class="fa fa-sticky-note-o"></i></a>
+
+
+	<a href=""><i class="fa fa-film"></i></a>
+
+
+	<a href="http://dx.doi.org/10.1145/3064663.3064707"><i class="fa fa-external-link"></i></a>
+
+</section><a class="details" href="/papers/tang2017360videochat/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/tang2017watching360together"><span id="tang2017watching360together">Anthony Tang and Omid Fakourfar. (2017). <span style="text-decoration: underline">Watching 360° Videos Together</span>. In <i>CHI 2017: Proceedings of the 2017 SIGCHI Conference on Human Factors in Computing Systems </i>, 4501–4506.</span>
+
+(conference).</a><br />
+
+	<small>Acceptance: 25% - 600/2400.</small>
+
+
+	<small>Notes: Presentation - https://www.youtube.com/watch?v=OPc4mBD7pgw.</small>
+
+
+	<br />
+
+
+	<a href="http://hcitang.org/papers/2017-chi2017-watching360video.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+	<a href="http://chi2017.acm.org"><i class="fa fa-sticky-note-o"></i></a>
+
+
+	<a href="http://hcitang.org/papers/2017-chi2017-watching360video.mp4"><i class="fa fa-film"></i></a>
+
+
+	<a href="http://dx.doi.org/10.1145/3025453.3025519"><i class="fa fa-external-link"></i></a>
+
+</section><a class="details" href="/papers/tang2017watching360together/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/jones2015mobilecamerawork"><span id="jones2015mobilecamerawork">Brennan Jones, Anna Witcraft, Anthony Tang, Scott Bateman, and Carman Neustaedter. (2015). <span style="text-decoration: underline">Mechanics of Camera Work in Mobile Video Collaboration</span>. In <i>CHI 2015: Proceedings of the 2015 SIGCHI Conference on Human Factors in Computing Systems</i>, ACM, 957–966.</span>
+
+(conference).</a><br />
+
+
+
+
+	<a href="http://hcitang.org/papers/2015-chi2015-mobile-video-collaboration.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+
+	<a href="http://hcitang.org/papers/2015-chi2015-mobile-video-collaboration.mp4"><i class="fa fa-film"></i></a>
+
+
+	<a href="http://dx.doi.org/10.1145/2702123.2702345"><i class="fa fa-external-link"></i></a>
+
+</section><a class="details" href="/papers/jones2015mobilecamerawork/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/tang2008exploring"><span id="tang2008exploring">Anthony Tang, Saul Greenberg, and Sidney Fels. (2008). <span style="text-decoration: underline">Exploring video streams using slit-tear visualizations</span>. In <i>AVI ’08: Proceedings of the working conference on Advanced visual
+    interfaces</i>, ACM, 191–198.</span>
+
+(conference).</a><br />
+
+
+
+
+	<a href="http://hcitang.org/papers/2008-avi2008-slit-tear.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+
+	<a href="http://www.youtube.com/watch?v=-kvMth6IpNw"><i class="fa fa-film"></i></a>
+
+
+	<a href="http://doi.acm.org/10.1145/1385569.1385601"><i class="fa fa-external-link"></i></a>
+
+</section><a class="details" href="/papers/tang2008exploring/"><!-- --></a></li></ol>]]></content><author><name></name></author><category term="projects" /><category term="active" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Games and Leisure</title><link href="/projects/games/" rel="alternate" type="text/html" title="Games and Leisure" /><published>2023-06-27T00:00:00+08:00</published><updated>2023-06-27T00:00:00+08:00</updated><id>/projects/games</id><content type="html" xml:base="/projects/games/"><![CDATA[<p>Games are an important piece of the social fabric in our everyday lives. They help us build relationships with one another, and us with a fantasy space to practice working with and competing against others.</p>
+
+<figure>
+
+	<img src="/assets/images/project-images/sphero.jpg" alt="A physical Sphero can be controlled by tilting a corresponding &lt;em&gt;control sphero&lt;/em&gt; in the desired direction of movement." width="100%" />
+
+
+<figcaption>
+    A physical Sphero can be controlled by tilting a corresponding <em>control sphero</em> in the desired direction of movement.
+</figcaption>
+
+</figure>
+
+<p>We have a continuing interest in games – and I don’t just mean in terms of playing them! – both in terms of studying how people interact with one another in games <a class="citation" href="#tang2012verbal">(Tang, Massey, Wong, Reilly, &amp; Edwards, 2012; Wong, Tang, Livingston, Gutwin, &amp; Mandryk, 2009; Neustaedter, Tang, &amp; Tejinder, 2010)</a>, and in terms of designing engaging experiences <a class="citation" href="#jones2014spherosumo">(Jones, Dillman, Manesh, Sharlin, &amp; Tang, 2014; Finke, Tang, Leung, &amp; Blackstock, 2008; Neustaedter, Tang, &amp; Judge, 2013)</a>. Our explorations have included physical games <a class="citation" href="#jones2014spherosumo">(Jones, Dillman, Manesh, Sharlin, &amp; Tang, 2014)</a>, MMORPGs <a class="citation" href="#wong2009character">(Wong, Tang, Livingston, Gutwin, &amp; Mandryk, 2009)</a>, first-person shooters <a class="citation" href="#tang2012verbal">(Tang, Massey, Wong, Reilly, &amp; Edwards, 2012)</a>, and pervasive games <a class="citation" href="#neustaedter2010role">(Neustaedter, Tang, &amp; Tejinder, 2010; Neustaedter, Tang, &amp; Judge, 2013; Jeffrey, Blackstock, Finke, Tang, Lea, Deutscher, &amp; Miyaoku, 2006)</a>.</p>
+
+<p>Our most recent efforts have gone into exploring how to describe and articulate the kinds of design strategies game designers use in their games. By identifying these strategies, other designers can learn from this, and improve their own games – perhaps by replicating these approaches, or by improving them. For instance, we categorized how game designers promote learnability in their games <a class="citation" href="#poretski2022learnability">(Poretski &amp; Tang, 2022)</a>. We also explored how game designers visually cue players within the context of video games <a class="citation" href="#dillman2018visualinteractioncue">(Dillman, Mok, Tang, Oehlberg, &amp; Mitchell, 2018)</a>. Finally, we considered how game designers provide players with an awareness of other players within the game space <a class="citation" href="#wuertz2018awareness">(Wuertz, Alharthi, Hamilton, Bateman, Gutwin, Tang, Toups, &amp; Hammer, 2018)</a></p>
+
+<h2 id="livestreaming">Livestreaming</h2>
+
+<p>We have also taken a keen interest in livestreaming culture. We explored the nature of mukbang culture – that is, eating massive quantities of food on video – specifically to understand why people watch these videos <a class="citation" href="#anjani2020mukbang">(Anjani, Mok, Tang, Oehlberg, &amp; Boon, 2020)</a>. We learned that people watch these videos for a variety of reasons, including missing their home culture or having an interest in learning about new food cultures. We have also recently found that it is possible to realize new taste sensations through such videos <a class="citation" href="#james2022flavorvideos">(James, Ranasinghe, Tang, &amp; Oehlberg, 2022)</a>.</p>
+
+<p>Yet, Livestreaming has created entirely new spaces for people to live, exist and be together with one another. Our recent work has explored how autistic livestreamers have taken over a sizable corner of the livestreaming market, creating a space for them to be who they are, to share their stories, and to be visible to one another and others <a class="citation" href="#mok2022livestreamers">(Mok, Tang, McCrimmon, &amp; Oehlberg, 2022)</a>.</p>
+
+<h2 id="publications">Publications</h2>
+
+<ol class="bibliography"><li><section id="citation">
+    <a href="/papers/james2022flavorvideos"><span id="james2022flavorvideos">Meetha Nesam James, Nimesha Ranasinghe, Anthony Tang, and Lora Oehlberg. (2022). <span style="text-decoration: underline"> Flavor-Videos: Enhancing the Flavor Perception of Food while Eating with Videos </span>. In <i>IMX 2022: ACM International Conference on Interactive Media Experiences</i>.</span>
+
+(conference).</a><br />
+
+	<small>Acceptance: 40% - 19/47.</small>
+
+
+
+	<br />
+
+
+	<a href="https://hcitang.org/papers/2022-imx2022-james-flavor-videos.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+	<a href="https://imx.acm.org/2022/"><i class="fa fa-sticky-note-o"></i></a>
+
+
+
+	<a href="http://doi.acm.org?doi=3505284.3529967"><i class="fa fa-external-link"></i></a>
+
+</section><a class="details" href="/papers/james2022flavorvideos/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/poretski2022learnability"><span id="poretski2022learnability">Lev Poretski and Anthony Tang. (2022). <span style="text-decoration: underline">Press A to Jump: Design Strategies for Video Game Learnability</span>. In <i>CHI 2022: Proceedings of the 2022 SIGCHI Conference on Human Factors in Computing Systems</i>.</span>
+
+(conference).</a><br />
+
+	<small>Acceptance: 24.7% - 638/2579.</small>
+
+
+
+	<br />
+
+
+	<a href="http://hcitang.org/papers/2022-chi2022-poretski-video-game-learnability.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+
+	<a href="http://hcitang.org/papers/2022-chi2022-poretski-video-game-learnability-talk.mov"><i class="fa fa-film"></i></a>
+
+
+</section><a class="details" href="/papers/poretski2022learnability/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/mok2022livestreamers"><span id="mok2022livestreamers">Terrance Mok, Anthony Tang, Adam McCrimmon, and Lora Oehlberg. (2022). <span style="text-decoration: underline"> Social Access and Representation for Autistic Adult Livestreamers </span>. In <i>ASSETS ’22: The 24th International ACM SIGACCESS Conference on Computers and Accessibility</i>.</span>
+
+(poster).</a><br />
+
+
+
+
+	<a href=" http://hcitang.org/papers/2022-assets2022poster-mok-livestreamers.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+
+	<a href=" http://hcitang.org/papers/2022-assets2022poster-mok-livestreamers.mp4"><i class="fa fa-film"></i></a>
+
+
+	<a href="https://doi.org/10.1145/3517428.3550400"><i class="fa fa-external-link"></i></a>
+
+</section><a class="details" href="/papers/mok2022livestreamers/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/anjani2020mukbang"><span id="anjani2020mukbang">Laurensia Anjani, Terrance Mok, Anthony Tang, Lora Oehlberg, and Goh Wooi Boon. (2020). <span style="text-decoration: underline">Why do people watch others eat? An empirical study on the motivations and practices of mukbang viewers</span>. In <i>CHI 2020: Proceedings of the 2020 SIGCHI Conference on Human Factors in Computing Systems</i>, 1–12.</span>
+
+(conference).</a><br />
+
+
+
+
+	<a href="http://hcitang.org/papers/2020-chi2020-mukbang.pdf "><i class="fa fa-file-pdf-o"></i></a>
+
+
+
+
+</section><a class="details" href="/papers/anjani2020mukbang/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/wuertz2018awareness"><span id="wuertz2018awareness">Jason Wuertz, Sultan A. Alharthi, William A. Hamilton, Scott Bateman, Carl Gutwin, Anthony Tang, Zachary O. Toups, and Jessica Hammer. (2018). <span style="text-decoration: underline">A Design Framework for Awareness Cues in Distributed Multiplayer Games</span>. In <i>CHI 2018: Proceedings of the 2018 SIGCHI Conference on Human Factors in Computing Systems</i>, Paper 243.</span>
+
+(conference).</a><br />
+
+	<small>Acceptance: 25.7% - 667/2595.</small>
+
+
+	<small>Notes: 10 pages.</small>
+
+
+	<br />
+
+
+	<a href="http://hcitang.org/papers/2018-chi2018-awarenses-cues.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+	<a href="http://chi2018.acm.org"><i class="fa fa-sticky-note-o"></i></a>
+
+
+
+	<a href="http://doi.acm.org/10.1145/3173574.3173817"><i class="fa fa-external-link"></i></a>
+
+</section><a class="details" href="/papers/wuertz2018awareness/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/dillman2018visualinteractioncue"><span id="dillman2018visualinteractioncue">Kody Dillman, Terrance Mok, Anthony Tang, Lora Oehlberg, and Alex Mitchell. (2018). <span style="text-decoration: underline">A Visual Interaction Cue Framework from Video Game Environments for Augmented Reality</span>. In <i>CHI 2018: Proceedings of the 2018 SIGCHI Conference on Human Factors in Computing Systems</i>, Paper 140.</span>
+
+(conference).</a><br />
+
+	<small>Acceptance: 25.7% - 667/2595.</small>
+
+
+	<small>Notes: 10 pages; Includes raw supplemental material of the game examples described in the paper.</small>
+
+
+	<br />
+
+
+	<a href="http://hcitang.org/papers/2018-chi2018-visual-interaction-cues.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+	<a href="http://hcitang.org/papers/2018-chi2018-visual-interaction-cues-game-examples-supplement.zip"><i class="fa fa-sticky-note-o"></i></a>
+
+
+	<a href="https://www.youtube.com/watch?v=3FoZStToALQ"><i class="fa fa-film"></i></a>
+
+
+	<a href="http://doi.acm.org/10.1145/3173574.3173714"><i class="fa fa-external-link"></i></a>
+
+</section><a class="details" href="/papers/dillman2018visualinteractioncue/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/jones2014spherosumo"><span id="jones2014spherosumo">Brennan Jones, Kody Dillman, Setareh Aghel Manesh, Ehud Sharlin, and Anthony Tang. (2014). <span style="text-decoration: underline">Designing an Immersive and Entertaining Pervasive Gameplay Experience with Spheros as Game and Interface Elements</span>. In <i>EA CHI PLAY ’14: ACM SIGCHI Annual Symposium on Computer-Human Interaction in Play</i>.</span>
+
+(poster).</a><br />
+
+
+	<small>Notes: 2-page abstract + poster.</small>
+
+
+	<br />
+
+
+	<a href="http://hcitang.org/papers/2014-chiplay2014-spherosumo.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+
+
+	<a href="http://dx.doi.org/10.1145/2658537.2661301"><i class="fa fa-external-link"></i></a>
+
+</section><a class="details" href="/papers/jones2014spherosumo/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/neustaedter2013creating"><span id="neustaedter2013creating">Carman Neustaedter, Anthony Tang, and Tejinder K. Judge. (2013). <span style="text-decoration: underline">Creating scalable location-based games: lessons from Geocaching</span>. <i>Personal Ubiquitous Comput.</i> 17, 2: <span style="text-decoration: none">335–349</span>.</span>
+
+(journal).</a><br />
+
+
+
+
+	<a href="http://hcitang.org/papers/2013-puc-scalable-location-based-games.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+
+
+	<a href="http://dx.doi.org/10.1007/s00779-011-0497-7"><i class="fa fa-external-link"></i></a>
+
+</section><a class="details" href="/papers/neustaedter2013creating/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/tang2012verbal"><span id="tang2012verbal">Anthony Tang, Jonathan Massey, Nelson Wong, Derek Reilly, and W. Keith Edwards. (2012). <span style="text-decoration: underline">Verbal coordination in first person shooter games</span>. In <i>CSCW ’12: Proceedings of the ACM 2012 conference on Computer Supported
+    Cooperative Work</i>, ACM, 579–582.</span>
+
+(conference).</a><br />
+
+	<small>Acceptance: 29.6% - 37/125 for notes.</small>
+
+
+
+	<br />
+
+
+	<a href="http://hcitang.org/papers/2012-cscw2012-fps.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+
+
+	<a href="http://doi.acm.org/10.1145/2145204.2145292"><i class="fa fa-external-link"></i></a>
+
+</section><a class="details" href="/papers/tang2012verbal/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/neustaedter2010role"><span id="neustaedter2010role">Carman Neustaedter, Anthony Tang, and Judge K. Tejinder. (2010). <span style="text-decoration: underline">The role of community and groupware in geocache creation and maintenance</span>. In <i>CHI ’10: Proceedings of the SIGCHI Conference on Human Factors in
+    Computing Systems</i>, ACM, 1757–1766.</span>
+
+(conference).</a><br />
+
+
+
+
+	<a href="http://hcitang.org/papers/2010-chi2010-geocaching.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+
+
+	<a href="http://doi.acm.org/10.1145/1753326.1753590"><i class="fa fa-external-link"></i></a>
+
+</section><a class="details" href="/papers/neustaedter2010role/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/wong2009character"><span id="wong2009character">Nelson Wong, Anthony Tang, Ian Livingston, Carl Gutwin, and Regan Mandryk. (2009). <span style="text-decoration: underline">Character sharing in World of Warcraft</span>. In <i>ECSCW 2009: Proceedings of the European Conference on Computer Supported
+    Cooperative Work (ECSCW)</i>, Springer London, 343–362.</span>
+
+(conference).</a><br />
+
+
+
+
+	<a href="http://hcitang.org/papers/2009-ecscw2009-character-sharing.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+
+
+</section><a class="details" href="/papers/wong2009character/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/finke2008lessons"><span id="finke2008lessons">Matthias Finke, Anthony Tang, Rock Leung, and Michael Blackstock. (2008). <span style="text-decoration: underline">Lessons learned: game design for large public displays</span>. In <i>DIMEA ’08: Proceedings of the 3rd international conference on Digital
+    Interactive Media in Entertainment and Arts</i>, ACM, 26–33.</span>
+
+(conference).</a><br />
+
+
+
+
+	<a href="http://hcitang.org/papers/2008-dimea2008-lessons-learned.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+
+
+	<a href="http://doi.acm.org/10.1145/1413634.1413644"><i class="fa fa-external-link"></i></a>
+
+</section><a class="details" href="/papers/finke2008lessons/"><!-- --></a></li>
+<li><section id="citation">
+    <a href="/papers/jeffrey2006chasing"><span id="jeffrey2006chasing">Phillip Jeffrey, Mike Blackstock, Matthias Finke, Anthony Tang, Rodger Lea, Meghan Deutscher, and Kento Miyaoku. (2006). <span style="text-decoration: underline">Chasing the Fugitive on Campus: Designing a Location-based Game for Collaborative
+    Play</span>. <i>Loading.. Journal</i> 1, 1.</span>
+
+(journal).</a><br />
+
+
+
+
+	<a href="http://hcitang.org/papers/2006-cgsa2006-chasing-the-fugitive-full.pdf"><i class="fa fa-file-pdf-o"></i></a>
+
+
+
+
+</section><a class="details" href="/papers/jeffrey2006chasing/"><!-- --></a></li></ol>]]></content><author><name></name></author><category term="projects" /><category term="active" /><summary type="html"><![CDATA[Games are an important piece of the social fabric in our everyday lives. They help us build relationships with one another, and us with a fantasy space to practice working with and competing against others.]]></summary></entry><entry><title type="html">Recruiting PhD Students for 2020</title><link href="/blog/2019/recruiting-for-2020/" rel="alternate" type="text/html" title="Recruiting PhD Students for 2020" /><published>2019-12-07T00:00:00+08:00</published><updated>2019-12-07T00:00:00+08:00</updated><id>/blog/2019/recruiting-for-2020</id><content type="html" xml:base="/blog/2019/recruiting-for-2020/"><![CDATA[<p>RICELab in the Faculty of Information at the University of Toronto is seeking PhD students with a strong interest in HCI/UX research, and a suitable foundation to design, build, and evaluate novel interactive experiences. Current research themes for RICELab include:</p>
 
 <ul>
   <li>Mixed reality (AR/VR) interfaces and tools for collaboration;</li>
@@ -21,47 +861,7 @@
 
 <p>Applications into the program are due by January 15, 2020. https://ischool.utoronto.ca/future-students/apply/phd-apply/</p>
 
-<p>RICELab (Rethinking Interaction Collaboration and Engagement) Lab focuses on designing, building and evaluating novel user experiences for communication and collaboration. We are situated within the Faculty of Information, home to a diverse community of researchers that explore the intersections of information, interaction, culture, and society. We are colocated with the Knowledge Media Design Institute-Semaphore group, which also conducts human-centered research.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[RICELab in the Faculty of Information at the University of Toronto is seeking PhD students with a strong interest in HCI/UX research, and a suitable foundation to design, build, and evaluate novel interactive experiences. Current research themes for RICELab include:]]></summary></entry><entry><title type="html">Electronic Fashion</title><link href="/projects/efashion/" rel="alternate" type="text/html" title="Electronic Fashion" /><published>2019-06-05T00:00:00+08:00</published><updated>2019-06-05T00:00:00+08:00</updated><id>/projects/electronic-fashion</id><content type="html" xml:base="/projects/efashion/"><![CDATA[<figure>
-
-	<img src="/assets/images/project-images/mannequette.png" alt="The mannequette is a prototyping platform for electronic fashion garments. It is used in different ways: (a) in-situ, iterating and deciding upon fabrics at a market; (b) for prototyping light (LED) patterns and sensors on a miniature dress form with fabrics by using the mixer; (c) for integrating a previously prototyped and now completed pattern and sensor interactions into an assembled garment; (d) in a completed garment created in a runway show." width="100%" />
-
-
-<figcaption>
-    The mannequette is a prototyping platform for electronic fashion garments. It is used in different ways: (a) in-situ, iterating and deciding upon fabrics at a market; (b) for prototyping light (LED) patterns and sensors on a miniature dress form with fabrics by using the mixer; (c) for integrating a previously prototyped and now completed pattern and sensor interactions into an assembled garment; (d) in a completed garment created in a runway show.
-</figcaption>
-
-</figure>
-
-<p>Digital tools enable rich new forms of self-expression, and we explore this in the context of electronic fashion.</p>
-
-<p>To enable our work, we design new toolkits for building electronic fashion. This gives designers the ability to access electronic sensors and actuatuators without needing to write computer code <a class="citation" href="#seyed2019mannequette">(Seyed &amp; Tang, 2019)</a>.</p>
-
-<p>We are also interested in how these electronic garments can be used for communicating challenging concepts and ideas.</p>
-
-<h2 id="publications">Publications</h2>
-
-<ol class="bibliography"><li><section id="citation">
-    <a href="/papers/seyed2019mannequette"><span id="seyed2019mannequette">Teddy Seyed and Anthony Tang. (2019). <span style="text-decoration: underline">Mannequette: Understanding and Enabling Collaboration and Creativity on Avant-Garde Fashion-Tech Runways</span>. In <i>DIS 2019: Conference on Designing Interactive Systems 2019</i>, 10 pages.</span>
-
-(conference).</a><br />
-
-	<small>Acceptance: 25% - 100/400.</small>
-
-
-	<small>Notes: Honourable mention (top 2% of all submissions).</small>
-
-
-	<br />
-
-
-	<a href="http://hcitang.org/papers/2019-dis2019-mannequette.pdf "><i class="fa fa-file-pdf-o"></i></a>
-
-
-
-	<a href="http://hcitang.org/papers/2019-dis2019-mannequette.mp4 "><i class="fa fa-film"></i></a>
-
-
-</section><a class="details" href="/papers/seyed2019mannequette/"><!-- --></a></li></ol>]]></content><author><name></name></author><category term="projects" /><category term="active" /><summary type="html"><![CDATA[The mannequette is a prototyping platform for electronic fashion garments. It is used in different ways: (a) in-situ, iterating and deciding upon fabrics at a market; (b) for prototyping light (LED) patterns and sensors on a miniature dress form with fabrics by using the mixer; (c) for integrating a previously prototyped and now completed pattern and sensor interactions into an assembled garment; (d) in a completed garment created in a runway show.]]></summary></entry><entry><title type="html">ILab CHI Club 2018</title><link href="/blog/2018/ilabchiclub2018/" rel="alternate" type="text/html" title="ILab CHI Club 2018" /><published>2018-08-29T00:00:00+08:00</published><updated>2018-08-29T00:00:00+08:00</updated><id>/blog/2018/ilabchiclub2018</id><content type="html" xml:base="/blog/2018/ilabchiclub2018/"><![CDATA[<blockquote>
+<p>RICELab (Rethinking Interaction Collaboration and Engagement) Lab focuses on designing, building and evaluating novel user experiences for communication and collaboration. We are situated within the Faculty of Information, home to a diverse community of researchers that explore the intersections of information, interaction, culture, and society. We are colocated with the Knowledge Media Design Institute-Semaphore group, which also conducts human-centered research.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[RICELab in the Faculty of Information at the University of Toronto is seeking PhD students with a strong interest in HCI/UX research, and a suitable foundation to design, build, and evaluate novel interactive experiences. Current research themes for RICELab include:]]></summary></entry><entry><title type="html">ILab CHI Club 2018</title><link href="/blog/2018/ilabchiclub2018/" rel="alternate" type="text/html" title="ILab CHI Club 2018" /><published>2018-08-29T00:00:00+08:00</published><updated>2018-08-29T00:00:00+08:00</updated><id>/blog/2018/ilabchiclub2018</id><content type="html" xml:base="/blog/2018/ilabchiclub2018/"><![CDATA[<blockquote>
   <p>CHI Club is designed as opportunities for CHI authors to get feedback from other members of the lab, and for reviewers to gain experience in reading and providing useful critique for others who are writing.</p>
 </blockquote>
 
@@ -263,208 +1063,4 @@ That's not a question, but great. You'll be assigned 4-6 reviews. Thanks for you
   <li>Cantonese is a tonal language, with 6+ tones that could exist for one sound, and all can mean different things. It’s very difficult to master for foreigners. If you try out a few words in Cantonese, don’t be offended if people don’t understand what you’re saying; if anything, they would probably get super giddy and excited that a foreigner knows a few words :)</li>
   <li>Bring an umbrella and a rain coat. HK often gets rainy, but June is typhoon season.</li>
   <li>Power is 220V, takes UK style plugs. Bring an adapter if you need one. Some hotels will have spare adapters, while others will have US style plugs. If you forget your adapter, you can pick one up for cheap at the Wan Chai computer center!</li>
-</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Co-authored by Tony and Tiffany Wun]]></summary></entry><entry><title type="html">Interaction Design for 2020</title><link href="/blog/2018/interaction-design-for-2020/" rel="alternate" type="text/html" title="Interaction Design for 2020" /><published>2018-04-20T00:00:00+08:00</published><updated>2018-04-20T00:00:00+08:00</updated><id>/blog/2018/interaction-design-for-2020</id><content type="html" xml:base="/blog/2018/interaction-design-for-2020/"><![CDATA[<p>I was kindly invited by Scott Bateman and Julie Maitland to give a talk at <a href="https://www.nextgenux.ca/">NextGenUX</a>, which was held on April 19-20 at the University of Fredricton. This was an interesting “academia meets industry” conference that had a great set of international speakers (Julie Williamson, Bart Knijnenburg, Xing-Dong Yang, Cosmin Munteanu and Rita Orji) giving 30-45 min talks about their work, and a tutorial session the day before where we gave a fast mini-course on UX methods.</p>
-
-<p>My talk discussed some challenges I forsee for UX in the next few years. I track three specific technology trends: internet of things, artificial intelligence and security, and discuss how these present fundamental challenges (and opportunities) to UX. Another thread I weave into this discussion is the importance of carefully and meaningfully think about our values as we design the technologies of tomorrow, otherwise, we will be subject the whim of arbitrarily random written program code.</p>
-
-<p>I make three points in this talk: first, that most technologies coming out of the personal computing revolution of the 80s and 90s were focused on the business value of efficiency; second, I suggest that solely designing with this value in mind is inappropriate in light of how we use technology today (and how we will use it tomorrow!)–that is, at home, with our families and loved ones, etc., demonstrating this through recent events such as the Cambridge Analytica scandal, and simple thought experiments; third, I implore designers to explicitly consider our values as people and as a society in system designs.</p>
-
-<p>I’ve written about <a href="http://ricelab.cpsc.ucalgary.ca/blog/2016/values-in-technology-design/">values in technology design before</a>, but this was the first time I got a chance to speak about it. To help drive the message about values home, I used some examples from my recent trips to Singapore and Japan to illustrate that while some ideas are reasonable in other places, they do not resonate with our own values. I also used a thought experiment about tracking children to try to drive this point home, distinguishing between what can be done, and what ought to be done, based on the values that we hold. Finally, I tried to hit this message home by talking a bit about the Cambridge Analytica scandal.</p>
-
-<p>I then discuss three challenges that new technologies bring to the fore, namely: (a) we will have difficulty understanding system state when it is distributed, opaque, or interfaceless; (b) that we need new ways of telling the system about ourselves, the context, and our values, and (c) that we need new ways to think about security that account for everyday situations.</p>
-
-<p>To talk about the understanding the system state problem, I talked about a number of benign examples of my everyday life. These included the typical bathroom conundrums, but I also included an anecdote about my recent experiences in Japan. I used these examples to hint at the idea that differences in vocabulary can effectively mean differences in language (and therefore understanding) in many interface designs. I fielded two questions about this in the question period, so I think this idea resonated with the audience.</p>
-
-<p>In talking about explicitly trying to impart values into our designs, I talked about the need to teach self-driving cars about how to kill people. I’ve loved that sort of attention grabbing phrase, but the idea has been powerful and important. Because the idea seemed to resonate, I spent a bit more time talking about it than I’d intended. I fielded an interesting question about the challenge of dealing with the fact that people have varying values, and how to account for this. My response was that I wasn’t sure, but that regardless of this, we still ought to confront that challenge head-on rather than to pretend it wouldn’t happen. I mean, it is not unlike an ambiguity in a software engineering context: if you don’t address it head on, it’s not likely that it will resolve itself anyway.</p>
-
-<p>Finally, I got to talk about everyday security. I didn’t really do this idea much justice, as I was short on time, so I spent time instead talking about the case of the 19 year old kid who has been arrested for downloading too many freedom of information request documents off a public webserver. While details are a bit sketchy, one thing that was clear was that: the ease of information access does not reflect how those in charge viewed the sensitivity of the information.</p>
-
-<p>My message was that interaction design will be harder tomorrow than it is today, because wireless connectivity, distributed devices and sensors, and AI obfuscate the function of the “system.” My call to action for technologists was to recognize that our system designs are embedded with values, and ensure they are the correct values. My threat was to suggest that ignoring these challenges will not only create unusable systems, but fundamentally dangerous ones.</p>
-
-<p>I neglected to end on a happy note, which was a shame. I meant to point to the work of the others at the conference, which I think really gets at the heart of the idea that we need value-driven design to guide the design of the next generation of technology.</p>
-
-<p>(I had previously given an earlier version of this talk at the <a href="https://uplb.edu.ph/">University of the Philippines Los Baños</a>, kindly hosted by <a href="https://medium.com/@tjmonsi/latest">TJ Monserrat</a>, and have since modified the focus of the talk to focus on values.)</p>
-
-<h3 id="additional-reading">Additional Reading</h3>
-<ul>
-  <li><a href="http://hcitang.org/papers/2018-nextgenux-id-for-2020.pptx">Slides for my talk</a></li>
-  <li><a href="http://www.cbc.ca/news/technology/cambridge-analytica-nix-uk-committee-1.4622879">News</a> <a href="http://www.cbc.ca/news/business/facebook-mark-zuckerberg-cambridge-analytica-1.4586659">articles</a> <a href="https://www.cnn.com/2018/03/21/politics/trump-campaign-cambridge-analytica/index.html">about</a> <a href="https://www.cnn.com/2018/03/24/europe/raid-cambridge-analytica---intl/index.html">Cambridge</a> <a href="https://www.pcmag.com/feature/360510/9-things-we-learned-from-an-ex-cambridge-analytica-exec">Analytica</a> and how their work potentially impacted the 2016 US election.</li>
-  <li><a href="https://www.vox.com/first-person/2018/4/11/17221344/mark-zuckerberg-facebook-cambridge-analytica">VOX article by Facebook CEO Mark Zuckerberg’s former speech-writer</a></li>
-  <li><a href="http://moralmachine.mit.edu/">Moral Machine Project</a> from MIT.</li>
-  <li><a href="http://nationalpost.com/news/politics/a-nova-scotia-teen-found-a-big-security-hole-on-a-government-server-should-he-be-jailed-or-rewarded">Some</a> <a href="http://www.cbc.ca/news/canada/nova-scotia/teen-accused-foi-website-resonates-programmers-1.4623757">news</a> <a href="https://www.theregister.co.uk/2018/04/18/nova_scotia_teenager_hacking_allegation/">articles</a> about a 19 year old getting arrested after having downloaded a lot of FOI request documents off a publicly-accessible web server.</li>
-</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[I was kindly invited by Scott Bateman and Julie Maitland to give a talk at NextGenUX, which was held on April 19-20 at the University of Fredricton. This was an interesting “academia meets industry” conference that had a great set of international speakers (Julie Williamson, Bart Knijnenburg, Xing-Dong Yang, Cosmin Munteanu and Rita Orji) giving 30-45 min talks about their work, and a tutorial session the day before where we gave a fast mini-course on UX methods.]]></summary></entry><entry><title type="html">Visual Interaction Cues in Video Games for AR</title><link href="/blog/2018/visual-interaction-cues/" rel="alternate" type="text/html" title="Visual Interaction Cues in Video Games for AR" /><published>2018-03-20T00:00:00+08:00</published><updated>2018-03-20T00:00:00+08:00</updated><id>/blog/2018/visual-interaction-cues</id><content type="html" xml:base="/blog/2018/visual-interaction-cues/"><![CDATA[<p>Video games use a visual language for guiding players through the virtual worlds that they embody. For example, a player might see a blinking arrow to tell him/her which way to move his/her avatar through the game – something we call a <em>visual interaction cue</em>. This paper attempted to document this visual language, categorizing the different purposes these cues are designed for, how they are presented within a video game, and also how they are activated. Our idea was to use this to inspire designs for new augmented reality systems as they become more popular.</p>
-
-<p>Our data collection process took us across a bunch of different genres of games, where the crucial purpose was to identify and document different specific examples of visual interaction cues. We spent a long time discussion, organizing, tearing apart, and reorganizing the categories. Ultimately, we landed on a three-axis framework for describing each visual interaction cue we found: purpose, markedness, and trigger.</p>
-
-<p>Purpose was broken into three categories: <em>discovery</em> to help the player find or to identify something in the environment; <em>look</em> to help the player see something in a timely manner, and <em>go</em> to help the player get somewhere in the environment.</p>
-
-<p>Markedness was broken into four categories: <em>subtle</em>, where the cue blends into the environment or visual scene seamlessly; <em>emphasized</em>, where the object or surface is highlighted; <em>integrated</em>, where a virtual object (e.g. a 3D arrow) is added to the viewport of the player, and tracks the object; and <em>overlaid</em>, where virtual objects are added atop the viewport, that don’t track the view.</p>
-
-<p>Finally, trigger was broken down into what actually caused the visual trigger.</p>
-
-<p>My favourite image from the paper illustrates the different cues pretty well:</p>
-
-<p><img src="/assets/images/blog/visual-interaction-cues.png" alt="Key figure from the paper that illustrates the different cues" class="img-responsive" /></p>
-
-<p>In turn: (a) shows a subtle offset color on the wall to help a player discover a hidden area; (b) shows a flash to tell the player that someone is shooting at him/her; (c) the light shining from the sword tells the player where to go next; (d) the “loot bag” next to the dead body is highlighted to tell the player s/he can interact with it; (e) the enemy glows red suddenly to indicate that the enemy is ready for a timed attack; (f) the door is highlighted to tell the player where to go; (g) the hot dog has a visual annotation to tell the player it can be interacted with; (h) the player has a circular disc drawn to shown the direction of an enemy; (i) added cues show the player where to snowboard to; (j) an overview map shows where different interactable objects or characters are; (k) flares on the reticule show where the player is receiving damage, and (l) the compass on the top shows the player where to go.</p>
-
-<p>While it is probably exhausting to read the above, note that each layer or column of the table is meaningful. Each column shows cues with similar purpose (either to help the player to discover interactable objects, observe timed events, or where to go). Similarly, each row shows a different visual way in which the cues are presented.</p>
-
-<p>I was excited not only to help develop this framework, but also to think about how these cues can be used for the design of future AR systems. Up up and away!</p>
-
-<p>For more information, take a look at:</p>
-
-<ul>
-  <li><a href="http://hcitang.org/papers/2018-chi2018-visual-interaction-cues-game-examples-supplement.zip">the game examples that we found and use in the paper</a>, or</li>
-  <li><a href="http://hcitang.org/papers/2018-chi2018-visual-interaction-cues.pdf">the CHI 2018 paper that documents the framework</a>.</li>
-</ul>
-
-<p>Here’s the full citation:</p>
-
-<blockquote>
-  <p>Kody Dillman, Terrance Mok, Anthony Tang, Lora Oehlberg, and Alex Mitchell. (2018). A Visual Interaction Cue Framework from Video Game Environments for Augmented Reality. In CHI 2018: Proceedings of the 2018 SIGCHI Conference on Human Factors in Computing Systems, 10. (conference).
-Acceptance: 25.7% - 667/2595.</p>
-</blockquote>
-
-<p><strong>Reflection:</strong> For me, this was a total passion project. I love the idea of going into worlds that I know and love (i.e. video games), where people have sort of developed a “lore” or “way” of doing things (either consciously or unconsciously), and trying to document this in a way that is useful for something else. Kody’s MSc project had originally began with concrete instantiations of these ideas, but after a time, we realized we needed a more grounded approach for thinking about these cues. Thus, the project was born. Amazingly fun.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Video games use a visual language for guiding players through the virtual worlds that they embody. For example, a player might see a blinking arrow to tell him/her which way to move his/her avatar through the game – something we call a visual interaction cue. This paper attempted to document this visual language, categorizing the different purposes these cues are designed for, how they are presented within a video game, and also how they are activated. Our idea was to use this to inspire designs for new augmented reality systems as they become more popular.]]></summary></entry><entry><title type="html">Perspective and Object Manipulation in Remote Collaboration</title><link href="/blog/2018/rema/" rel="alternate" type="text/html" title="Perspective and Object Manipulation in Remote Collaboration" /><published>2018-03-20T00:00:00+08:00</published><updated>2018-03-20T00:00:00+08:00</updated><id>/blog/2018/rema</id><content type="html" xml:base="/blog/2018/rema/"><![CDATA[<p>For a while now, we have been chasing down a research thread about remote collaboration – scenarios where one person is trying to help someone else out through a video chat link. One of the things we found problematic is that the helper cannot actually do a good job of saying to the other person, “Hey, you need to be looking at it from <em>this angle</em>, like <em>this</em>.” What if you could change your friend’s viewing angle on the object? This project explored that possibility through a study, demonstrating that a shared perspective (as opposed to the “opposing perspective” that is offered by conventional video chat tools) on the space is important.</p>
-
-<p><img src="https://i.imgur.com/TYabJrY.jpg" alt="Perspective matters" /></p>
-
-<p>The way we are looking at physical things has a huge impact on how we understand a problem or a situation. This is important in remote assistance scenarios, where a remote helper has knowledge that the novice worker does not, but may not know how this information can/should be applied to the situation at hand. Instead, the two need to work together to develop an understanding of the situation together, and this comes in part from a shared perspective/understanding of the situation.</p>
-
-<p>We designed a study to assess whether how perspective on a workspace/object affects the collaborative flow. That is, how do people solve the problem together if they have a conventional face-to-face perspective on an object (where the object is between them) versus if they have a shared perspective on an object (where they view the object from the same perspective). Perhaps unsurprisingly, it is better to have a shared perspective, where both you and your collaborator are viewing an object from the same perspective. This makes sense if you think about trying to solve a Rubik’s cube – it would be easier if the expert could see the cube from your perspective rather than watching from the other side of the puzzle! This suggests that for remote assistance to be most effective, the video captured ought to be from the perspective of the “worker” or “helper” – such as from an over-the-shoulder, or a from-eyeglasses perspective. This is different from where most cameras are currently positioned on most technology (i.e. facing us at the top of a laptop), and is somewhat at odds with mobile phone video technology, which requires an extra set of hands to hold the phone (obviating manipulation of the object itself).</p>
-
-<p>We designed a new system called <strong>ReMa</strong> (Remote Manipulator) which gives me the ability to control the orientation of a remote object by spinning a physical proxy on my end. This is perhaps best illustrated via the video (see below for a link), where controlling the remote perspective is done by simply controlling my own physical perspective on the object. The remote site is handled by a robot that spins and rotates the physical object to copy what is happening at the controlling site. ReMa gave people a very fluent and simple way of controlling what the remote collaborator sees, and this was effective for collaborators. It meant that they did not have to spend time correcting one another’s actions or verifying what was going on by having to check the video time and again.</p>
-
-<p>For mote information about this project, check out:</p>
-
-<ul>
-  <li><a href="http://ricelab.cpsc.ucalgary.ca/papers/feick2018rema/">the CHI 2018 paper about the system and study</a>, or</li>
-  <li><a href="http://hcitang.org/papers/2018-chi2018-rema.mp4">the video that shows the system</a>, and the</li>
-  <li><a href="http://ricelab.cpsc.ucalgary.ca/papers/feick2018wayyoumove/">HRI 2018 poster on the project</a>.</li>
-</ul>
-
-<p>Here’s the full citation:</p>
-
-<blockquote>
-  <p>Martin Feick, Terrance Mok, Anthony Tang, Lora Oehlberg, and Ehud Sharlin. (2018). Perspective on and Re-Orientation of Physical Proxies in Object-Focused Remote Collaboration. In CHI 2018: Proceedings of the 2018 SIGCHI Conference on Human Factors in Computing Systems, 10. (conference). Acceptance: 25.7% - 667/2595. Notes: Honourable Mention Award - Top 5% of all submissions.</p>
-</blockquote>
-
-<blockquote>
-  <p>Martin Feick, Lora Oehlberg, Anthony Tang, Andre Miede, and Ehud Sharlin. (2018). The Way You Move: The Effect of a Robot Surrogate Movement in Remote Collaboration. In HRI ’18: Extended Abstracts of the International Conference on Human-Robot Interaction, 2 pages + poster.</p>
-</blockquote>
-
-<p><strong>Reflection:</strong> This was a fairly technical project. I was glad that Martin Feick was around to work on it, as it required really understanding the OptiTrack motion tracking system, as well as working with the Baxter robot. This was a fairly complex beast of a project, and there were a lot of twists and turns along the way.</p>
-
-<p>I think one of the things I’ve thought a lot about in the aftermath of the stuy is how and when the scenario actually makes much sense. While it woud be nice to have a ReMa to actually manipulate the remote object, I suppose that in most cases, the reality of this is kind of unlikely. It is neat to think about an object that could morph and turn in one’s own hand, but it is perhaps more reasonable to think about a set of visual cues that says, “Hey, turn me this way.” Perhaps that is something that would be followed on.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[For a while now, we have been chasing down a research thread about remote collaboration – scenarios where one person is trying to help someone else out through a video chat link. One of the things we found problematic is that the helper cannot actually do a good job of saying to the other person, “Hey, you need to be looking at it from this angle, like this.” What if you could change your friend’s viewing angle on the object? This project explored that possibility through a study, demonstrating that a shared perspective (as opposed to the “opposing perspective” that is offered by conventional video chat tools) on the space is important.]]></summary></entry><entry><title type="html">Git as Tony Understands it</title><link href="/blog/2017/git-as-tony-understands-it/" rel="alternate" type="text/html" title="Git as Tony Understands it" /><published>2017-11-10T00:00:00+08:00</published><updated>2017-11-10T00:00:00+08:00</updated><id>/blog/2017/git-as-tony-understands-it</id><content type="html" xml:base="/blog/2017/git-as-tony-understands-it/"><![CDATA[<p>There exist a lot of git tutorials on the web. <a href="https://www.atlassian.com/git/tutorials">Atlassian’s git tutorials</a> are thorough and useful.</p>
-
-<p>Git is a distributed version control system.</p>
-
-<h1 id="context">Context</h1>
-
-<p>Git is used in situations where you have a folder of “source documents,” and either:</p>
-<ul>
-  <li>you want to be able to track changes (or try out little changes without damaging the original), or</li>
-  <li>you are working with a team where multiple people <em>may</em> be editing the “source” of a project simultaneously.</li>
-</ul>
-
-<h1 id="problem">Problem</h1>
-
-<p>Git solves a lot of little problems. For me, the two main problems it solves are the following:</p>
-
-<ol>
-  <li>
-    <p>I want to try something out with the “source documents,” but I want to be able to revert or come back to the state that it is in right now (because I may be doing something risky).</p>
-  </li>
-  <li>
-    <p>You and I may need to make changes at the same time (in which case: what is the “latest version” of files?).</p>
-  </li>
-</ol>
-
-<h1 id="approach">Approach</h1>
-
-<p>Git solves these problems using two main ideas:</p>
-
-<ul>
-  <li>Branches</li>
-  <li>Tracking changes</li>
-  <li>Local vs remote repositories</li>
-</ul>
-
-<h2 id="branches">Branches</h2>
-
-<p>A set of source documents can have lots of different “branches” that reflect different versions of the code. These branches store differences that may be small (e.g. changes in text in a UI), or they may be big (e.g. changes in how the UI functions).</p>
-
-<p>Your computer can maintain all of these branches at the same time, and you decide which branch to work on by switching between them.</p>
-
-<p>Usually, the idea is to work on a branch until you’re confident the changes are solid, at which point you do a “pull request” or merge the changes back in the “master” (or the “trunk”).</p>
-
-<h2 id="tracking-changes">Tracking changes</h2>
-
-<p>As soon as you make a change, do a “commit” on it. This saves the changes. Each commit is documented (or labeled) with a hash (e.g. 3520f53). This hash is associated with a date, and a set of changes to some files, as well as comment.</p>
-
-<p>Git tracks all the <em>changes</em> to files across all the different branches and across time. It does not keep all versions of the files; however, it can revert back and forth depending on which branch you want to change to, or which version of the “document source” you want to change to. <strong>This is mind blowing. Soak it in.</strong></p>
-
-<p>This has a major implication for how the documents are stored in your computer. The filesize of the directory, rather than simply being the size of all the documents combined, also includes the size of a set of files that track and document these changes (stored in the .git directory). This .git directory allows git to change and move between different versions of the code.</p>
-
-<h2 id="local-vs-remote-repositories">Local vs. remote repositories</h2>
-
-<p>Git works locally on one’s own machine.</p>
-
-<p>Git can also work with hosting services up in the cloud (i.e. the “remote repo”). Popular services include github and gitlab. These function as hubs for development, such that you can push changes to the remote repo, and the remote repo is available for others to pull changes/updates from. It is through these remote repos that we can work with others.</p>
-
-<p>A person can use the repo to push changes and branches to, and another can pull those changes and branches down, create new branches, and continue work.</p>
-
-<p>People can work on their own branches without affecting someone else’s work.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[There exist a lot of git tutorials on the web. Atlassian’s git tutorials are thorough and useful.]]></summary></entry><entry><title type="html">Ephemerality and Context - Ethical Dilemmas in Online Research</title><link href="/blog/2017/ephemerality-and-context/" rel="alternate" type="text/html" title="Ephemerality and Context - Ethical Dilemmas in Online Research" /><published>2017-06-17T00:00:00+08:00</published><updated>2017-06-17T00:00:00+08:00</updated><id>/blog/2017/ephemerality-and-context</id><content type="html" xml:base="/blog/2017/ephemerality-and-context/"><![CDATA[<p>I recently attended <a href="http://www.sfu.ca/ore/REBWest2017.html">REBWest 2017</a>, a small regional conference focused on research ethics. I got the opportunity to sit on a panel with <a href="www.genalab.org/peter-chow-white.html">Peter Chow-White</a>, and we talked about how social media research introduces new challenges for research ethics. This post is a primer on my talk, which was entitled “Ephemerality and Context: Ethical Dilemmas in Online Research.”</p>
-
-<h3 id="context-ethics-in-canadian-research">Context: Ethics in Canadian Research</h3>
-
-<p>Research in Canada that is funded by the major public funding bodies (CIHR, NSERC, SSHRC, collectively known as the “tri-council”) needs to abide by a set of ethical standards set out by the <a href="http://www.pre.ethics.gc.ca/eng/policy-politique/initiatives/tcps2-eptc2/Default/">TCPS 2</a>. This document aims to protect participants from harm by ensuring that research carried out in Canada is effectively bounded by a certain set of rules. The reason this document exists is not because researchers are unethical; rather, it is because sometimes, even when we as researchers are trying our best to protect participants, we have blind spots to the harms that may occur.</p>
-
-<p>Some kinds of these guidelines are unambiguous and obvious with respect to harm: we can’t put people through pain if there is no meaningful benefit (to the participant, to society) to doing so. But some others are a little more subtle – for instance, if we are interested in understanding soldiers’ experiences in the field and interview them to find out, these soldiers could experience emotional distress, and maybe even PTSD! Other kinds of research could put situations where participants feel embarrassed, ashamed, or even where they might suffer consequences at work – for instance, if they are asked to participate in a focus group where co-workers are asked about performance of fellow co-workers.</p>
-
-<p>Research Ethics Boards (REBs) at Canadian universities are tasked with evaluating researchers’ plans for research with the participants’ interests at the forefront (i.e. tasked with protecting participants). They provide suggestions to help improve research plans in ways to protect participants’ rights.</p>
-
-<h3 id="context-ethical-framework-of-the-tcps-2">Context: Ethical Framework of the TCPS 2</h3>
-
-<p>The TCPS 2 outlines three core principles that form its ethical framework. The TCPS 2 guidelines are all developed from this ethical framework:</p>
-
-<ol>
-  <li>
-    <p><strong>Respect for persons.</strong> Researchers and research need to respect the participants as humans with dignity. We need to respect their capacity to make choices for themselves, and not unnecessarily withhold information from them in order for them to make these choices. The main thing that comes out of this is the principle of free, informed, ongoing consent. Each of those words, “free”, “informed” and “ongoing” are important, but we’ll come back to this.</p>
-  </li>
-  <li>
-    <p><strong>Concern for welfare.</strong> This one is really about saying, “Hey, we should care about what happens to people that participate in our studies,” trying to make sure that they stay free from harm, whether the harm is physical or emotional, social or economic.</p>
-  </li>
-  <li>
-    <p><strong>Justice.</strong> Finally, the justice principle is about treating everyone fairly – in terms of people’s participation (who gets to participate), to how they are treated during the study, to who gets the benefit from the outcomes of the research.</p>
-  </li>
-</ol>
-
-<h3 id="observational-online-research">Observational Online Research</h3>
-
-<p>In my talk, I focused on the ethical challenges presented by observational online research. To set the context here, “observational online research” refers to research where the researchers have not compelled participants to do anything they wouldn’t have done otherwise; rather, the researchers are merely “observers”. The problem I discussed in my talk was that many of the rules of engagement laid out by the TCPS 2 were/are somewhat inadequate when thinking about online interactions that people have with one another.</p>
-
-<p>The primary challenge is that online interactions are frequently <em>archived</em> and made <em>publicly searchable</em> by various entities (e.g. the social media provider, like Twitter, or by Google). This means that what would otherwise be considered as an ephemeral engagement/interaction with someone could be put on the permanent public record (i.e. it is publicly accessible!). Here, the TCPS 2 is unfortunately far too open to a loose interpretation: in such a situation, it could be considered as “archival research,” in which case, since the data is “publicly available” (in terms of access), then using this data would not require ethical review from an REB (i.e. would not even need to gain informed consent for the use of this data created by people).</p>
-
-<p>This seems ludicrous, because there have been <a href="http://www.cbc.ca/news/politics/canada-election-2015-ala-buzreba-tweets-1.3195193">several</a> <a href="http://www.cbc.ca/news/canada/british-columbia/randy-rinaldo-withdraws-b-c-election-candidacy-after-controversial-tweets-surface-1.3604404">instances</a> <a href="https://www.thestar.com/news/canada/2017/05/16/third-candidate-forced-to-withdraw-from-ns-election-because-of-old-internet-postings.html">of</a> <a href="http://www.gazetteandherald.co.uk/news/15297489.UKIP_withdraw_support_for_General_Election_candidate_over_controversial_tweets/">people</a> <a href="http://www.abc.net.au/news/2016-12-20/one-nation-qld-candidate-andy-semple-withdraws-over-tweets/8135128">getting</a> burned by things that had posted/written in the past. It would seem that if a researcher chose to do research on online social media posts and subsequently publishes it, it would contravene the “concern for welfare” principle: surfacing this information (e.g. by publishing it) could put people in a situation where their social or economiy status is harmed. This seems like a big deal, particularly because it doesn’t even touch on the issue that such people aren’t necessarily in a situation where they are given an opportunity to give/withdraw informed consent.</p>
-
-<p>One of the crazy problems is that even if researchers do not collect “identifying information” such as a real name or a username, when we publish quotations, these exact quotations can be searched on to find the username of the person who posted it. Combined with the fact that people frequently re-use usernames across different sites, this leads to the possibility of being <a href="https://en.wikipedia.org/wiki/Doxing">doxxed</a>, where people can easily discover lots of information about a person. The challenge this presents is that publishing these quotations (even without usernames) means that we cannot effectively protect the confidentiality of participants’ participation in our studies.</p>
-
-<p>This sounds alarmist, of course… particularly since it comes from a computer scientist. But, I do not think all is lost.</p>
-
-<h3 id="ways-of-moving-forward">Ways of Moving Forward</h3>
-
-<p>I think we need to revisit TCPS 2, and how it defines internet-based research.</p>
-
-<p>We need to do this revisiting with members of the community (i.e. the public) from a wide variety of age groups to understand their perspective on this kind of work. Someone in the question period called this approach an “indigenous approach” to conducting online research. I think this is not an unreasonable strategy: different communities definitely do have different kinds of conventions, and “rules of engagement” in one context may not apply in another online context.</p>
-
-<p>It may ultimately be the case that we need to consider everything to do with the internet in a case-by-case basis–just as we do with “real life” (IRL) observational research today. And, perhaps it shouldn’t be a surprise that we would need to do so.</p>
-
-<h3 id="additional-reading">Additional Reading</h3>
-
-<ul>
-  <li><a href="http://hcitang.org/papers/2017-rebwest2017-ephemerality-and-context.pptx">Slides for my talk</a></li>
-  <li><a href="http://www.cc.gatech.edu/~asb/ethics/">Amy Bruckman’s Ethical Guidelines for Research Online</a></li>
-  <li>Barry Brown, Alexandra Weilenmann, Donald McMillan, and Airi Lampinen. 2016. Five Provocations for Ethical HCI Research. In Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (CHI ‘16). ACM, New York, NY, USA, 852-863. DOI: https://doi.org/10.1145/2858036.2858313</li>
-</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[I recently attended REBWest 2017, a small regional conference focused on research ethics. I got the opportunity to sit on a panel with Peter Chow-White, and we talked about how social media research introduces new challenges for research ethics. This post is a primer on my talk, which was entitled “Ephemerality and Context: Ethical Dilemmas in Online Research.”]]></summary></entry></feed>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Co-authored by Tony and Tiffany Wun]]></summary></entry></feed>
