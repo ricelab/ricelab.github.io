@@ -1,32 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Active on RICELab</title>
+    <title>active on RICELab</title>
     <link>https://ricelab.github.io/tags/active/</link>
-    <description>Recent content in Active on RICELab</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="https://ricelab.github.io/tags/active/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in active on RICELab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://ricelab.github.io/tags/active/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Human-AI Collaboration</title>
       <link>https://ricelab.github.io/projects/hai-collaboration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://ricelab.github.io/projects/hai-collaboration/</guid>
-      <description>&lt;!-- 160x144 --&gt;&#xA;&lt;p&gt;A major focus of our current work is to explore how to design effective interfaces for human-AI collaboration. This framing of interaction draws focus away from the idea of computation (as in human-&lt;em&gt;computer&lt;/em&gt; interaction), and rather on the idea of computation that can assist and amplify human activity through interactive collaboration. Collaboration, as we understand it, involves multiple turns for interacting, as well as a commitment to help and assist one another.&lt;/p&gt;</description>
+      <description>A major focus of our current work is to explore how to design effective interfaces for human-AI collaboration. This framing of interaction draws focus away from the idea of computation (as in human-computer interaction), and rather on the idea of computation that can assist and amplify human activity through interactive collaboration. Collaboration, as we understand it, involves multiple turns for interacting, as well as a commitment to help and assist one another.</description>
     </item>
+    
     <item>
       <title>Proxemic Interaction Design</title>
       <link>https://ricelab.github.io/projects/proxemics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://ricelab.github.io/projects/proxemics/</guid>
-      <description>&lt;!-- 160x144 --&gt;&#xA;&lt;p&gt;Proxemic interaction design explores how systems can use an understanding of people&amp;rsquo;s relative position, orientation and identity with one another and objects can be used to support rich interaction techniques. For example, we can design rooms that understand to turn on the lights when someone enters, and to turn them off when people leave. Similarly, we can design interactive displays to respond appropriately when someone is looking at them from a distance or up close. This is useful since we use proxemics to mediate our interactions with other people in everyday life &amp;ndash; for instance, by moving physically closer to people we want to interact with, and by turning away from people we don&amp;rsquo;t. Proxemic interaction design explores how these basic cues can be used to improve interaction with computing technology.&lt;/p&gt;</description>
+      <description>Proxemic interaction design explores how systems can use an understanding of people&amp;rsquo;s relative position, orientation and identity with one another and objects can be used to support rich interaction techniques. For example, we can design rooms that understand to turn on the lights when someone enters, and to turn them off when people leave. Similarly, we can design interactive displays to respond appropriately when someone is looking at them from a distance or up close.</description>
     </item>
+    
     <item>
       <title>Tony Tang</title>
       <link>https://ricelab.github.io/people/tony-tang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://ricelab.github.io/people/tony-tang/</guid>
-      <description>&lt;p&gt;I am an Associate Professor in the &lt;a href=&#34;http://ischool.utoronto.ca/&#34;&gt;Faculty of Information&lt;/a&gt; at the University of Toronto. I direct the RICELab (Rethinking Interaction, Collaboration and Engagement) research group.&lt;/p&gt;&#xA;&lt;p&gt;My research interests are situated in Computer Supported Cooperative Work (CSCW) &amp;ndash; the study of how people work together using technology &amp;ndash; with a twist of Ubiquitous Computing &amp;ndash; technology in everyday scenarios. My current research investigates the integration of mobile devices in large display environments, exploration into personal informatics, and telecommunication technologies for collaborative work.&lt;/p&gt;</description>
+      <description>I am an Associate Professor in the Faculty of Information at the University of Toronto. I direct the RICELab (Rethinking Interaction, Collaboration and Engagement) research group.
+My research interests are situated in Computer Supported Cooperative Work (CSCW) &amp;ndash; the study of how people work together using technology &amp;ndash; with a twist of Ubiquitous Computing &amp;ndash; technology in everyday scenarios. My current research investigates the integration of mobile devices in large display environments, exploration into personal informatics, and telecommunication technologies for collaborative work.</description>
     </item>
+    
   </channel>
 </rss>

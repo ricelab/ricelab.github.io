@@ -4,22 +4,25 @@
     <title>Tags on RICELab</title>
     <link>https://ricelab.github.io/tags/</link>
     <description>Recent content in Tags on RICELab</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="https://ricelab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://ricelab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Active</title>
+      <title>active</title>
       <link>https://ricelab.github.io/tags/active/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://ricelab.github.io/tags/active/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Past</title>
+      <title>past</title>
       <link>https://ricelab.github.io/tags/past/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://ricelab.github.io/tags/past/</guid>
       <description></description>
     </item>
+    
   </channel>
 </rss>
