@@ -1,0 +1,356 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+    <title>AI in Learning and Feedback – RICELab</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="description" content="RICELab Homepage" />
+    <meta name="keywords" content="" />
+    
+    <script src="/assets/js/jquery.min.js"></script>
+    <script src="/assets/js/jquery.dropotron.min.js"></script>
+    <script src="/assets/js/skel.min.js"></script>
+    <script src="/assets/js/skel-layers.min.js"></script>
+    <script src="/assets/js/init.js"></script>
+    <noscript>
+        <link rel="stylesheet" href="/assets/css/skel.css" />
+        <link rel="stylesheet" href="/assets/css/style.css" />
+        <link rel="stylesheet" href="/assets/css/style-wide.css" />
+    </noscript>
+    
+    <link rel="stylesheet" href="/assets/css/hugo-overrides.css" />
+    <link rel="shortcut icon" href="/assets/images/favicon.png">
+    
+</head>
+
+<body>
+
+    
+    <div id="header">
+
+        
+        <h1><a href="/" id="logo">RICELab <em style="font-size: 9pt;color: #cbcbcb" class="only-large">Rethinking Interaction Collaboration and Engagement</em></a></h1>
+
+        
+        <nav id="nav">
+            <ul>
+                
+                <li ><a href="/">Home</a></li>
+                <li ><a href="/about-us/">About Us</a></li>
+                <li ><a href="/people/">People</a></li>
+                <li class="current"><a href="/projects/">Projects</a></li>
+                <li ><a href="/papers/">Publications</a></li>
+                <li ><a href="/blog/">Blog</a></li>
+                <li ><a href="/join-us/">Join Us</a></li>
+            </ul>
+        </nav>
+    </div>
+
+
+<style>
+#citation a { color: black; border-bottom: none; }
+#citation { margin-bottom: 1em; }
+</style>
+
+<section class="wrapper style1">
+    <div class="container">
+        <div class="row double">
+            <div class="4u">
+                <div id="sidebar">
+    
+    <section>
+        <h3>Current Projects</h3>
+        <ul>
+            
+                
+            
+                
+                <li><a href="/projects/learning-and-feedback/">AI in Learning and Feedback</a></li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                <li><a href="/projects/group-conversational-agents/">Human-AI Collaboration in Groups</a></li>
+                
+            
+                
+                <li><a href="/projects/human-robot-interaction/">Human-Robot Interaction: Directing Embodied Agents</a></li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                <li><a href="/projects/remote-meetings/">Remote and Mixed-Reality Meetings</a></li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+        </ul>
+        <h3>Past Projects</h3>
+        <ul>
+            
+                
+                <li><a href="/projects/360video/">360 Video Interaction</a></li>
+                
+            
+                
+            
+                
+                <li><a href="/projects/collaborative-visual-analytics/">Collaborative Visual Analytics</a></li>
+                
+            
+                
+                <li><a href="/projects/multi-surface-environments/">Digital Workrooms of the Future</a></li>
+                
+            
+                
+                <li><a href="/projects/efashion/">Electronic Fashion</a></li>
+                
+            
+                
+                <li><a href="/projects/games/">Games and Leisure</a></li>
+                
+            
+                
+                <li><a href="/projects/haptics/">Haptics in VR</a></li>
+                
+            
+                
+                <li><a href="/projects/hai-collaboration/">Human-AI Collaboration</a></li>
+                
+            
+                
+            
+                
+            
+                
+                <li><a href="/projects/mobile-device-interaction/">Interaction Techniques for Mobile Devices</a></li>
+                
+            
+                
+                <li><a href="/projects/autistic-livestreaming/">Livestreaming and Autistic Creators</a></li>
+                
+            
+                
+                <li><a href="/projects/collaborative-ar/">Mixed Reality for Collaboration</a></li>
+                
+            
+                
+                <li><a href="/projects/mixed-reality-workrooms/">Mixed Reality Workrooms</a></li>
+                
+            
+                
+                <li><a href="/projects/mobile-video-conferencing/">Mobile Video Conferencing</a></li>
+                
+            
+                
+                <li><a href="/projects/personal-informatics/">Personal Informatics and Analytics</a></li>
+                
+            
+                
+                <li><a href="/projects/pervasive-games/">Pervasive Games and Citizen Science</a></li>
+                
+            
+                
+                <li><a href="/projects/physiotherapy/">Physiotherapy for the Future</a></li>
+                
+            
+                
+            
+                
+                <li><a href="/projects/proxemics/">Proxemic Interaction Design</a></li>
+                
+            
+                
+            
+                
+                <li><a href="/projects/remote-embodiment/">Remote Embodiment for Shared Activity</a></li>
+                
+            
+                
+                <li><a href="/projects/slit-tear-video/">Slit-Tear Video Exploration</a></li>
+                
+            
+                
+                <li><a href="/projects/social-watching-of-sports/">Social Watching of Sports</a></li>
+                
+            
+                
+                <li><a href="/projects/teaching-technologies/">Technologies for Teaching</a></li>
+                
+            
+        </ul>
+    </section>
+</div>
+
+            </div>
+            <div class="8u skel-cell-important">
+                <div id="content">
+                    <article>
+                        <header>
+                            <h2>AI in Learning and Feedback</h2>
+                            <p>Designing AI that helps people learn, and helps them act on criticism</p>
+                        </header>
+                        
+                        <!-- 160x144 -->
+<p>In learning and in feedback, an AI system can easily end up doing the work that the person needed to do themselves. We design tools that leave that effort with the learner, and study what instructors, students, and authors do with them.</p>
+<h2 id="learning-by-explaining">Learning by explaining</h2>
+<p>Explaining something to someone else is a reliable way to understand it yourself, but it requires a listener. Does it matter who the learner thinks they are explaining to? We built conversational agents that play three pedagogical roles — Tutee, Peer, and Challenger — and compared them against a control in a between-subjects study with 96 participants learning an economics concept 
+
+    
+    
+    [<a href="/papers/xu2026whoyouexplain/" title="Xu, Z., Zhang, J., Tang, A., and Lee, Y. (2026). Who You Explain To Matters: Learning by Explaining to Conversational Agents with Different Pedagogical Roles. In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI &#39;26).">Xu, Z., Zhang, J., Tang, A., and Lee, Y. (2026). <strong>Who You Explain To Matters: Learning by Explaining to Conversational Agents with Different Pedagogical Roles.</strong> In <em>Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26)</em>.</a>]
+
+.</p>
+<h2 id="what-instructors-do-with-llms">What instructors do with LLMs</h2>
+<p>Instructors are the ones who have to turn a general-purpose model into a usable classroom activity. We interviewed nine instructors about eleven activities they had built themselves, and used reflexive thematic analysis to work out how those activities line up with constructivist learning theory 
+
+    
+    
+    [<a href="/papers/aurelia2026instructors/" title="Aurelia, E., Yeo, S., Lui, M., Law, E., and Tang, A. (2026). Instructors&#39; Strategies in Creating and Implementing Constructivist LLM-Based Learning Activities. In Proceedings of the 2025 International Conference on Human-Engaged Computing (ICHEC &#39;25).">Aurelia, E., Yeo, S., Lui, M., Law, E., and Tang, A. (2026). <strong>Instructors' Strategies in Creating and Implementing Constructivist LLM-Based Learning Activities.</strong> In <em>Proceedings of the 2025 International Conference on Human-Engaged Computing (ICHEC '25)</em>.</a>]
+
+.</p>
+<h2 id="receiving-feedback">Receiving feedback</h2>
+<p>Feedback that is accurate can still be unusable to the person receiving it. We set out to redesign teaching evaluation reports so that instructors would act on them. We worked through a design space of four feedback strategies against four presentation formats, and built six AI-augmented reports from it 
+
+    
+    
+    [<a href="/papers/shang2025rethinking/" title="Shang, R., Mallari, K., Au Yeong, W., Yasuhara, K., Tang, A., and Hsieh, G. (2025). Rethinking Teaching Evaluation Reports: Designing AI-transformed Student Feedback for Instructor Engagement. In Proc. ACM Hum.-Comput. Interact., CSCW320.">Shang, R., Mallari, K., Au Yeong, W., Yasuhara, K., Tang, A., and Hsieh, G. (2025). <strong>Rethinking Teaching Evaluation Reports: Designing AI-transformed Student Feedback for Instructor Engagement.</strong> In <em>Proc. ACM Hum.-Comput. Interact.</em>, CSCW320.</a>]
+
+. We also interviewed fourteen HCI authors about how they interpret peer reviews and coordinate revisions across a team 
+
+    
+    
+    [<a href="/papers/auyeung2026reviewing/" title="Au Yeung, C., Stark, J., Li, J., Chevalier, F., Park, J., Kim, Y., and Tang, A. (2026). Supporting Reviewing Reviews: How HCI Authors Handle Peer Reviews of Manuscripts. In Proceedings of the 2025 International Conference on Human-Engaged Computing (ICHEC &#39;25).">Au Yeung, C., Stark, J., Li, J., Chevalier, F., Park, J., Kim, Y., and Tang, A. (2026). <strong>Supporting Reviewing Reviews: How HCI Authors Handle Peer Reviews of Manuscripts.</strong> In <em>Proceedings of the 2025 International Conference on Human-Engaged Computing (ICHEC '25)</em>.</a>]
+
+.</p>
+<h2 id="publications">Publications</h2>
+
+
+
+
+    
+    
+    
+    <section id="citation">
+        <a href="/papers/xu2026whoyouexplain/">Xu, Z., Zhang, J., Tang, A., and Lee, Y. (2026). <strong>Who You Explain To Matters: Learning by Explaining to Conversational Agents with Different Pedagogical Roles.</strong> In <em>Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26)</em>.</a><br />
+        
+        <small style="color: #888;">Acceptance: 25.3% - 1702/6730. Honourable Mention - Top 5% of all submissions</small><br/>
+        
+        
+        
+        <a href="https://doi.org/10.1145/3772318.3790298"><i class="fa fa-external-link"></i></a>
+    </section>
+    
+
+    
+    
+    
+    <section id="citation">
+        <a href="/papers/aurelia2026instructors/">Aurelia, E., Yeo, S., Lui, M., Law, E., and Tang, A. (2026). <strong>Instructors' Strategies in Creating and Implementing Constructivist LLM-Based Learning Activities.</strong> In <em>Proceedings of the 2025 International Conference on Human-Engaged Computing (ICHEC '25)</em>.</a><br />
+        
+        
+        
+        <a href="https://doi.org/10.1145/3786995.3787043"><i class="fa fa-external-link"></i></a>
+    </section>
+    
+
+    
+    
+    
+    <section id="citation">
+        <a href="/papers/shang2025rethinking/">Shang, R., Mallari, K., Au Yeong, W., Yasuhara, K., Tang, A., and Hsieh, G. (2025). <strong>Rethinking Teaching Evaluation Reports: Designing AI-transformed Student Feedback for Instructor Engagement.</strong> In <em>Proc. ACM Hum.-Comput. Interact.</em>, CSCW320.</a><br />
+        
+        <a href="https://ink.library.smu.edu.sg/context/sis_research/article/11614/viewcontent/Eval_Study.pdf"><i class="fa fa-file-pdf-o"></i></a>
+        
+        <a href="https://doi.org/10.1145/3757501"><i class="fa fa-external-link"></i></a>
+    </section>
+    
+
+    
+    
+    
+    <section id="citation">
+        <a href="/papers/auyeung2026reviewing/">Au Yeung, C., Stark, J., Li, J., Chevalier, F., Park, J., Kim, Y., and Tang, A. (2026). <strong>Supporting Reviewing Reviews: How HCI Authors Handle Peer Reviews of Manuscripts.</strong> In <em>Proceedings of the 2025 International Conference on Human-Engaged Computing (ICHEC '25)</em>.</a><br />
+        
+        
+        
+        <a href="https://doi.org/10.1145/3786995.3786998"><i class="fa fa-external-link"></i></a>
+    </section>
+    
+
+
+
+
+                    </article>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+    
+    <div id="footer">
+        <div class="copyright">
+            <script type="text/javascript">
+            function hideshow(el){
+                if (!document.getElementById) return;
+                if (el.style.visibility=="visible") {
+                    el.style.visibility="hidden"
+                } else {
+                    el.style.visibility="visible"
+                }
+            }
+            </script>
+            <ul class="menu">
+                <li><a rel="nofollow" href="javascript:hideshow(document.getElementById('colophon'))">Colophon</a></li>
+            </ul>
+            <section id="colophon" visibility="hidden" style="visibility: hidden;">
+                <ul class="menu">
+                    <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+                    <li>Images: <a href="http://unsplash.com/">unsplash.com</a></li>
+                    <li>Icons: <a href="https://fortawesome.github.io/Font-Awesome/">font awesome</a></li>
+                    <li>Built with <a href="https://gohugo.io/">Hugo</a></li>
+                </ul>
+            </section>
+        </div>
+    </div>
+
+</body>
+</html>
+

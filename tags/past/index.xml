@@ -44,5 +44,33 @@ A physical Sphero can be controlled by tilting a corresponding &amp;lt;em&amp;gt
 One way to create haptic experiences is through the use of tangible devices &amp;ndash; that is, things that you can physically hold and feel. Yet, the challenge with this is that we may have fantastical items in VR that are difficult to re-create in real life.</description>
     </item>
     
+    <item>
+      <title>Human-AI Collaboration</title>
+      <link>https://ricelab.github.io/projects/hai-collaboration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricelab.github.io/projects/hai-collaboration/</guid>
+      <description>A major focus of our current work is to explore how to design effective interfaces for human-AI collaboration. This framing of interaction draws focus away from the idea of computation (as in human-computer interaction), and rather on the idea of computation that can assist and amplify human activity through interactive collaboration. Collaboration, as we understand it, involves multiple turns for interacting, as well as a commitment to help and assist one another.</description>
+    </item>
+    
+    <item>
+      <title>Livestreaming and Autistic Creators</title>
+      <link>https://ricelab.github.io/projects/autistic-livestreaming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricelab.github.io/projects/autistic-livestreaming/</guid>
+      <description>Livestreaming asks a creator to perform continuously for an audience that talks back in real time. Several of the autistic streamers we spoke with described this as among the most meaningful social activity available to them. This project studied what livestreaming offers autistic adults, at what cost, and what platform and tool design could do about the cost.
+Understanding the practice We began by building Audience Bot, a chatbot that simulates an audience for a novice streamer to perform to, and ran an observational lab study of people learning to play and perform at the same time [Mok, T.</description>
+    </item>
+    
+    <item>
+      <title>Proxemic Interaction Design</title>
+      <link>https://ricelab.github.io/projects/proxemics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricelab.github.io/projects/proxemics/</guid>
+      <description>Proxemic interaction design explores how systems can use an understanding of people&amp;rsquo;s relative position, orientation and identity with one another and objects can be used to support rich interaction techniques. For example, we can design rooms that understand to turn on the lights when someone enters, and to turn them off when people leave. Similarly, we can design interactive displays to respond appropriately when someone is looking at them from a distance or up close.</description>
+    </item>
+    
   </channel>
 </rss>

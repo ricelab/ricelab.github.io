@@ -573,9 +573,8 @@ System - The Video</title>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ricelab.github.io/about-us/</guid>
-      <description>RICELab (Rethinking Interaction, Collaboration and Engagement) designs, builds, and studies novel interactive systems for human communication and collaboration. Our approach: build a working prototype, then study how people actually use it. We are faculty, students, and researchers working at the intersection of Human-Computer Interaction, Computer Supported Cooperative Work, and Ubiquitous Computing.
-Our current work spans three themes:
-Human-AI interaction. AI systems are increasingly capable collaborators — but how should we design the interfaces between people and AI?</description>
+      <description>RICELab (Rethinking Interaction, Collaboration and Engagement) designs, builds, and studies novel interactive systems for human communication and collaboration. We are faculty, students, and researchers working at the intersection of Human-Computer Interaction, Computer Supported Cooperative Work, and Ubiquitous Computing.
+The prototype is the research artifact. We build a working system, study it with people in the lab and in the field, and abstract what we learn into design frameworks that outlast the particular system.</description>
     </item>
     
     <item>
@@ -585,6 +584,16 @@ Human-AI interaction. AI systems are increasingly capable collaborators — but 
       
       <guid>https://ricelab.github.io/papers/aseniero2020activityriver/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>AI in Learning and Feedback</title>
+      <link>https://ricelab.github.io/projects/learning-and-feedback/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricelab.github.io/projects/learning-and-feedback/</guid>
+      <description>In learning and in feedback, an AI system can easily end up doing the work that the person needed to do themselves. We design tools that leave that effort with the learner, and study what instructors, students, and authors do with them.
+Learning by explaining Explaining something to someone else is a reliable way to understand it yourself, but it requires a listener. Does it matter who the learner thinks they are explaining to?</description>
     </item>
     
     <item>
@@ -1389,6 +1398,26 @@ One way to create haptic experiences is through the use of tangible devices &amp
     </item>
     
     <item>
+      <title>Human-AI Collaboration in Groups</title>
+      <link>https://ricelab.github.io/projects/group-conversational-agents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricelab.github.io/projects/group-conversational-agents/</guid>
+      <description>Most conversational agents are built for one user at a time. Groups break that assumption: turn-taking is contested, and whatever the agent says to one person is heard by everyone else. We study how agents should behave when several people are in the conversation, and what design choices are available to someone building one.
+In a systematic review of 53 studies of group conversational agents [Yeo, S.*, Zhang, T.*, Bateman, S.</description>
+    </item>
+    
+    <item>
+      <title>Human-Robot Interaction: Directing Embodied Agents</title>
+      <link>https://ricelab.github.io/projects/human-robot-interaction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricelab.github.io/projects/human-robot-interaction/</guid>
+      <description>When an agent has a body and shares physical space with us, instructing it becomes a spatial and social problem. We build interaction techniques that let people tell robots and embodied agents what to do. The techniques borrow from how people already direct each other&amp;rsquo;s attention and effort, and we evaluate them in lab studies against the alternatives people would otherwise use.
+Telling an agent what to do People allocate tasks to each other with a mixture of speech, pointing, and gaze, and they rarely say everything out loud.</description>
+    </item>
+    
+    <item>
       <title>Idea Playground: When Brainstorming is Not Enough</title>
       <link>https://ricelab.github.io/papers/perteneder2012ideaplayground/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1551,6 +1580,16 @@ distributed tabletop groupware</title>
       
       <guid>https://ricelab.github.io/papers/finke2008lessons/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Livestreaming and Autistic Creators</title>
+      <link>https://ricelab.github.io/projects/autistic-livestreaming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricelab.github.io/projects/autistic-livestreaming/</guid>
+      <description>Livestreaming asks a creator to perform continuously for an audience that talks back in real time. Several of the autistic streamers we spoke with described this as among the most meaningful social activity available to them. This project studied what livestreaming offers autistic adults, at what cost, and what platform and tool design could do about the cost.
+Understanding the practice We began by building Audience Bot, a chatbot that simulates an audience for a novice streamer to perform to, and ran an observational lab study of people learning to play and perform at the same time [Mok, T.</description>
     </item>
     
     <item>
@@ -1899,6 +1938,16 @@ mobile projectors</title>
       
       <guid>https://ricelab.github.io/papers/stark2020thesis/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Remote and Mixed-Reality Meetings</title>
+      <link>https://ricelab.github.io/projects/remote-meetings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricelab.github.io/projects/remote-meetings/</guid>
+      <description>Meeting through a screen or a headset removes cues that people rely on without noticing: where someone is looking, or what they are pointing at. We build interfaces that put some of those cues back, and evaluate them with pairs and groups doing realistic tasks.
+Seeing yourself in a meeting Video meetings show you your own face for the whole duration of the conversation. In FaceValue [Park, G., Tang, A.</description>
     </item>
     
     <item>

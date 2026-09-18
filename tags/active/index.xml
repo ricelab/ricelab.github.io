@@ -7,21 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://ricelab.github.io/tags/active/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Human-AI Collaboration</title>
-      <link>https://ricelab.github.io/projects/hai-collaboration/</link>
+      <title>AI in Learning and Feedback</title>
+      <link>https://ricelab.github.io/projects/learning-and-feedback/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ricelab.github.io/projects/hai-collaboration/</guid>
-      <description>A major focus of our current work is to explore how to design effective interfaces for human-AI collaboration. This framing of interaction draws focus away from the idea of computation (as in human-computer interaction), and rather on the idea of computation that can assist and amplify human activity through interactive collaboration. Collaboration, as we understand it, involves multiple turns for interacting, as well as a commitment to help and assist one another.</description>
+      <guid>https://ricelab.github.io/projects/learning-and-feedback/</guid>
+      <description>In learning and in feedback, an AI system can easily end up doing the work that the person needed to do themselves. We design tools that leave that effort with the learner, and study what instructors, students, and authors do with them.
+Learning by explaining Explaining something to someone else is a reliable way to understand it yourself, but it requires a listener. Does it matter who the learner thinks they are explaining to?</description>
     </item>
     
     <item>
-      <title>Proxemic Interaction Design</title>
-      <link>https://ricelab.github.io/projects/proxemics/</link>
+      <title>Human-AI Collaboration in Groups</title>
+      <link>https://ricelab.github.io/projects/group-conversational-agents/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ricelab.github.io/projects/proxemics/</guid>
-      <description>Proxemic interaction design explores how systems can use an understanding of people&amp;rsquo;s relative position, orientation and identity with one another and objects can be used to support rich interaction techniques. For example, we can design rooms that understand to turn on the lights when someone enters, and to turn them off when people leave. Similarly, we can design interactive displays to respond appropriately when someone is looking at them from a distance or up close.</description>
+      <guid>https://ricelab.github.io/projects/group-conversational-agents/</guid>
+      <description>Most conversational agents are built for one user at a time. Groups break that assumption: turn-taking is contested, and whatever the agent says to one person is heard by everyone else. We study how agents should behave when several people are in the conversation, and what design choices are available to someone building one.
+In a systematic review of 53 studies of group conversational agents [Yeo, S.*, Zhang, T.*, Bateman, S.</description>
+    </item>
+    
+    <item>
+      <title>Human-Robot Interaction: Directing Embodied Agents</title>
+      <link>https://ricelab.github.io/projects/human-robot-interaction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricelab.github.io/projects/human-robot-interaction/</guid>
+      <description>When an agent has a body and shares physical space with us, instructing it becomes a spatial and social problem. We build interaction techniques that let people tell robots and embodied agents what to do. The techniques borrow from how people already direct each other&amp;rsquo;s attention and effort, and we evaluate them in lab studies against the alternatives people would otherwise use.
+Telling an agent what to do People allocate tasks to each other with a mixture of speech, pointing, and gaze, and they rarely say everything out loud.</description>
+    </item>
+    
+    <item>
+      <title>Remote and Mixed-Reality Meetings</title>
+      <link>https://ricelab.github.io/projects/remote-meetings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricelab.github.io/projects/remote-meetings/</guid>
+      <description>Meeting through a screen or a headset removes cues that people rely on without noticing: where someone is looking, or what they are pointing at. We build interfaces that put some of those cues back, and evaluate them with pairs and groups doing realistic tasks.
+Seeing yourself in a meeting Video meetings show you your own face for the whole duration of the conversation. In FaceValue [Park, G., Tang, A.</description>
     </item>
     
     <item>
