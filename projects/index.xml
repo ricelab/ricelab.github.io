@@ -5,232 +5,175 @@
     <link>https://ricelab.github.io/projects/</link>
     <description>Recent content in Projects on RICELab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ricelab.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://ricelab.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>360 Video Interaction</title>
       <link>https://ricelab.github.io/projects/360video/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/360video/</guid>
       <description>360 video cameras provide an omnidirectional view on the world around us, and new opportunities to explore those views. Videos from these devices, in particular, afford us new ways to see and understand the world, as well as certain kinds of freedoms to explore these recorded experiences. Our work in this space has explored new ways to take advantage of the media &amp;ndash; both in &amp;ldquo;single user&amp;rdquo; kinds of scenarios, where we are exploring spaces on our own, as well as in &amp;ldquo;multi user&amp;rdquo; kinds of experiences, where we are exploring the spaces with others.</description>
     </item>
-    
     <item>
       <title>AI in Learning and Feedback</title>
       <link>https://ricelab.github.io/projects/learning-and-feedback/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/learning-and-feedback/</guid>
-      <description>In learning and in feedback, an AI system can easily end up doing the work that the person needed to do themselves. We design tools that leave that effort with the learner, and study what instructors, students, and authors do with them.
-Learning by explaining Explaining something to someone else is a reliable way to understand it yourself, but it requires a listener. Does it matter who the learner thinks they are explaining to?</description>
+      <description>In learning and in feedback, an AI system can easily end up doing the work that the person needed to do themselves. We design tools that leave that effort with the learner, and study what instructors, students, and authors do with them.&#xA;Learning by explaining Explaining something to someone else is a reliable way to understand it yourself, but it requires a listener. Does it matter who the learner thinks they are explaining to?</description>
     </item>
-    
     <item>
       <title>Collaborative Visual Analytics</title>
       <link>https://ricelab.github.io/projects/collaborative-visual-analytics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/collaborative-visual-analytics/</guid>
-      <description>Stratos is a collaborative visual analytic application that supports strategic software release planning by visualizing several variables relevant to that decision-making process. Many situations involve studying, exploring, and understanding data (and frequently communicating this understanding) with others. We envision digital workrooms that help support these processes. Our goal is to designi tools and interaction techniques that can support this interactive analytic process in such digital workrooms.
-In this project, we have explored the fundamental mechanics of how people go about analyzing information and data [Isenberg, P.</description>
+      <description>Stratos is a collaborative visual analytic application that supports strategic software release planning by visualizing several variables relevant to that decision-making process. Many situations involve studying, exploring, and understanding data (and frequently communicating this understanding) with others. We envision digital workrooms that help support these processes. Our goal is to designi tools and interaction techniques that can support this interactive analytic process in such digital workrooms.&#xA;In this project, we have explored the fundamental mechanics of how people go about analyzing information and data [Isenberg, P.</description>
     </item>
-    
     <item>
       <title>Digital Workrooms of the Future</title>
       <link>https://ricelab.github.io/projects/multi-surface-environments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/multi-surface-environments/</guid>
       <description>Digital workrooms are places where teams will work and make decisions from in the future. We envision such rooms as being comprised of multiple large-scale interactive surfaces as well as personal devices such as mobile devices, tablets, and laptops. Our interest is to designing interaction techniques and applications for such environments that allow people to work effectively and fluidly with one another. Our intention is to build powerful tools that augment how teams think and operate.</description>
     </item>
-    
     <item>
       <title>Electronic Fashion</title>
       <link>https://ricelab.github.io/projects/efashion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/efashion/</guid>
       <description>The mannequette is a prototyping platform for electronic fashion garments. It is used in different ways: (a) in-situ, iterating and deciding upon fabrics at a market; (b) for prototyping light (LED) patterns and sensors on a miniature dress form with fabrics by using the mixer; (c) for integrating a previously prototyped and now completed pattern and sensor interactions into an assembled garment; (d) in a completed garment created in a runway show.</description>
     </item>
-    
     <item>
       <title>Games and Leisure</title>
       <link>https://ricelab.github.io/projects/games/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/games/</guid>
-      <description>Games are an important piece of the social fabric in our everyday lives. They help us build relationships with one another, and us with a fantasy space to practice working with and competing against others.
-A physical Sphero can be controlled by tilting a corresponding &amp;lt;em&amp;gt;control sphero&amp;lt;/em&amp;gt; in the desired direction of movement. We have a continuing interest in games &amp;ndash; and I don&amp;rsquo;t just mean in terms of playing them!</description>
+      <description>Games are an important piece of the social fabric in our everyday lives. They help us build relationships with one another, and us with a fantasy space to practice working with and competing against others.&#xA;A physical Sphero can be controlled by tilting a corresponding &amp;lt;em&amp;gt;control sphero&amp;lt;/em&amp;gt; in the desired direction of movement. We have a continuing interest in games &amp;ndash; and I don&amp;rsquo;t just mean in terms of playing them!</description>
     </item>
-    
     <item>
       <title>Haptics in VR</title>
       <link>https://ricelab.github.io/projects/haptics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/haptics/</guid>
-      <description>Virtual Reality experiences typically focus on the visual aspects of immersion. This project has explored the challenges of creating haptic experiences for such immersive experiences &amp;ndash; first through the use of tangible devices, and then through the use of visio-haptic illusions.
-One way to create haptic experiences is through the use of tangible devices &amp;ndash; that is, things that you can physically hold and feel. Yet, the challenge with this is that we may have fantastical items in VR that are difficult to re-create in real life.</description>
+      <description>Virtual Reality experiences typically focus on the visual aspects of immersion. This project has explored the challenges of creating haptic experiences for such immersive experiences &amp;ndash; first through the use of tangible devices, and then through the use of visio-haptic illusions.&#xA;One way to create haptic experiences is through the use of tangible devices &amp;ndash; that is, things that you can physically hold and feel. Yet, the challenge with this is that we may have fantastical items in VR that are difficult to re-create in real life.</description>
     </item>
-    
     <item>
       <title>Human-AI Collaboration</title>
       <link>https://ricelab.github.io/projects/hai-collaboration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/hai-collaboration/</guid>
       <description>A major focus of our current work is to explore how to design effective interfaces for human-AI collaboration. This framing of interaction draws focus away from the idea of computation (as in human-computer interaction), and rather on the idea of computation that can assist and amplify human activity through interactive collaboration. Collaboration, as we understand it, involves multiple turns for interacting, as well as a commitment to help and assist one another.</description>
     </item>
-    
     <item>
       <title>Human-AI Collaboration in Groups</title>
       <link>https://ricelab.github.io/projects/group-conversational-agents/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/group-conversational-agents/</guid>
-      <description>Most conversational agents are built for one user at a time. Groups break that assumption: turn-taking is contested, and whatever the agent says to one person is heard by everyone else. We study how agents should behave when several people are in the conversation, and what design choices are available to someone building one.
-In a systematic review of 53 studies of group conversational agents [Yeo, S.*, Zhang, T.*, Bateman, S.</description>
+      <description>Most conversational agents are built for one user at a time. Groups break that assumption: turn-taking is contested, and whatever the agent says to one person is heard by everyone else. We study how agents should behave when several people are in the conversation, and what design choices are available to someone building one.&#xA;In a systematic review of 53 studies of group conversational agents [Yeo, S.*, Zhang, T.*, Bateman, S.</description>
     </item>
-    
     <item>
       <title>Human-Robot Interaction: Directing Embodied Agents</title>
       <link>https://ricelab.github.io/projects/human-robot-interaction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/human-robot-interaction/</guid>
-      <description>When an agent has a body and shares physical space with us, instructing it becomes a spatial and social problem. We build interaction techniques that let people tell robots and embodied agents what to do. The techniques borrow from how people already direct each other&amp;rsquo;s attention and effort, and we evaluate them in lab studies against the alternatives people would otherwise use.
-Telling an agent what to do People allocate tasks to each other with a mixture of speech, pointing, and gaze, and they rarely say everything out loud.</description>
+      <description>When an agent has a body and shares physical space with us, instructing it becomes a spatial and social problem. We build interaction techniques that let people tell robots and embodied agents what to do. The techniques borrow from how people already direct each other&amp;rsquo;s attention and effort, and we evaluate them in lab studies against the alternatives people would otherwise use.&#xA;Telling an agent what to do People allocate tasks to each other with a mixture of speech, pointing, and gaze, and they rarely say everything out loud.</description>
     </item>
-    
     <item>
       <title>Interaction Techniques for Mobile Devices</title>
       <link>https://ricelab.github.io/projects/mobile-device-interaction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/mobile-device-interaction/</guid>
       <description>Phones with mobile projectors can add focus and context areas on a shared display. In (a) the mobile projector provides context, while in (b) it provides focus -- i.e. more detail. The projections and shared display automatically adjusts to the needed size and level of detail. Although the computing power in mobile devices now far exceeds that which sent man to the moon, the ways in which we interact with these devices is limited by their physical form factor.</description>
     </item>
-    
     <item>
       <title>Livestreaming and Autistic Creators</title>
       <link>https://ricelab.github.io/projects/autistic-livestreaming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/autistic-livestreaming/</guid>
-      <description>Livestreaming asks a creator to perform continuously for an audience that talks back in real time. Several of the autistic streamers we spoke with described this as among the most meaningful social activity available to them. This project studied what livestreaming offers autistic adults, at what cost, and what platform and tool design could do about the cost.
-Understanding the practice We began by building Audience Bot, a chatbot that simulates an audience for a novice streamer to perform to, and ran an observational lab study of people learning to play and perform at the same time [Mok, T.</description>
+      <description>Livestreaming asks a creator to perform continuously for an audience that talks back in real time. Several of the autistic streamers we spoke with described this as among the most meaningful social activity available to them. This project studied what livestreaming offers autistic adults, at what cost, and what platform and tool design could do about the cost.&#xA;Understanding the practice We began by building Audience Bot, a chatbot that simulates an audience for a novice streamer to perform to, and ran an observational lab study of people learning to play and perform at the same time [Mok, T.</description>
     </item>
-    
     <item>
       <title>Mixed Reality for Collaboration</title>
       <link>https://ricelab.github.io/projects/collaborative-ar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/collaborative-ar/</guid>
-      <description>Mixed reality (AR/VR) will soon change how we interact other people and information, allowing us to interact across time and space. This project explores fundamental questions of how we can achieve those goals, and how mixed reality interfaces should be designed to enable these new forms of interaction.
-Smaller subprojects have addressed the following questions:
-How do people expect to use gestures to interact with holograms [Pham, T., Vermeulen, J., Tang, A.</description>
+      <description>Mixed reality (AR/VR) will soon change how we interact other people and information, allowing us to interact across time and space. This project explores fundamental questions of how we can achieve those goals, and how mixed reality interfaces should be designed to enable these new forms of interaction.&#xA;Smaller subprojects have addressed the following questions:&#xA;How do people expect to use gestures to interact with holograms [Pham, T., Vermeulen, J., Tang, A.</description>
     </item>
-    
     <item>
       <title>Mixed Reality Workrooms</title>
       <link>https://ricelab.github.io/projects/mixed-reality-workrooms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/mixed-reality-workrooms/</guid>
       <description>The physical workroom (left) is replicated in digital form (right), and allows remote collaborators to connect into the shared workspace. People that need to work together are not always collocated, and this presents challenges in how they can communicate, function, and collaborate with one another. In this work, we have been exploring mixed-reality workrooms, where a team has mixed presence &amp;ndash; some people are connected via a digital link, while others are physically copresent [Tang, A.</description>
     </item>
-    
     <item>
       <title>Mobile Video Conferencing</title>
       <link>https://ricelab.github.io/projects/mobile-video-conferencing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/mobile-video-conferencing/</guid>
       <description>Many near-future scenarios involve using mobile video conferencing technologies to share and make sense of remote environments. Current video conferencing tools were designed with a &amp;ldquo;talking heads&amp;rdquo; metaphor &amp;ndash; that is, people sitting in an office or meeting room chatting with other people sitting in an office or meeting room. Yet, mobile devices and mobile networks are now capable of rich, high resolution and high fidelity experiences without the ned to be physically tethered to a desk.</description>
     </item>
-    
     <item>
       <title>Personal Informatics and Analytics</title>
       <link>https://ricelab.github.io/projects/personal-informatics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/personal-informatics/</guid>
       <description>ActivityRiver allows people to track trends in their activities, thereby allowing them to plan future activities, and track differences between planned and actual activity. &amp;lt;em&amp;gt;Image source: wikihow&amp;lt;/em&amp;gt; We are now awash in data about ourselves &amp;ndash; some of which we collect on our own (e.g. FitBit), others of which are collected by us on our behalf (e.g. Google Location History), and others we are barely aware of being collected (e.</description>
     </item>
-    
     <item>
       <title>Pervasive Games and Citizen Science</title>
       <link>https://ricelab.github.io/projects/pervasive-games/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/pervasive-games/</guid>
       <description>ScienceCaching combines the fun of geocaching with the science of citizen science. Larry uses the ScienceCaching app (left) to find the site (centre), and opening the cache (right), he finds the tools for completing the citizen science task. David Fincher&amp;rsquo;s 1997 classic The Game tells the story of a live-action game that permeates a character&amp;rsquo;s entire existence. This is the inspiration for our interest in pervasive games, which allow participants to play as a part of their everyday lives.</description>
     </item>
-    
     <item>
       <title>Physiotherapy for the Future</title>
       <link>https://ricelab.github.io/projects/physiotherapy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/physiotherapy/</guid>
       <description>Physio@Home provides on-screen visual guidance for physiotherapy exercises that one would perform at home. Many soft tissue injuries are well-suited for physiotherapy intervention &amp;ndash; for instance, overuse of a shoulder, or tweaking a knee, etc. Our interest is in designing tools to support these interventions. In one exploration, we studied how to design tools for remote physiotherapy, where a client can &amp;ldquo;visit&amp;rdquo; and work with a physiotherapist via a remote video connection [Ledo, D.</description>
     </item>
-    
     <item>
       <title>Proxemic Interaction Design</title>
       <link>https://ricelab.github.io/projects/proxemics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/proxemics/</guid>
       <description>Proxemic interaction design explores how systems can use an understanding of people&amp;rsquo;s relative position, orientation and identity with one another and objects can be used to support rich interaction techniques. For example, we can design rooms that understand to turn on the lights when someone enters, and to turn them off when people leave. Similarly, we can design interactive displays to respond appropriately when someone is looking at them from a distance or up close.</description>
     </item>
-    
     <item>
       <title>Remote and Mixed-Reality Meetings</title>
       <link>https://ricelab.github.io/projects/remote-meetings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/remote-meetings/</guid>
-      <description>Meeting through a screen or a headset removes cues that people rely on without noticing: where someone is looking, or what they are pointing at. We build interfaces that put some of those cues back, and evaluate them with pairs and groups doing realistic tasks.
-Seeing yourself in a meeting Video meetings show you your own face for the whole duration of the conversation. In FaceValue [Park, G., Tang, A.</description>
+      <description>Meeting through a screen or a headset removes cues that people rely on without noticing: where someone is looking, or what they are pointing at. We build interfaces that put some of those cues back, and evaluate them with pairs and groups doing realistic tasks.&#xA;Seeing yourself in a meeting Video meetings show you your own face for the whole duration of the conversation. In FaceValue [Park, G., Tang, A.</description>
     </item>
-    
     <item>
       <title>Remote Embodiment for Shared Activity</title>
       <link>https://ricelab.github.io/projects/remote-embodiment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/remote-embodiment/</guid>
       <description>Three remote spaces are connected such that each collaborator is represented through video and audio connections, as well as arm-embodiments on the work surface. When we interact with others at a distance, we are often limited to a shared artefact (e.g. a document). We can augment this using Skype, adding both voice and audio, though frequently, this is not enough &amp;ndash; it is easy to misunderstand what someone is saying, or lose sight of what the other person is doing with respect to that document.</description>
     </item>
-    
     <item>
       <title>Slit-Tear Video Exploration</title>
       <link>https://ricelab.github.io/projects/slit-tear-video/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/slit-tear-video/</guid>
       <description>Slit-tears ease exploration of video data. Here: (1) the analyst draws to red slit tears in the video frame; (2) the timeline updates to show what happens under each tear for every frame in the video, while (3) the current frame shown is indicated by the red line. We explore the use of interactive slit-scanning for the purpose of video exploration. We show how such interactive slits (which we call slit-tears) allow for trivial identification of &amp;ldquo;interesting&amp;rdquo; events in video [Tang, A.</description>
     </item>
-    
     <item>
       <title>Social Watching of Sports</title>
       <link>https://ricelab.github.io/projects/social-watching-of-sports/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/social-watching-of-sports/</guid>
       <description>How can we mine social media to capture the excitement of live sports viewing? It turns out that people tweet while they watch sports, and just looking at the People tweet while watching sports. Some of this tweeting is of excitement, some of it is disappointment, and some of it is latent background information. In this work, we explore whether these tweets cn be leveraged to create video highlight reels of a sports match [Tang, A.</description>
     </item>
-    
     <item>
       <title>Technologies for Teaching</title>
       <link>https://ricelab.github.io/projects/teaching-technologies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/teaching-technologies/</guid>
       <description>MultiPresenter takes advantage of lecture halls with multiple projectors, allowing them to be used flexibility and independently where appropriate. In this series of works, we explore the role of large display and mobile technologies within the context of a university classroom. We explore how multiple displays can be used in ways that go beyond mirroring the display of the presenter [Lanir, J., Booth, K., and Tang, A. (2008). MultiPresenter: a presentation system for (very) large display surfaces.</description>
     </item>
-    
   </channel>
 </rss>

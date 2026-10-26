@@ -1,0 +1,15 @@
+/* Hugo-specific overrides for RICELab Arcana theme */
+
+/* Reduce header h1 bottom padding — original 2.75em is excessive with current font */
+#header h1 {
+    padding-bottom: 1em;
+}
+
+/* Prevent font-size from inflating at wide viewports (>1280px).
+   Skel.js loads style-wide.css (14pt) but not style-normal.css (13pt) at those widths,
+   so em-based spacing gets larger than intended. Cap it back to 13pt. */
+@media screen and (min-width: 1281px) {
+    body, input, select, textarea {
+        font-size: 13pt !important;
+    }
+}

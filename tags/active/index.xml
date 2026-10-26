@@ -5,56 +5,42 @@
     <link>https://ricelab.github.io/tags/active/</link>
     <description>Recent content in active on RICELab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ricelab.github.io/tags/active/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://ricelab.github.io/tags/active/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI in Learning and Feedback</title>
       <link>https://ricelab.github.io/projects/learning-and-feedback/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/learning-and-feedback/</guid>
-      <description>In learning and in feedback, an AI system can easily end up doing the work that the person needed to do themselves. We design tools that leave that effort with the learner, and study what instructors, students, and authors do with them.
-Learning by explaining Explaining something to someone else is a reliable way to understand it yourself, but it requires a listener. Does it matter who the learner thinks they are explaining to?</description>
+      <description>In learning and in feedback, an AI system can easily end up doing the work that the person needed to do themselves. We design tools that leave that effort with the learner, and study what instructors, students, and authors do with them.&#xA;Learning by explaining Explaining something to someone else is a reliable way to understand it yourself, but it requires a listener. Does it matter who the learner thinks they are explaining to?</description>
     </item>
-    
     <item>
       <title>Human-AI Collaboration in Groups</title>
       <link>https://ricelab.github.io/projects/group-conversational-agents/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/group-conversational-agents/</guid>
-      <description>Most conversational agents are built for one user at a time. Groups break that assumption: turn-taking is contested, and whatever the agent says to one person is heard by everyone else. We study how agents should behave when several people are in the conversation, and what design choices are available to someone building one.
-In a systematic review of 53 studies of group conversational agents [Yeo, S.*, Zhang, T.*, Bateman, S.</description>
+      <description>Most conversational agents are built for one user at a time. Groups break that assumption: turn-taking is contested, and whatever the agent says to one person is heard by everyone else. We study how agents should behave when several people are in the conversation, and what design choices are available to someone building one.&#xA;In a systematic review of 53 studies of group conversational agents [Yeo, S.*, Zhang, T.*, Bateman, S.</description>
     </item>
-    
     <item>
       <title>Human-Robot Interaction: Directing Embodied Agents</title>
       <link>https://ricelab.github.io/projects/human-robot-interaction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/human-robot-interaction/</guid>
-      <description>When an agent has a body and shares physical space with us, instructing it becomes a spatial and social problem. We build interaction techniques that let people tell robots and embodied agents what to do. The techniques borrow from how people already direct each other&amp;rsquo;s attention and effort, and we evaluate them in lab studies against the alternatives people would otherwise use.
-Telling an agent what to do People allocate tasks to each other with a mixture of speech, pointing, and gaze, and they rarely say everything out loud.</description>
+      <description>When an agent has a body and shares physical space with us, instructing it becomes a spatial and social problem. We build interaction techniques that let people tell robots and embodied agents what to do. The techniques borrow from how people already direct each other&amp;rsquo;s attention and effort, and we evaluate them in lab studies against the alternatives people would otherwise use.&#xA;Telling an agent what to do People allocate tasks to each other with a mixture of speech, pointing, and gaze, and they rarely say everything out loud.</description>
     </item>
-    
     <item>
       <title>Remote and Mixed-Reality Meetings</title>
       <link>https://ricelab.github.io/projects/remote-meetings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/remote-meetings/</guid>
-      <description>Meeting through a screen or a headset removes cues that people rely on without noticing: where someone is looking, or what they are pointing at. We build interfaces that put some of those cues back, and evaluate them with pairs and groups doing realistic tasks.
-Seeing yourself in a meeting Video meetings show you your own face for the whole duration of the conversation. In FaceValue [Park, G., Tang, A.</description>
+      <description>Meeting through a screen or a headset removes cues that people rely on without noticing: where someone is looking, or what they are pointing at. We build interfaces that put some of those cues back, and evaluate them with pairs and groups doing realistic tasks.&#xA;Seeing yourself in a meeting Video meetings show you your own face for the whole duration of the conversation. In FaceValue [Park, G., Tang, A.</description>
     </item>
-    
     <item>
       <title>Tony Tang</title>
       <link>https://ricelab.github.io/people/tony-tang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/people/tony-tang/</guid>
-      <description>I am an Associate Professor in the Faculty of Information at the University of Toronto. I direct the RICELab (Rethinking Interaction, Collaboration and Engagement) research group.
-My research interests are situated in Computer Supported Cooperative Work (CSCW) &amp;ndash; the study of how people work together using technology &amp;ndash; with a twist of Ubiquitous Computing &amp;ndash; technology in everyday scenarios. My current research investigates the integration of mobile devices in large display environments, exploration into personal informatics, and telecommunication technologies for collaborative work.</description>
+      <description>I am an Associate Professor in the Faculty of Information at the University of Toronto. I direct the RICELab (Rethinking Interaction, Collaboration and Engagement) research group.&#xA;My research interests are situated in Computer Supported Cooperative Work (CSCW) &amp;ndash; the study of how people work together using technology &amp;ndash; with a twist of Ubiquitous Computing &amp;ndash; technology in everyday scenarios. My current research investigates the integration of mobile devices in large display environments, exploration into personal informatics, and telecommunication technologies for collaborative work.</description>
     </item>
-    
   </channel>
 </rss>

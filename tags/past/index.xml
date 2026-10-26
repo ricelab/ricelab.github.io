@@ -5,72 +5,56 @@
     <link>https://ricelab.github.io/tags/past/</link>
     <description>Recent content in past on RICELab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ricelab.github.io/tags/past/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://ricelab.github.io/tags/past/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>360 Video Interaction</title>
       <link>https://ricelab.github.io/projects/360video/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/360video/</guid>
       <description>360 video cameras provide an omnidirectional view on the world around us, and new opportunities to explore those views. Videos from these devices, in particular, afford us new ways to see and understand the world, as well as certain kinds of freedoms to explore these recorded experiences. Our work in this space has explored new ways to take advantage of the media &amp;ndash; both in &amp;ldquo;single user&amp;rdquo; kinds of scenarios, where we are exploring spaces on our own, as well as in &amp;ldquo;multi user&amp;rdquo; kinds of experiences, where we are exploring the spaces with others.</description>
     </item>
-    
     <item>
       <title>Electronic Fashion</title>
       <link>https://ricelab.github.io/projects/efashion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/efashion/</guid>
       <description>The mannequette is a prototyping platform for electronic fashion garments. It is used in different ways: (a) in-situ, iterating and deciding upon fabrics at a market; (b) for prototyping light (LED) patterns and sensors on a miniature dress form with fabrics by using the mixer; (c) for integrating a previously prototyped and now completed pattern and sensor interactions into an assembled garment; (d) in a completed garment created in a runway show.</description>
     </item>
-    
     <item>
       <title>Games and Leisure</title>
       <link>https://ricelab.github.io/projects/games/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/games/</guid>
-      <description>Games are an important piece of the social fabric in our everyday lives. They help us build relationships with one another, and us with a fantasy space to practice working with and competing against others.
-A physical Sphero can be controlled by tilting a corresponding &amp;lt;em&amp;gt;control sphero&amp;lt;/em&amp;gt; in the desired direction of movement. We have a continuing interest in games &amp;ndash; and I don&amp;rsquo;t just mean in terms of playing them!</description>
+      <description>Games are an important piece of the social fabric in our everyday lives. They help us build relationships with one another, and us with a fantasy space to practice working with and competing against others.&#xA;A physical Sphero can be controlled by tilting a corresponding &amp;lt;em&amp;gt;control sphero&amp;lt;/em&amp;gt; in the desired direction of movement. We have a continuing interest in games &amp;ndash; and I don&amp;rsquo;t just mean in terms of playing them!</description>
     </item>
-    
     <item>
       <title>Haptics in VR</title>
       <link>https://ricelab.github.io/projects/haptics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/haptics/</guid>
-      <description>Virtual Reality experiences typically focus on the visual aspects of immersion. This project has explored the challenges of creating haptic experiences for such immersive experiences &amp;ndash; first through the use of tangible devices, and then through the use of visio-haptic illusions.
-One way to create haptic experiences is through the use of tangible devices &amp;ndash; that is, things that you can physically hold and feel. Yet, the challenge with this is that we may have fantastical items in VR that are difficult to re-create in real life.</description>
+      <description>Virtual Reality experiences typically focus on the visual aspects of immersion. This project has explored the challenges of creating haptic experiences for such immersive experiences &amp;ndash; first through the use of tangible devices, and then through the use of visio-haptic illusions.&#xA;One way to create haptic experiences is through the use of tangible devices &amp;ndash; that is, things that you can physically hold and feel. Yet, the challenge with this is that we may have fantastical items in VR that are difficult to re-create in real life.</description>
     </item>
-    
     <item>
       <title>Human-AI Collaboration</title>
       <link>https://ricelab.github.io/projects/hai-collaboration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/hai-collaboration/</guid>
       <description>A major focus of our current work is to explore how to design effective interfaces for human-AI collaboration. This framing of interaction draws focus away from the idea of computation (as in human-computer interaction), and rather on the idea of computation that can assist and amplify human activity through interactive collaboration. Collaboration, as we understand it, involves multiple turns for interacting, as well as a commitment to help and assist one another.</description>
     </item>
-    
     <item>
       <title>Livestreaming and Autistic Creators</title>
       <link>https://ricelab.github.io/projects/autistic-livestreaming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/autistic-livestreaming/</guid>
-      <description>Livestreaming asks a creator to perform continuously for an audience that talks back in real time. Several of the autistic streamers we spoke with described this as among the most meaningful social activity available to them. This project studied what livestreaming offers autistic adults, at what cost, and what platform and tool design could do about the cost.
-Understanding the practice We began by building Audience Bot, a chatbot that simulates an audience for a novice streamer to perform to, and ran an observational lab study of people learning to play and perform at the same time [Mok, T.</description>
+      <description>Livestreaming asks a creator to perform continuously for an audience that talks back in real time. Several of the autistic streamers we spoke with described this as among the most meaningful social activity available to them. This project studied what livestreaming offers autistic adults, at what cost, and what platform and tool design could do about the cost.&#xA;Understanding the practice We began by building Audience Bot, a chatbot that simulates an audience for a novice streamer to perform to, and ran an observational lab study of people learning to play and perform at the same time [Mok, T.</description>
     </item>
-    
     <item>
       <title>Proxemic Interaction Design</title>
       <link>https://ricelab.github.io/projects/proxemics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ricelab.github.io/projects/proxemics/</guid>
       <description>Proxemic interaction design explores how systems can use an understanding of people&amp;rsquo;s relative position, orientation and identity with one another and objects can be used to support rich interaction techniques. For example, we can design rooms that understand to turn on the lights when someone enters, and to turn them off when people leave. Similarly, we can design interactive displays to respond appropriately when someone is looking at them from a distance or up close.</description>
     </item>
-    
   </channel>
 </rss>
