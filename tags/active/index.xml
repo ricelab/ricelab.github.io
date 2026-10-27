@@ -1,46 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>active on RICELab</title>
-    <link>https://ricelab.github.io/tags/active/</link>
-    <description>Recent content in active on RICELab</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="https://ricelab.github.io/tags/active/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>AI in Learning and Feedback</title>
-      <link>https://ricelab.github.io/projects/learning-and-feedback/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ricelab.github.io/projects/learning-and-feedback/</guid>
-      <description>In learning and in feedback, an AI system can easily end up doing the work that the person needed to do themselves. We design tools that leave that effort with the learner, and study what instructors, students, and authors do with them.&#xA;Learning by explaining Explaining something to someone else is a reliable way to understand it yourself, but it requires a listener. Does it matter who the learner thinks they are explaining to?</description>
-    </item>
-    <item>
-      <title>Human-AI Collaboration in Groups</title>
-      <link>https://ricelab.github.io/projects/group-conversational-agents/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ricelab.github.io/projects/group-conversational-agents/</guid>
-      <description>Most conversational agents are built for one user at a time. Groups break that assumption: turn-taking is contested, and whatever the agent says to one person is heard by everyone else. We study how agents should behave when several people are in the conversation, and what design choices are available to someone building one.&#xA;In a systematic review of 53 studies of group conversational agents [Yeo, S.*, Zhang, T.*, Bateman, S.</description>
-    </item>
-    <item>
-      <title>Human-Robot Interaction: Directing Embodied Agents</title>
-      <link>https://ricelab.github.io/projects/human-robot-interaction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ricelab.github.io/projects/human-robot-interaction/</guid>
-      <description>When an agent has a body and shares physical space with us, instructing it becomes a spatial and social problem. We build interaction techniques that let people tell robots and embodied agents what to do. The techniques borrow from how people already direct each other&amp;rsquo;s attention and effort, and we evaluate them in lab studies against the alternatives people would otherwise use.&#xA;Telling an agent what to do People allocate tasks to each other with a mixture of speech, pointing, and gaze, and they rarely say everything out loud.</description>
-    </item>
-    <item>
-      <title>Remote and Mixed-Reality Meetings</title>
-      <link>https://ricelab.github.io/projects/remote-meetings/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ricelab.github.io/projects/remote-meetings/</guid>
-      <description>Meeting through a screen or a headset removes cues that people rely on without noticing: where someone is looking, or what they are pointing at. We build interfaces that put some of those cues back, and evaluate them with pairs and groups doing realistic tasks.&#xA;Seeing yourself in a meeting Video meetings show you your own face for the whole duration of the conversation. In FaceValue [Park, G., Tang, A.</description>
-    </item>
-    <item>
-      <title>Tony Tang</title>
-      <link>https://ricelab.github.io/people/tony-tang/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ricelab.github.io/people/tony-tang/</guid>
-      <description>I am an Associate Professor in the Faculty of Information at the University of Toronto. I direct the RICELab (Rethinking Interaction, Collaboration and Engagement) research group.&#xA;My research interests are situated in Computer Supported Cooperative Work (CSCW) &amp;ndash; the study of how people work together using technology &amp;ndash; with a twist of Ubiquitous Computing &amp;ndash; technology in everyday scenarios. My current research investigates the integration of mobile devices in large display environments, exploration into personal informatics, and telecommunication technologies for collaborative work.</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Active on RICELab</title>
+		<link>https://ricelab.github.io/tags/active/</link>
+		<description>Recent content in Active on RICELab</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="https://ricelab.github.io/tags/active/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>AI in Learning and Feedback</title>
+				<link>https://ricelab.github.io/projects/learning-and-feedback/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://ricelab.github.io/projects/learning-and-feedback/</guid>
+				<description>&lt;!-- 160x144 --&gt;&#xA;&lt;p&gt;In learning and in feedback, an AI system can easily end up doing the work that the person needed to do themselves. We design tools that leave that effort with the learner, and study what instructors, students, and authors do with them.&lt;/p&gt;&#xA;&lt;h2 id=&#34;learning-by-explaining&#34;&gt;Learning by explaining&lt;/h2&gt;&#xA;&lt;p&gt;Explaining something to someone else is a reliable way to understand it yourself, but it requires a listener. Does it matter who the learner thinks they are explaining to? We built conversational agents that play three pedagogical roles — Tutee, Peer, and Challenger — and compared them against a control in a between-subjects study with 96 participants learning an economics concept &#xA;&#xA;    &#xA;    &#xA;    [&lt;a href=&#34;https://ricelab.github.io/papers/xu2026whoyouexplain/&#34; title=&#34;Xu, Z., Zhang, J., Tang, A., and Lee, Y. (2026). Who You Explain To Matters: Learning by Explaining to Conversational Agents with Different Pedagogical Roles. In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI &amp;#39;26).&#34;&gt;Xu, Z., Zhang, J., Tang, A., and Lee, Y. (2026). &lt;strong&gt;Who You Explain To Matters: Learning by Explaining to Conversational Agents with Different Pedagogical Roles.&lt;/strong&gt; In &lt;em&gt;Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI &#39;26)&lt;/em&gt;.&lt;/a&gt;]&#xA;&#xA;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Human-AI Collaboration in Groups</title>
+				<link>https://ricelab.github.io/projects/group-conversational-agents/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://ricelab.github.io/projects/group-conversational-agents/</guid>
+				<description>&lt;!-- 160x144 --&gt;&#xA;&lt;p&gt;Most conversational agents are built for one user at a time. Groups break that assumption: turn-taking is contested, and whatever the agent says to one person is heard by everyone else. We study how agents should behave when several people are in the conversation, and what design choices are available to someone building one.&lt;/p&gt;&#xA;&lt;p&gt;In a systematic review of 53 studies of group conversational agents &#xA;&#xA;    &#xA;    &#xA;    [&lt;a href=&#34;https://ricelab.github.io/papers/yeo2026group/&#34; title=&#34;Yeo, S.*, Zhang, T.*, Bateman, S., Hsieh, G., Kim, Y., Perrault, S., Li, J., and Tang, A. (2026). Group Conversational Agents: A Review of Designs that Support and Shape Group Interaction. In Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS &amp;#39;26).&#34;&gt;Yeo, S.*, Zhang, T.*, Bateman, S., Hsieh, G., Kim, Y., Perrault, S., Li, J., and Tang, A. (2026). &lt;strong&gt;Group Conversational Agents: A Review of Designs that Support and Shape Group Interaction.&lt;/strong&gt; In &lt;em&gt;Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS &#39;26)&lt;/em&gt;.&lt;/a&gt;]&#xA;&#xA;, we characterised how these systems intervene in group-level processes, and identified where designers currently work without guidance.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Human-Robot Interaction: Directing Embodied Agents</title>
+				<link>https://ricelab.github.io/projects/human-robot-interaction/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://ricelab.github.io/projects/human-robot-interaction/</guid>
+				<description>&lt;!-- 160x144 --&gt;&#xA;&lt;p&gt;When an agent has a body and shares physical space with us, instructing it becomes a spatial and social problem. We build interaction techniques that let people tell robots and embodied agents what to do. The techniques borrow from how people already direct each other&amp;rsquo;s attention and effort, and we evaluate them in lab studies against the alternatives people would otherwise use.&lt;/p&gt;&#xA;&lt;h2 id=&#34;telling-an-agent-what-to-do&#34;&gt;Telling an agent what to do&lt;/h2&gt;&#xA;&lt;p&gt;People allocate tasks to each other with a mixture of speech, pointing, and gaze, and they rarely say everything out loud. In Grip-that-there &#xA;&#xA;    &#xA;    &#xA;    [&lt;a href=&#34;https://ricelab.github.io/papers/mahadevan2021hri/&#34; title=&#34;Mahadevan, K., Sousa, M., Tang, A., and Grossman, T. (2021). &amp;#34;Grip-that-there&amp;#34;: An Investigation of Explicit and Implicit Task Allocation Techniques for Human-Robot Collaboration. In CHI 2021: Proceedings of the 2021 SIGCHI Conference on Human Factors in Computing Systems.&#34;&gt;Mahadevan, K., Sousa, M., Tang, A., and Grossman, T. (2021). &lt;strong&gt;&#34;Grip-that-there&#34;: An Investigation of Explicit and Implicit Task Allocation Techniques for Human-Robot Collaboration.&lt;/strong&gt; In &lt;em&gt;CHI 2021: Proceedings of the 2021 SIGCHI Conference on Human Factors in Computing Systems&lt;/em&gt;.&lt;/a&gt;]&#xA;&#xA; we built explicit and implicit techniques for allocating tasks to a robot and compared them in a 16-participant block-stacking study. Mimic &#xA;&#xA;    &#xA;    &#xA;    [&lt;a href=&#34;https://ricelab.github.io/papers/mahadevan2022mimic/&#34; title=&#34;Mahadevan, K., Chen, Y., Cakmak, M., Tang, A., and Grossman, T. (2022). Mimic: In-Situ Recording and Re-Use of Demonstrations to Support Robot Teleoperation. In UIST 2022: The 35th Annual ACM Symposium on User Interface Software and Technology.&#34;&gt;Mahadevan, K., Chen, Y., Cakmak, M., Tang, A., and Grossman, T. (2022). &lt;strong&gt;Mimic: In-Situ Recording and Re-Use of Demonstrations to Support Robot Teleoperation.&lt;/strong&gt; In &lt;em&gt;UIST 2022: The 35th Annual ACM Symposium on User Interface Software and Technology&lt;/em&gt;.&lt;/a&gt;]&#xA;&#xA; lets a teleoperator save a demonstrated trajectory as a template and re-use it in new situations; we evaluated it against direct control in a simulated environment.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Remote and Mixed-Reality Meetings</title>
+				<link>https://ricelab.github.io/projects/remote-meetings/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://ricelab.github.io/projects/remote-meetings/</guid>
+				<description>&lt;!-- 160x144 --&gt;&#xA;&lt;p&gt;Meeting through a screen or a headset removes cues that people rely on without noticing: where someone is looking, or what they are pointing at. We build interfaces that put some of those cues back, and evaluate them with pairs and groups doing realistic tasks.&lt;/p&gt;&#xA;&lt;h2 id=&#34;seeing-yourself-in-a-meeting&#34;&gt;Seeing yourself in a meeting&lt;/h2&gt;&#xA;&lt;p&gt;Video meetings show you your own face for the whole duration of the conversation. In FaceValue &#xA;&#xA;    &#xA;    &#xA;    [&lt;a href=&#34;https://ricelab.github.io/papers/park2026facevalue/&#34; title=&#34;Park, G., Tang, A., and Chevalier, F. (2026). FaceValue: Exploring Real-Time Self-View Overlays to Prompt Meaning-Oriented Self-Awareness in Remote Meetings. In Proceedings of the ACM on Human-Computer Interaction.&#34;&gt;Park, G., Tang, A., and Chevalier, F. (2026). &lt;strong&gt;FaceValue: Exploring Real-Time Self-View Overlays to Prompt Meaning-Oriented Self-Awareness in Remote Meetings.&lt;/strong&gt; In &lt;em&gt;Proceedings of the ACM on Human-Computer Interaction&lt;/em&gt;.&lt;/a&gt;]&#xA;&#xA; we designed real-time overlays on that self-view, intended to prompt meaning-oriented self-awareness rather than appearance-oriented self-consciousness, and studied how they changed what people attended to while meeting.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Tony Tang</title>
+				<link>https://ricelab.github.io/people/tony-tang/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://ricelab.github.io/people/tony-tang/</guid>
+				<description>&lt;p&gt;I am an Associate Professor in the &lt;a href=&#34;http://ischool.utoronto.ca/&#34;&gt;Faculty of Information&lt;/a&gt; at the University of Toronto. I direct the RICELab (Rethinking Interaction, Collaboration and Engagement) research group.&lt;/p&gt;&#xA;&lt;p&gt;My research interests are situated in Computer Supported Cooperative Work (CSCW) &amp;ndash; the study of how people work together using technology &amp;ndash; with a twist of Ubiquitous Computing &amp;ndash; technology in everyday scenarios. My current research investigates the integration of mobile devices in large display environments, exploration into personal informatics, and telecommunication technologies for collaborative work.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
